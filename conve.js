@@ -1,7 +1,9 @@
 const fetch = require('node-fetch');
 
-// 改成你的远程TXT链接 / m3u链接都行
 const M3U_SOURCE = "https://live.445569.xyz/live.m3u";
+
+// 广告关键词列表，命中直接整组跳过
+const adKeywords = ["广告", "购物", "付费", "商城", "游戏推广", "财经广告", "弹窗"];
 
 async function run() {
   try {
@@ -13,11 +15,9 @@ async function run() {
     const content = await res.text();
 
     let output = "";
-    // 如果是txt后缀，直接原样保存
     if (M3U_SOURCE.endsWith('.txt')) {
       output = content;
     } else {
-      // m3u 原有转换逻辑不变
       let lines = content.split('\n');
       let nowGroup = "未分组";
       let channelName = "";
@@ -27,6 +27,7 @@ async function run() {
         line = line.trim();
         if (!line) continue;
         if (line.startsWith("#EXTM3U") || line.startsWith("#EXTVLCOPT")) continue;
+
         if (line.startsWith("#EXTINF:")) {
           const gMatch = line.match(/group-title="([^"]+)"/);
           if (gMatch) nowGroup = gMatch[1];
@@ -34,7 +35,13 @@ async function run() {
           if (nMatch) channelName = nMatch[1].trim();
           continue;
         }
+
         if (line.startsWith("http")) {
+          // ========== 去广告核心代码 ==========
+          let isAdGroup = adKeywords.some(word => nowGroup.includes(word) || channelName.includes(word));
+          if (isAdGroup) continue;
+          // ====================================
+
           if (!groupDone.has(nowGroup)) {
             output += `${nowGroup},#genre#\n`;
             groupDone.add(nowGroup);
@@ -47,7 +54,7 @@ async function run() {
 
     const fs = require('fs');
     fs.writeFileSync("./live.txt", output, "utf8");
-    console.log("处理完成");
+    console.log("处理完成，广告已过滤");
   } catch (e) {
     console.error("报错：", e.message);
     process.exit(1);
