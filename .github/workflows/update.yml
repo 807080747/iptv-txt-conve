@@ -1,0 +1,33 @@
+name: Auto Convert IPTV
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 拉取仓库代码
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 安装Node环境
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: 安装依赖
+        run: npm install
+
+      - name: 执行转换脚本
+        run: node convert.js
+
+      - name: 提交更新后的 live.txt
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add live.txt
+          git commit -m "Auto update iptv list" || echo "无内容无需提交"
+          git push
