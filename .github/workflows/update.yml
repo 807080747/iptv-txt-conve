@@ -1,4 +1,4 @@
-name: Auto Convert IPTV
+name: Auto Conve IPTV
 on:
   schedule:
     - cron: '*/30 * * * *'
@@ -22,7 +22,7 @@ jobs:
         run: npm install
 
       - name: 执行转换脚本
-        run: node convert.js
+        run: node conve.js
 
       - name: 提交更新后的 live.txt
         run: |
