@@ -1,7 +1,7 @@
 const fetch = require('node-fetch');
 
 // 你的M3U源地址，改成你自己的
-const M3U_SOURCE = "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u";
+const M3U_SOURCE = "https://seep.eu.org/https://live.445569.xyz/live.m3u";
 
 async function run() {
   try {
