@@ -31,6 +31,7 @@ async function run() {
         if (nMatch) channelName = nMatch[1].trim();
         continue;
       }
+      if(nowGroup.includes("广告") || nowGroup.includes("付费")) continue;
 
       if (line.startsWith("http")) {
         if (!groupDone.has(nowGroup)) {
