@@ -1,6 +1,6 @@
 const fetch = require('node-fetch');
 
-// 源列表，支持 m3u / txt
+// =========在这里添加所有源，txt、m3u都支持=========
 const SOURCE_LIST = [
   "https://wget.la/https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt",
   "https://live.445569.xyz/live.m3u"
@@ -15,17 +15,14 @@ async function run() {
   const groupDone = new Set();
 
   for (const sourceUrl of SOURCE_LIST) {
-    console.log(`\n===== 正在读取源: ${sourceUrl} =====`);
+    console.log(`\n=====正在读取源：${sourceUrl}=====`);
     try {
       const res = await fetch(sourceUrl, {
-        headers: {
-          "User-Agent": "Mozilla/5.0",
-          "Accept": "*/*"
-        },
+        headers: { "User-Agent": "Mozilla/5.0" },
         timeout: 12000
       });
       if (!res.ok) {
-        console.log(`❌访问失败，状态码: ${res.status}`);
+        console.log(`❌访问失败，状态码:${res.status}`);
         continue;
       }
       const content = await res.text();
@@ -39,13 +36,10 @@ async function run() {
         const rawLine = line.trim();
         if (!rawLine) continue;
 
-        // M3U 频道信息行 #EXTINF
+        // M3U #EXTINF 行
         if (rawLine.startsWith("#EXTINF:")) {
-          nowGroup = "未分组";
-          // 提取分组 group-title="xxx"
           const gMatch = rawLine.match(/group-title="([^"]+)"/);
           if (gMatch) nowGroup = gMatch[1].trim();
-          // 提取频道名称，逗号后面就是频道名
           const nMatch = rawLine.match(/,(.*)$/);
           if (nMatch && nMatch[1].trim()) {
             channelName = nMatch[1].trim();
@@ -63,35 +57,33 @@ async function run() {
         }
 
         // TXT格式：频道名,url
-        if (rawLine.includes(',') && !rawLine.startsWith('#')) {
+        if (rawLine.includes(',') && !rawLine.startsWith("#")) {
           const parts = rawLine.split(',');
-          channelName = parts[0].trim() || "未知频道";
-          const streamUrl = parts[1].trim();
-          pushChannel(channelName, streamUrl, nowGroup);
+          const cName = parts[0].trim() || "未知频道";
+          const cUrl = parts[1].trim();
+          pushChannel(cName, cUrl, nowGroup);
           continue;
         }
 
-        // M3U播放链接（http开头，紧跟#EXTINF后面）
+        // M3U 播放链接 http行
         if (rawLine.startsWith("http")) {
-          const streamUrl = rawLine.trim();
-          pushChannel(channelName, streamUrl, nowGroup);
+          pushChannel(channelName, rawLine, nowGroup);
         }
       }
     } catch (err) {
-      console.error(`❌读取源异常：${sourceUrl}，错误信息：${err.message}`);
+      console.error(`❌读取源出错：${sourceUrl}，${err.message}`);
     }
   }
 
-  // 所有源处理完成，追加未分组频道到文件末尾
+  // 所有分组频道写完，追加未分组频道到末尾
   totalOutput += ungroupedChannels.join("");
 
   const fs = require('fs');
   fs.writeFileSync("./live.txt", totalOutput, "utf8");
-  console.log("\n✅全部源处理完毕！");
+  console.log("\n✅全部源处理完成！");
 
-  // 频道写入函数
+  // 频道处理函数（过滤+分组归类）
   function pushChannel(name, url, group) {
-    // 广告过滤
     const isAd = adKeywords.some(word => name.includes(word));
     const invalidUrl = !url.startsWith("http");
     if (isAd || invalidUrl) return;
