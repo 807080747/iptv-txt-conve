@@ -3,7 +3,7 @@ const fetch = require('node-fetch');
 const SOURCE_LIST = [
   "https://wget.la/https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt",
   // 该源在GitHub Actions大概率网络被拦截
-  "https://live.445569.xyz/live.m3u"
+  "https://a.zbbs.eu.org/https://live.445569.xyz/live.m3u"
 ];
 
 const adKeywords = ["广告", "购物", "付费", "商城", "游戏推广", "财经广告", "弹窗", "TG频道"];
