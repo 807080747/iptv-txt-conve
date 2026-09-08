@@ -1,12 +1,12 @@
 const fetch = require('node-fetch');
 
-// =========在这里添加多个源，txt、m3u都支持=========
+// =========在这里添加所有源，txt、m3u都支持=========
 const SOURCE_LIST = [
   "https://wget.la/https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt",
-  "https://a.zbbs.eu.org/https://live.445569.xyz/live.m3u"
+  "https://wget.la/https://live.445569.xyz/live.m3u"
 ];
 
-// 广告关键词，命中就过滤，有新广告直接在这里追加
+// 广告关键词
 const adKeywords = ["广告", "购物", "付费", "商城", "游戏推广", "财经广告", "弹窗", "TG频道"];
 
 async function run() {
@@ -31,13 +31,12 @@ async function run() {
 
       let nowGroup = "未分组";
       let channelName = "未知频道";
-      let parseCount = 0;
 
       for (const line of lines) {
         const rawLine = line.trim();
         if (!rawLine) continue;
 
-        // M3U #EXTINF 行，提取分组和频道名
+        // M3U #EXTINF 行
         if (rawLine.startsWith("#EXTINF:")) {
           const gMatch = rawLine.match(/group-title="([^"]+)"/);
           if (gMatch) nowGroup = gMatch[1].trim();
@@ -63,17 +62,14 @@ async function run() {
           const cName = parts[0].trim() || "未知频道";
           const cUrl = parts[1].trim();
           pushChannel(cName, cUrl, nowGroup);
-          parseCount++;
           continue;
         }
 
         // M3U 播放链接 http行
         if (rawLine.startsWith("http")) {
           pushChannel(channelName, rawLine, nowGroup);
-          parseCount++;
         }
       }
-      console.log(`ℹ️本源解析得到频道数量:${parseCount}`);
     } catch (err) {
       console.error(`❌读取源出错：${sourceUrl}，${err.message}`);
     }
@@ -86,10 +82,9 @@ async function run() {
   fs.writeFileSync("./live.txt", totalOutput, "utf8");
   console.log("\n✅全部源处理完成！");
 
-  // 频道处理函数：广告过滤 + 分组归类
+  // 频道处理函数（过滤+分组归类）
   function pushChannel(name, url, group) {
-    // 广告判断：分组名 OR 频道名命中关键词直接跳过
-    const isAd = adKeywords.some(word => name.includes(word) || group.includes(word));
+    const isAd = adKeywords.some(word => name.includes(word));
     const invalidUrl = !url.startsWith("http");
     if (isAd || invalidUrl) return;
 
