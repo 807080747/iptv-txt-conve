@@ -1,4 +1,5 @@
 const fetch = require('node-fetch');
+const fs = require('fs');
 
 // =========在这里添加所有源，txt、m3u都支持=========
 const SOURCE_LIST = [
@@ -9,10 +10,17 @@ const SOURCE_LIST = [
 // 广告关键词
 const adKeywords = ["广告", "购物", "付费", "商城", "游戏推广", "财经广告", "弹窗", "TG频道"];
 
+// 已记录的链接，用于去重
+const seenUrlSet = new Set();
+let totalCount = 0;
+let adFilterCount = 0;
+
 async function run() {
   let totalOutput = "";
   let ungroupedChannels = [];
   const groupDone = new Set();
+  // 记录哪些分组是广告分组，该分组全部丢弃
+  const adGroupSet = new Set();
 
   for (const sourceUrl of SOURCE_LIST) {
     console.log(`\n=====正在读取源：${sourceUrl}=====`);
@@ -52,6 +60,12 @@ async function run() {
         // TXT分组标记 xxx,#genre#
         if (rawLine.endsWith(",#genre#")) {
           nowGroup = rawLine.split(',')[0].trim();
+          // 判断分组名是否广告
+          const isGroupAd = adKeywords.some(word => nowGroup.includes(word));
+          if(isGroupAd){
+            adGroupSet.add(nowGroup);
+            console.log(`⚠️发现广告分组：${nowGroup}，将全部过滤`);
+          }
           channelName = "未知频道";
           continue;
         }
@@ -75,28 +89,44 @@ async function run() {
     }
   }
 
-  // 所有分组频道写完，追加未分组频道到末尾
-  totalOutput += ungroupedChannels.join("");
+  // 写入【未分组】标题
+  if (ungroupedChannels.length > 0) {
+    totalOutput += "未分组,#genre#\n";
+    totalOutput += ungroupedChannels.join("");
+  }
 
-  const fs = require('fs');
   fs.writeFileSync("./live.txt", totalOutput, "utf8");
-  console.log("\n✅全部源处理完成！");
+  console.log(`\n✅全部源处理完成！`);
+  console.log(`📊统计：有效频道 ${totalCount} 个，过滤广告 ${adFilterCount} 个`);
+}
 
-  // 频道处理函数（过滤+分组归类）
-  function pushChannel(name, url, group) {
-    const isAd = adKeywords.some(word => name.includes(word));
-    const invalidUrl = !url.startsWith("http");
-    if (isAd || invalidUrl) return;
+// 频道处理函数（过滤广告 + 链接去重 + 分组归类）
+function pushChannel(name, url, group) {
+  // 如果当前属于广告分组，直接跳过
+  if(adGroupSet.has(group)) return;
 
-    if (group === "未分组") {
-      ungroupedChannels.push(`${name},${url}\n`);
-    } else {
-      if (!groupDone.has(group)) {
-        totalOutput += `${group},#genre#\n`;
-        groupDone.add(group);
-      }
-      totalOutput += `${name},${url}\n`;
+  // 广告过滤
+  const isAd = adKeywords.some(word => name.includes(word));
+  if (isAd) {
+    adFilterCount++;
+    return;
+  }
+  // 无效链接过滤
+  if (!url.startsWith("http")) return;
+  // 链接去重，相同url直接跳过
+  if (seenUrlSet.has(url)) return;
+
+  seenUrlSet.add(url);
+  totalCount++;
+
+  if (group === "未分组") {
+    ungroupedChannels.push(`${name},${url}\n`);
+  } else {
+    if (!groupDone.has(group)) {
+      totalOutput += `${group},#genre#\n`;
+      groupDone.add(group);
     }
+    totalOutput += `${name},${url}\n`;
   }
 }
 
