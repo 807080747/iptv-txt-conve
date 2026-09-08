@@ -1,6 +1,6 @@
 const fetch = require('node-fetch');
 
-const M3U_SOURCE = "https://a.zbbs.eu.org/https://live.445569.xyz/live.m3u";
+const M3U_SOURCE = "https://wget.la/https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt";
 
 // 广告关键词列表，命中直接整组跳过
 const adKeywords = ["广告", "购物", "付费", "商城", "游戏推广", "财经广告", "弹窗", "TG频道"];
