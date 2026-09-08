@@ -15,6 +15,7 @@ async function run() {
     const content = await res.text();
 
     let output = "";
+    let ungroupedChannels = []; // 单独存放未分组频道
     let lines = content.split('\n');
     let nowGroup = "未分组";
     const groupDone = new Set();
@@ -36,29 +37,34 @@ async function run() {
         const streamUrl = parts[1].trim();
 
         // 过滤规则
-        // 1. 频道名包含广告关键词
         const isAd = adKeywords.some(word => channelName.includes(word));
-        // 2. 频道名称为空
         const emptyName = !channelName;
-        // 3. 链接不是http开头的无效地址
         const invalidUrl = !streamUrl.startsWith("http");
 
         if (isAd || emptyName || invalidUrl) {
           continue;
         }
 
-        // 写入分组标题（所有分组都保留，包含未分组）
-        if (!groupDone.has(nowGroup)) {
-          output += `${nowGroup},#genre#\n`;
-          groupDone.add(nowGroup);
+        if (nowGroup === "未分组") {
+          // 未分组频道，放进数组暂存，不直接写入output
+          ungroupedChannels.push(`${channelName},${streamUrl}\n`);
+        } else {
+          // 正常分组频道，直接写入
+          if (!groupDone.has(nowGroup)) {
+            output += `${nowGroup},#genre#\n`;
+            groupDone.add(nowGroup);
+          }
+          output += `${channelName},${streamUrl}\n`;
         }
-        output += `${channelName},${streamUrl}\n`;
       }
     }
 
+    // 全部正常分组写完之后，追加所有未分组频道到文件末尾
+    output += ungroupedChannels.join("");
+
     const fs = require('fs');
     fs.writeFileSync("./live.txt", output, "utf8");
-    console.log("✅处理完成：广告、空频道、无效链接已过滤");
+    console.log("✅处理完成：正常分组在前，未分组频道放在末尾，无未分组标题");
   } catch (e) {
     console.error("❌报错：", e.message);
     process.exit(1);
