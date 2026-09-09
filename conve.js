@@ -4,6 +4,7 @@ const fetch = require('node-fetch');
 const SOURCE_LIST = [
   "https://wget.la/https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt",
   "https://a.zbbs.eu.org/https://live.445569.xyz/live.m3u"
+  "https://iptv.852851.xyz/sub/ebMaVCuF6lTu/playlist.m3u"
 ];
 
 // 广告关键词
