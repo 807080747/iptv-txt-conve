@@ -2,7 +2,6 @@ const fetch = require('node-fetch');
 
 // =========在这里添加所有源，txt、m3u都支持=========
 const SOURCE_LIST = [
-  
   "https://a.zbbs.eu.org/https://live.445569.xyz/live.m3u",
   "https://a.zbbs.eu.org/https://iptv.852851.xyz/sub/ebMaVCuF6lTu/playlist.m3u",
   "https://gh-proxy.org/https://raw.githubusercontent.com/pan8664716/MultiLive/main/output/douyin_live.m3u"
@@ -86,7 +85,8 @@ async function run() {
 
   // 频道处理函数（过滤+分组归类）
   function pushChannel(name, url, group) {
-    const isAd = adKeywords.some(word => name.includes(word));
+    // 修复：同时判断【频道名】和【分组名】是否含广告关键词
+    const isAd = adKeywords.some(word => name.includes(word) || group.includes(word));
     const invalidUrl = !url.startsWith("http");
     if (isAd || invalidUrl) return;
 
