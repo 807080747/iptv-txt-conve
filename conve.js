@@ -2,7 +2,7 @@ const fetch = require('node-fetch');
 
 // =========在这里添加所有源，txt、m3u都支持=========
 const SOURCE_LIST = [
-  "https://raw.githubusercontent.com/807080747/zv/refs/heads/main/sese.txt",
+  "https://a.zbbs.eu.org/https://jh520.ccwu.cc/",
   "https://gh-proxy.org/https://iptv.852851.xyz/sub/ebMaVCuF6lTu/playlist.m3u"
 ];
 
