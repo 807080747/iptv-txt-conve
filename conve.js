@@ -2,7 +2,7 @@ const fetch = require('node-fetch');
 
 // =========在这里添加所有源，txt、m3u都支持=========
 const SOURCE_LIST = [
-"http://ke.html-5.me/i/520.m3u","https://gh-proxy.org/https://iptv.852851.xyz/sub/ebMaVCuF6lTu/playlist.m3u","https://a.zbbs.eu.org/https://iptv.445569.xyz/live.m3u",
+"https://a.zbbs.eu.org/https://iptv.445569.xyz/live.m3u",
 ];
 
 // 广告关键词
