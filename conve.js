@@ -2,7 +2,7 @@ const fetch = require('node-fetch');
 
 // =========在这里添加所有源，txt、m3u都支持=========
 const SOURCE_LIST = [
-"https://a.zbbs.eu.org/http://tv123.vvvv.ee/tv.m3u","https://a.zbbs.eu.org/https://iptv.445569.xyz/live.m3u",
+"https://wget.la/https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt","https://a.zbbs.eu.org/https://iptv.445569.xyz/live.m3u",
   
 ];
 
