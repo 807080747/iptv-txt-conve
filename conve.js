@@ -4,7 +4,6 @@ const fetch = require('node-fetch');
 const SOURCE_LIST = [
 "https://a.zbbs.eu.org/https://iptv.445569.xyz/live.m3u",
 ];
-
 // 广告关键词
 const adKeywords = ["广告", "购物", "付费", "商城", "游戏推广", "财经广告", "弹窗", "TG频道"];
 
