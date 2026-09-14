@@ -2,7 +2,7 @@ const fetch = require('node-fetch');
 
 // =========在这里添加所有源，txt、m3u都支持=========
 const SOURCE_LIST = [
-"https://php.946985.filegear-sg.me/jackTV.m3u","https://iptv.445569.xyz/live.m3u",
+"https://a.zbbs.eu.org/http://tv123.vvvv.ee/tv.m3u","https://a.zbbs.eu.org/https://iptv.445569.xyz/live.m3u",
   
 ];
 
