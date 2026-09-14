@@ -1,9 +1,16 @@
 const fetch = require('node-fetch');
+const fs = require('fs');
 
 // =========在这里添加所有源，txt、m3u都支持=========
 const SOURCE_LIST = [
-"https://wget.la/https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt","https://a.zbbs.eu.org/https://zhibx.807080747.workers.dev/",
-  
+  {
+    url: "https://wget.la/https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt",
+    timeout: 12000 // 第一个源：12秒
+  },
+  {
+    url: "https://a.zbbs.eu.org/https://zhibx.807080747.workers.dev/",
+    timeout: 25000 //第二个源：25秒，加载时间更长，不会很快断开
+  }
 ];
 
 // 广告关键词
@@ -14,20 +21,29 @@ async function run() {
   let ungroupedChannels = [];
   const groupDone = new Set();
 
-  for (const sourceUrl of SOURCE_LIST) {
+  for (const source of SOURCE_LIST) {
+    const sourceUrl = source.url;
+    const sourceTimeout = source.timeout;
     console.log(`\n=====正在读取源：${sourceUrl}=====`);
+    console.log(`⏱️当前源超时设置：${sourceTimeout/1000}秒`);
+
     try {
+      const controller = new AbortController();
+      const timer = setTimeout(() => controller.abort(), sourceTimeout);
+
       const res = await fetch(sourceUrl, {
         headers: { "User-Agent": "Mozilla/5.0" },
-        timeout: 12000
+        signal: controller.signal
       });
+      clearTimeout(timer);
+
       if (!res.ok) {
         console.log(`❌访问失败，状态码:${res.status}`);
         continue;
       }
       const content = await res.text();
       console.log(`✅读取成功，文件长度：${content.length}`);
-      const lines = content.split('\n');
+      const lines = content.split(/\r?\n/);
 
       let nowGroup = "未分组";
       let channelName = "未知频道";
@@ -71,16 +87,19 @@ async function run() {
         }
       }
     } catch (err) {
-      console.error(`❌读取源出错：${sourceUrl}，${err.message}`);
+      if (err.name === "AbortError") {
+        console.error(`⏱️读取超时：${sourceUrl}，超过设定时间`);
+      } else {
+        console.error(`❌读取源出错：${sourceUrl}，${err.message}`);
+      }
     }
   }
 
   // 所有分组频道写完，追加未分组频道到末尾
   totalOutput += ungroupedChannels.join("");
 
-  const fs = require('fs');
   fs.writeFileSync("./live.txt", totalOutput, "utf8");
-  console.log("\n✅全部源处理完成！");
+  console.log("\n✅全部源处理完成！输出 live.txt");
 
   // 频道处理函数（过滤+分组归类）
   function pushChannel(name, url, group) {
