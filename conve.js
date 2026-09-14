@@ -8,7 +8,7 @@ const SOURCE_LIST = [
     timeout: 12000 // 第一个源：12秒
   },
   {
-    url: "https://a.zbbs.eu.org/https://zhibx.807080747.workers.dev/",
+    url: "https://a.zbbs.eu.org/https://iptv.445569.xyz/live.m3u/",
     timeout: 25000 //第二个源：25秒，加载时间更长，不会很快断开
   }
 ];
