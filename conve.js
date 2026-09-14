@@ -4,11 +4,11 @@ const fs = require('fs');
 // =========在这里添加所有源，txt、m3u都支持=========
 const SOURCE_LIST = [
   {
-    url: "https://a.zbbs.eu.org/https://jh.807080747.workers.dev/",
+    url: "https://nb.xymm.de5.net/guqxyl/https://jh.807080747.workers.dev/",
     timeout: 12000 // 第一个源：12秒
   },
   {
-    url: "https://a.zbbs.eu.org/https://jh520.ccwu.cc/",
+    url: "https://nb.xymm.de5.net/guqxyl/https://jh520.ccwu.cc/",
     timeout: 25000 //第二个源：25秒，加载时间更长，不会很快断开
   }
 ];
