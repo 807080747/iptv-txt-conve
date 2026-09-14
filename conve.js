@@ -4,11 +4,11 @@ const fs = require('fs');
 // =========在这里添加所有源，txt、m3u都支持=========
 const SOURCE_LIST = [
   {
-    url: "https://wget.la/https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt",
+    url: "https://a.zbbs.eu.org/https://jh.807080747.workers.dev/",
     timeout: 12000 // 第一个源：12秒
   },
   {
-    url: "https://a.zbbs.eu.org/https://iptv.445569.xyz/live.m3u/",
+    url: "https://a.zbbs.eu.org/https://jh520.ccwu.cc/",
     timeout: 25000 //第二个源：25秒，加载时间更长，不会很快断开
   }
 ];
