@@ -8,7 +8,7 @@ const SOURCE_LIST = [
     timeout: 12000 // 第一个源：12秒
   },
   {
-    url: "https://seep.eu.org/https://jh520.ccwu.cc/",
+    url: "https://seep.eu.org/https://iptv.445569.xyz/live.m3u",
     timeout: 25000 //第二个源：25秒，加载时间更长，不会很快断开
   }
 ];
