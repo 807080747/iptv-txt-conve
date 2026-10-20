@@ -4,12 +4,10 @@ const fs = require('fs');
 // =========在这里添加所有源，txt、m3u都支持=========
 const SOURCE_LIST = [
   {
-    url: "https://seep.eu.org/https://jh.807080747.workers.dev/",
-    timeout: 12000 // 第一个源：12秒
+    url: "https://seep.eu.org/https://jh.807080747.workers.dev/",  
   },
   {
-    url: "https://seep.eu.org/https://iptv.445569.xyz/live.m3u",
-    timeout: 25000 //第二个源：25秒，加载时间更长，不会很快断开
+    url: "https://seep.eu.org/https://iptv.445569.xyz/live.m3u",  
   }
 ];
 
