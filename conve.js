@@ -9,6 +9,10 @@ const SOURCE_LIST = [
    {
     url: "https://seep.eu.org/https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/refs/heads/main/webview.txt"
   },
+
+  {
+    url: "http://iptv.910501.xyz/"
+  },
   {
     url: "http://wangziduoqing.cn/yuan/zb.txt"
   },
