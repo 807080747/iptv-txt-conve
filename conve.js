@@ -6,6 +6,9 @@ const SOURCE_LIST = [
   {
     url: "https://seep.eu.org/https://jh.807080747.workers.dev/"
   },
+   {
+    url: "https://seep.eu.org/https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/refs/heads/main/webview.txt"
+  },
   {
     url: "https://seep.eu.org/https://iptv.445569.xyz/live.m3u"
   }
