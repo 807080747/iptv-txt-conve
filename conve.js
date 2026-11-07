@@ -10,6 +10,9 @@ const SOURCE_LIST = [
     url: "https://seep.eu.org/https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/refs/heads/main/webview.txt"
   },
   {
+    url: "https://gh-proxy.com/https://raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt"
+  },
+  {
     url: "https://seep.eu.org/https://iptv.445569.xyz/live.m3u"
   }
 ];
