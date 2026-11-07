@@ -2936,10 +2936,10 @@ Github运行worker,http://45.192.97.170:8880/play/1513.m3u8
 11-07 22:00 Cagliari vs Frosinone [DAZN CA 7],http://45.192.97.170:8880/play/7434.m3u8
 11-07 22:00 Torino vs Lecce [Seria A 02],http://45.192.97.170:8880/play/7430.m3u8
 11-07 22:00 Torino vs Lecce [DAZN CA 8],http://45.192.97.170:8880/play/7433.m3u8
-11-07 22:30 Borussia Dortmund vs SV Elversberg [Sky Bundesliga 3],http://45.192.97.170:8880/play/7277.m3u8
 11-07 22:30 FSV Mainz 05 vs Bayern München [Sky Bundesliga 1],http://45.192.97.170:8880/play/7275.m3u8
 11-07 22:30 FSV Mainz 05 vs Bayern München [Sky Sport Top Event],http://45.192.97.170:8880/play/7276.m3u8
 11-07 22:30 RB Leipzig vs FC Augsburg [Sky Bundesliga 2],http://45.192.97.170:8880/play/7281.m3u8
+11-07 22:30 Borussia Dortmund vs SV Elversberg [Sky Bundesliga 3],http://45.192.97.170:8880/play/7277.m3u8
 11-07 22:30 SC Paderborn 07 vs Eintracht Frankfurt [Sky Bundesliga 4],http://45.192.97.170:8880/play/7282.m3u8
 11-07 23:00 Arsenal vs Hull City [Hub Premier 1],http://45.192.97.170:8880/play/7422.m3u8
 11-07 23:00 Arsenal vs Hull City [DAZN 1 Spain],http://45.192.97.170:8880/play/7423.m3u8
@@ -2953,14 +2953,14 @@ Github运行worker,http://45.192.97.170:8880/play/1513.m3u8
 11-08 01:00 Parma vs Bologna [Seria A 04],http://45.192.97.170:8880/play/7431.m3u8
 11-08 01:30 VfB Stuttgart vs Werder Bremen [Sky Sports Football],http://45.192.97.170:8880/play/7271.m3u8
 11-08 01:30 VfB Stuttgart vs Werder Bremen [Sky Sports Football BU],http://45.192.97.170:8880/play/7272.m3u8
-11-08 01:30 Osasuna vs Athletic Club [Premier Sports 2],http://45.192.97.170:8880/play/7065.m3u8
-11-08 01:30 Osasuna vs Athletic Club [Premier Sports 2 sd],http://45.192.97.170:8880/play/7066.m3u8
 11-08 01:30 Nottingham Forest vs Manchester City [Sky Sports Premier League],http://45.192.97.170:8880/play/7303.m3u8
 11-08 01:30 Nottingham Forest vs Manchester City [Hub Premier 1],http://45.192.97.170:8880/play/7304.m3u8
 11-08 01:30 Nottingham Forest vs Manchester City [DAZN 1 Spain],http://45.192.97.170:8880/play/7305.m3u8
 11-08 01:30 Nottingham Forest vs Manchester City [Sky Sports Main Event],http://45.192.97.170:8880/play/7306.m3u8
 11-08 01:30 Nottingham Forest vs Manchester City [Sky Sports Premier League BU],http://45.192.97.170:8880/play/7412.m3u8
 11-08 01:30 Nottingham Forest vs Manchester City [Sky Sports Main Event BU],http://45.192.97.170:8880/play/7413.m3u8
+11-08 01:30 Osasuna vs Athletic Club [Premier Sports 2],http://45.192.97.170:8880/play/7065.m3u8
+11-08 01:30 Osasuna vs Athletic Club [Premier Sports 2 sd],http://45.192.97.170:8880/play/7066.m3u8
 11-08 03:45 AS Roma vs Sassuolo [Seria A 05],http://45.192.97.170:8880/play/7432.m3u8
 11-08 04:05 Paris Saint Germain vs Estac Troyes [Bein Sports USA],http://45.192.97.170:8880/play/7288.m3u8
 11-08 04:05 Paris Saint Germain vs Estac Troyes [BEIN SPORT USA BU],http://45.192.97.170:8880/play/7289.m3u8
@@ -2968,14 +2968,14 @@ Github运行worker,http://45.192.97.170:8880/play/1513.m3u8
 11-08 21:00 Elche vs Real Betis [Premier Sports 1],http://45.192.97.170:8880/play/7311.m3u8
 11-08 21:00 Elche vs Real Betis [Premier Sports 1 sd],http://45.192.97.170:8880/play/7312.m3u8
 11-08 21:30 Twente vs Ajax [NL ESPN 1],http://45.192.97.170:8880/play/7284.m3u8
+11-08 22:00 Brighton vs Brentford [Sky Sports Arena],http://45.192.97.170:8880/play/7316.m3u8
+11-08 22:00 Sunderland vs Chelsea [Sky Sports Premier League],http://45.192.97.170:8880/play/7317.m3u8
+11-08 22:00 Sunderland vs Chelsea [Sky Sports Premier League BU],http://45.192.97.170:8880/play/7318.m3u8
 11-08 22:00 Crystal Palace vs Liverpool [Sky Sports Main Event],http://45.192.97.170:8880/play/7313.m3u8
 11-08 22:00 Crystal Palace vs Liverpool [Sky Sports Main Event BU],http://45.192.97.170:8880/play/7314.m3u8
 11-08 22:00 Ipswich vs Bournemouth [Sky Sports Cricket],http://45.192.97.170:8880/play/7315.m3u8
 11-08 22:00 Rennes vs Lille [Bein Sports USA],http://45.192.97.170:8880/play/7290.m3u8
 11-08 22:00 Rennes vs Lille [BEIN SPORT USA BU],http://45.192.97.170:8880/play/7291.m3u8
-11-08 22:00 Sunderland vs Chelsea [Sky Sports Premier League],http://45.192.97.170:8880/play/7317.m3u8
-11-08 22:00 Sunderland vs Chelsea [Sky Sports Premier League BU],http://45.192.97.170:8880/play/7318.m3u8
-11-08 22:00 Brighton vs Brentford [Sky Sports Arena],http://45.192.97.170:8880/play/7316.m3u8
 11-08 23:15 Real Sociedad vs Rayo Vallecano [Premier Sports 1],http://45.192.97.170:8880/play/7319.m3u8
 11-08 23:15 Real Sociedad vs Rayo Vallecano [Premier Sports 1 sd],http://45.192.97.170:8880/play/7320.m3u8
 11-08 23:45 Cambuur vs PSV Eindhoven [NL ESPN 2],http://45.192.97.170:8880/play/7286.m3u8
@@ -3594,34 +3594,31 @@ WTA 女单决赛 解说 21:00,http://8.137.121.66:20241/969087849
 西甲 皇家社会VS巴列卡诺 赛场原声 23:00,http://8.137.121.66:20241/969128821
 丹麦甲,#genre#
 丹麦甲 希勒罗德 vs 科灵 - 直播37,https://hello.ooo0ooo.top/live/4553520.m3u8
-丹麦甲 希勒罗德 vs 科灵 - 原声50,https://pul-tenm.gkykp.com/live/sd-1-4553520.m3u8?txSecret=3f3c336eca765f57398ae534ee87a5b4&txTime=6AF07521
+丹麦甲 希勒罗德 vs 科灵 - 原声50,https://pul-tenm.gkykp.com/live/sd-1-4553520.m3u8?txSecret=c3b63464eb06124d34761a9fc78164da&txTime=6AF07611
 丹麦甲 霍布罗 vs 埃斯比约 - 直播43,https://hello.ooo0ooo.top/live/4553521.m3u8
-丹麦甲 霍布罗 vs 埃斯比约 - 原声56,https://pul-tenm.gkykp.com/live/sd-1-4553521.m3u8?txSecret=a2512a133c0977787cdd7c61d7249057&txTime=6AF07521
+丹麦甲 霍布罗 vs 埃斯比约 - 原声56,https://pul-tenm.gkykp.com/live/sd-1-4553521.m3u8?txSecret=957557729ec1df4b8756fa900cf5663f&txTime=6AF077F1
 乌克超,#genre#
 乌克超 哈尔科夫冶金 vs 喀尔巴阡 - 直播21,https://hello.ooo0ooo.top/live/4569715.m3u8
 乌克超 哈尔科夫冶金 vs 喀尔巴阡 - 原声37,https://pul-tenm.gkykp.com/live/sd-1-4569715.m3u8?txSecret=b72a2be3d136e4823e685e4503f9cb3e&txTime=6AF07340
-乌兹超,#genre#
-乌兹超 马沙尔 vs 特尔梅兹 - 直播26,https://hello.ooo0ooo.top/live/4488190.m3u8
-乌兹超 马沙尔 vs 特尔梅兹 - 原声48,https://pul-tenm.gkykp.com/live/sd-1-4488190.m3u8?txSecret=d7484f9ccc91cf48dd447d422937f254&txTime=6AF07521
 以超,#genre#
 以超 佩塔提克瓦工人 vs 拉马特甘工人 - 直播54,https://hello.ooo0ooo.top/live/4556988.m3u8
-以超 佩塔提克瓦工人 vs 拉马特甘工人 - 原声62,https://pul-tenm.gkykp.com/live/sd-1-4556988.m3u8?txSecret=2fe6035a6552a3ba55d5c0cf9b5a1d0e&txTime=6AF07521
+以超 佩塔提克瓦工人 vs 拉马特甘工人 - 原声62,https://pul-tenm.gkykp.com/live/sd-1-4556988.m3u8?txSecret=e71747b77002b1c59e94d8a1829e2d6f&txTime=6AF077F1
 俄甲,#genre#
 俄甲 图拉兵工厂 vs 车里雅宾斯克 - 直播49,https://hello.ooo0ooo.top/live/4576554.m3u8
-俄甲 图拉兵工厂 vs 车里雅宾斯克 - 原声14,https://pul-tenm.gkykp.com/live/sd-1-4576554.m3u8?txSecret=656468938d77e4f338093ad3b0f02e03&txTime=6AF07521
+俄甲 图拉兵工厂 vs 车里雅宾斯克 - 原声14,https://pul-tenm.gkykp.com/live/sd-1-4576554.m3u8?txSecret=8d0aa386262e1a68ee5349649d7cb657&txTime=6AF077F1
 保甲,#genre#
 保甲 弗拉察博特夫 vs 普罗夫迪夫火车头 - 直播27,https://hello.ooo0ooo.top/live/4554134.m3u8
-保甲 弗拉察博特夫 vs 普罗夫迪夫火车头 - 原声2,https://pul-tenm.gkykp.com/live/sd-1-4554134.m3u8?txSecret=0565e93a2978e8283c8ef45466c3b7d1&txTime=6AF07521
+保甲 弗拉察博特夫 vs 普罗夫迪夫火车头 - 原声2,https://pul-tenm.gkykp.com/live/sd-1-4554134.m3u8?txSecret=617acd29759ed4073b175076a455a074&txTime=6AF077F1
 印尼甲,#genre#
 印尼甲 佩西加雅加达 vs 帕尔斯巴亚 - 直播33,https://hello.ooo0ooo.top/live/4614411.m3u8
-印尼甲 佩西加雅加达 vs 帕尔斯巴亚 - 原声26,https://pul-tenm.gkykp.com/live/sd-1-4614411.m3u8?txSecret=a90a5c52defdcc74b2a47e1c121801f9&txTime=6AF07521
+印尼甲 佩西加雅加达 vs 帕尔斯巴亚 - 原声26,https://pul-tenm.gkykp.com/live/sd-1-4614411.m3u8?txSecret=22583798946cf5ef493bbcf58431309e&txTime=6AF077F1
 印尼甲 培斯塔坦格朗 vs 伊森穆朗 - 直播35,https://hello.ooo0ooo.top/live/4614413.m3u8
-印尼甲 培斯塔坦格朗 vs 伊森穆朗 - 原声32,https://pul-tenm.gkykp.com/live/sd-1-4614413.m3u8?txSecret=180513559fb1b7e3f350c01afa4f9c06&txTime=6AF07521
+印尼甲 培斯塔坦格朗 vs 伊森穆朗 - 原声32,https://pul-tenm.gkykp.com/live/sd-1-4614413.m3u8?txSecret=1b2904b7768e1f2aade1e7cd291a7ad5&txTime=6AF077F1
 印尼甲 杰帕拉 vs 加鲁达亚克萨 - 直播34,https://hello.ooo0ooo.top/live/4614412.m3u8
-印尼甲 杰帕拉 vs 加鲁达亚克萨 - 原声28,https://pul-tenm.gkykp.com/live/sd-1-4614412.m3u8?txSecret=67006fb3b60a7586cb822c63b3961813&txTime=6AF07521
+印尼甲 杰帕拉 vs 加鲁达亚克萨 - 原声28,https://pul-tenm.gkykp.com/live/sd-1-4614412.m3u8?txSecret=b684d849ad2e4fc81784213a84c2e01e&txTime=6AF077F1
 印度超,#genre#
 印度超 喀什国际 vs 德里体育 - 直播29,https://hello.ooo0ooo.top/live/4655865.m3u8
-印度超 喀什国际 vs 德里体育 - 原声25,https://pul-tenm.gkykp.com/live/sd-1-4655865.m3u8?txSecret=be1ea5e9f1f6e75b55a199c21dff5559&txTime=6AF07521
+印度超 喀什国际 vs 德里体育 - 原声25,https://pul-tenm.gkykp.com/live/sd-1-4655865.m3u8?txSecret=13e108255c1721c97e6d5f23eb9fa6c7&txTime=6AF077F1
 土女篮,#genre#
 土女篮 伯塔斯女篮 vs 费内巴切女篮 - 直播90,https://hello.ooo0ooo.top/live/3930474.m3u8
 土女篮 伯塔斯女篮 vs 费内巴切女篮 - 原声43,https://pul-tenm.gkykp.com/live/sd-2-3930474.m3u8?txSecret=357186afc03febc0cf731742d5110b71&txTime=6AF06F81
@@ -3629,124 +3626,121 @@ WTA 女单决赛 解说 21:00,http://8.137.121.66:20241/969087849
 土女篮 加拉塔萨雷女篮 vs 贝西克塔斯女篮 - 原声42,https://pul-tenm.gkykp.com/live/sd-2-3930503.m3u8?txSecret=c6328f0923da3a43c55deb55ec331173&txTime=6AF06E19
 土甲,#genre#
 土甲 穆拉体育 vs 埃罗克体育 - 直播53,https://hello.ooo0ooo.top/live/4583621.m3u8
-土甲 穆拉体育 vs 埃罗克体育 - 原声61,https://pul-tenm.gkykp.com/live/sd-1-4583621.m3u8?txSecret=1c9f3332f425ae31a8a6453652f3a4ae&txTime=6AF07521
+土甲 穆拉体育 vs 埃罗克体育 - 原声61,https://pul-tenm.gkykp.com/live/sd-1-4583621.m3u8?txSecret=2f8e477675a906ff3ae43cd2a2882184&txTime=6AF077F1
 土篮超,#genre#
 土篮超 土耳其电信 vs 科尔菲兹 - 直播95,https://hello.ooo0ooo.top/live/3929826.m3u8
-土篮超 土耳其电信 vs 科尔菲兹 - 原声57,https://pul-tenm.gkykp.com/live/sd-2-3929826.m3u8?txSecret=1ec2dee97d186c0c71163c38111efe82&txTime=6AF07521
+土篮超 土耳其电信 vs 科尔菲兹 - 原声57,https://pul-tenm.gkykp.com/live/sd-2-3929826.m3u8?txSecret=acce909cdd8b901dad8172285a3266f0&txTime=6AF077F1
 土超,#genre#
 土超 萨姆松体育 vs 科尼亚 - 直播51,https://hello.ooo0ooo.top/live/4581367.m3u8
-土超 萨姆松体育 vs 科尼亚 - 原声19,https://pul-tenm.gkykp.com/live/sd-1-4581367.m3u8?txSecret=39c788e1f435632afadc129b3a25928e&txTime=6AF07521
+土超 萨姆松体育 vs 科尼亚 - 原声19,https://pul-tenm.gkykp.com/live/sd-1-4581367.m3u8?txSecret=d701fe8bb7a5da3cf969b6a5b368f9dc&txTime=6AF077F1
 塞尔超,#genre#
 塞尔超 泽蒙 vs IMT新贝尔格莱德 - 直播36,https://hello.ooo0ooo.top/live/4554666.m3u8
-塞尔超 泽蒙 vs IMT新贝尔格莱德 - 原声33,https://pul-tenm.gkykp.com/live/sd-1-4554666.m3u8?txSecret=9200fa049494128ecddbf640f75f5da5&txTime=6AF07521
+塞尔超 泽蒙 vs IMT新贝尔格莱德 - 原声33,https://pul-tenm.gkykp.com/live/sd-1-4554666.m3u8?txSecret=e198938daa1abb4547bce3a524d77225&txTime=6AF077F1
 德乙,#genre#
 德乙 奥斯纳布吕克 vs 凯泽斯劳滕 - 直播31,https://hello.ooo0ooo.top/live/4566610.m3u8
-德乙 奥斯纳布吕克 vs 凯泽斯劳滕 - 原声12,https://pul-tenm.gkykp.com/live/sd-1-4566610.m3u8?txSecret=0e2be8457361ac0953565b0994ab1003&txTime=6AF07521
+德乙 奥斯纳布吕克 vs 凯泽斯劳滕 - 原声12,https://pul-tenm.gkykp.com/live/sd-1-4566610.m3u8?txSecret=c243d4aa5dbd25f544ad2e9675652dd5&txTime=6AF077F1
 德乙 纽伦堡 vs 达姆施塔特 - 直播2,https://hello.ooo0ooo.top/live/4566530.m3u8
-德乙 纽伦堡 vs 达姆施塔特 - 原声10,https://pul-tenm.gkykp.com/live/sd-1-4566530.m3u8?txSecret=92bf2445a49d00102735d18e1faed507&txTime=6AF07521
+德乙 纽伦堡 vs 达姆施塔特 - 原声10,https://pul-tenm.gkykp.com/live/sd-1-4566530.m3u8?txSecret=8944696775cd338c6e75a134b3f210aa&txTime=6AF077F1
 德乙 荷尔斯泰因 vs 比勒菲尔德 - 直播32,https://hello.ooo0ooo.top/live/4566636.m3u8
-德乙 荷尔斯泰因 vs 比勒菲尔德 - 原声24,https://pul-tenm.gkykp.com/live/hd-en-1-4566636.m3u8?txSecret=7bf25a1effbfea7566c409269bc6ac30&txTime=6AF07521
+德乙 荷尔斯泰因 vs 比勒菲尔德 - 原声24,https://pul-tenm.gkykp.com/live/hd-en-1-4566636.m3u8?txSecret=5d145de9a1ebb500d248c6dad301d937&txTime=6AF077F1
 意青联甲,#genre#
 意青联甲 尤文图斯U20 vs 恩波利青年队 - 直播57,https://hello.ooo0ooo.top/live/4570736.m3u8
 法乙,#genre#
 法乙 克莱蒙 vs 罗德兹 - 直播52,https://hello.ooo0ooo.top/live/4553235.m3u8
-法乙 克莱蒙 vs 罗德兹 - 原声60,https://pul-tenm.gkykp.com/live/sd-1-4553235.m3u8?txSecret=971e6e66cf5f063c269a35363f379661&txTime=6AF07521
-波兰甲,#genre#
-波兰甲 凯尔采科罗纳 vs 拉多米亚克 - 直播25,https://hello.ooo0ooo.top/live/4559365.m3u8
-波兰甲 凯尔采科罗纳 vs 拉多米亚克 - 原声47,https://pul-tenm.gkykp.com/live/sd-1-4559365.m3u8?txSecret=99155e4cf58da34b191b1b373b54d8d4&txTime=6AF07521
+法乙 克莱蒙 vs 罗德兹 - 原声60,https://pul-tenm.gkykp.com/live/sd-1-4553235.m3u8?txSecret=ca5260001810b5d878e0907b4e5b486d&txTime=6AF077F1
 泰超,#genre#
 泰超 乌泰他尼森林 vs 清莱联 - 直播28,https://hello.ooo0ooo.top/live/4591791.m3u8
-泰超 乌泰他尼森林 vs 清莱联 - 原声8,https://pul-tenm.gkykp.com/live/sd-1-4591791.m3u8?txSecret=d7cf18283a284a937355450e0c6f8446&txTime=6AF07521
+泰超 乌泰他尼森林 vs 清莱联 - 原声8,https://pul-tenm.gkykp.com/live/sd-1-4591791.m3u8?txSecret=b5f36e2e19e0cae89dfde17f835d92ee&txTime=6AF077F1
 泰超 大城联 vs 北大年府 - 直播24,https://hello.ooo0ooo.top/live/4591790.m3u8
 泰超 大城联 vs 北大年府 - 原声40,https://pul-tenm.gkykp.com/live/sd-1-4591790.m3u8?txSecret=cd0caca1a7dac2c48a2ddbf52b6deb23&txTime=6AF07341
 泰超 泰港 vs 春武里 - 直播38,https://hello.ooo0ooo.top/live/4591792.m3u8
-泰超 泰港 vs 春武里 - 原声51,https://pul-tenm.gkykp.com/live/sd-1-4591792.m3u8?txSecret=bff050ddeeae15e9bfc8a18e6b2f451a&txTime=6AF07521
+泰超 泰港 vs 春武里 - 原声51,https://pul-tenm.gkykp.com/live/sd-1-4591792.m3u8?txSecret=adc85e8fcedf8d10255d80e6ddfea889&txTime=6AF077F1
 白俄超,#genre#
 白俄超 博布鲁伊斯克 vs 伊斯洛奇 - 直播30,https://hello.ooo0ooo.top/live/4502968.m3u8
-白俄超 博布鲁伊斯克 vs 伊斯洛奇 - 原声9,https://pul-tenm.gkykp.com/live/sd-1-4502968.m3u8?txSecret=2d00381faf75ca6d1fb91dd55610cf5d&txTime=6AF07521
+白俄超 博布鲁伊斯克 vs 伊斯洛奇 - 原声9,https://pul-tenm.gkykp.com/live/sd-1-4502968.m3u8?txSecret=b43c7005067c9fa590a2119daaf9ff73&txTime=6AF077F1
 罗甲,#genre#
 罗甲 FK米耶尔库雷亚丘克 vs 克卢日大学 - 直播50,https://hello.ooo0ooo.top/live/4567769.m3u8
-罗甲 FK米耶尔库雷亚丘克 vs 克卢日大学 - 原声15,https://pul-tenm.gkykp.com/live/sd-1-4567769.m3u8?txSecret=a13d746d4dd0ae5b9d6c565185dd153f&txTime=6AF07521
+罗甲 FK米耶尔库雷亚丘克 vs 克卢日大学 - 原声15,https://pul-tenm.gkykp.com/live/sd-1-4567769.m3u8?txSecret=374d142751e74a380f1a7b98ee290417&txTime=6AF077F1
 英冠,#genre#
 英冠 布里斯托尔城 vs 诺维奇 - 直播40,https://hello.ooo0ooo.top/live/4563673.m3u8
-英冠 布里斯托尔城 vs 诺维奇 - 原声3,https://pul-tenm.gkykp.com/live/sd-1-4563673.m3u8?txSecret=e2112f491023e229772ef1019d340994&txTime=6AF07521
+英冠 布里斯托尔城 vs 诺维奇 - 原声3,https://pul-tenm.gkykp.com/live/sd-1-4563673.m3u8?txSecret=a1d068ede8f5a6ac1e64582957f4a3d3&txTime=6AF077F1
 英冠 朴茨茅斯 vs 斯托克城 - 直播41,https://hello.ooo0ooo.top/live/4563676.m3u8
-英冠 朴茨茅斯 vs 斯托克城 - 原声54,https://pul-tenm.gkykp.com/live/sd-1-4563676.m3u8?txSecret=d92fb07586a72b1707d67c3b5ef5e324&txTime=6AF07521
+英冠 朴茨茅斯 vs 斯托克城 - 原声54,https://pul-tenm.gkykp.com/live/sd-1-4563676.m3u8?txSecret=14161de8b3a36726f0b56e1829526327&txTime=6AF077F1
 英冠 雷克瑟姆 vs 狼队 - 直播42,https://hello.ooo0ooo.top/live/4563683.m3u8
-英冠 雷克瑟姆 vs 狼队 - 原声55,https://pul-tenm.gkykp.com/live/sd-1-4563683.m3u8?txSecret=af6f5d419baf025028db4d3f8e8cf60f&txTime=6AF07521
+英冠 雷克瑟姆 vs 狼队 - 原声55,https://pul-tenm.gkykp.com/live/sd-1-4563683.m3u8?txSecret=8e5db19db489e8a8f0c75ae0af3f8948&txTime=6AF077F1
 英女足,#genre#
 英女足 切尔西女足 vs 埃弗顿女足 - 直播6,https://hello.ooo0ooo.top/live/4603732.m3u8
-英女足 切尔西女足 vs 埃弗顿女足 - 原声4,https://pul-tenm.gkykp.com/live/hd-en-1-4603732.m3u8?txSecret=6f3e556f44aeaef49f37439f40b1ce24&txTime=6AF07521
+英女足 切尔西女足 vs 埃弗顿女足 - 原声4,https://pul-tenm.gkykp.com/live/hd-en-1-4603732.m3u8?txSecret=9f808a07ce402b323c016d9d50614421&txTime=6AF077F1
 英女足 曼彻斯特城女足 vs 西汉姆联女足 - 直播44,https://hello.ooo0ooo.top/live/4603733.m3u8
-英女足 曼彻斯特城女足 vs 西汉姆联女足 - 原声58,https://pul-tenm.gkykp.com/live/hd-en-1-4603733.m3u8?txSecret=3255c71516ee855a9b0021bd092cd0ca&txTime=6AF07521
+英女足 曼彻斯特城女足 vs 西汉姆联女足 - 原声58,https://pul-tenm.gkykp.com/live/hd-en-1-4603733.m3u8?txSecret=836f76c8915fe040f476293f179d7c43&txTime=6AF077F1
 英超,#genre#
 英超 利兹联 vs 热刺 - 中文解说1,https://live01-cn-ali.xqnbu.com/live/76299203_tsc.m3u8
 英超 利兹联 vs 热刺 - 直播5,https://hello.ooo0ooo.top/live/4558718.m3u8
-英超 利兹联 vs 热刺 - 原声1,https://pul-tenm.gkykp.com/live/hd-en-1-4558718.m3u8?txSecret=be5c9c7a46b308696048dbc8f737cac7&txTime=6AF07521
+英超 利兹联 vs 热刺 - 原声1,https://pul-tenm.gkykp.com/live/hd-en-1-4558718.m3u8?txSecret=c9e7399bde502ea89a824130a3ad28db&txTime=6AF077F1
 西乙,#genre#
 西乙 布尔戈斯 vs 塞尔塔B队 - 直播48,https://hello.ooo0ooo.top/live/4567346.m3u8
-西乙 布尔戈斯 vs 塞尔塔B队 - 原声11,https://pul-tenm.gkykp.com/live/sd-1-4567346.m3u8?txSecret=d2d56aaea41028bd925dff6b84a9b609&txTime=6AF07521
+西乙 布尔戈斯 vs 塞尔塔B队 - 原声11,https://pul-tenm.gkykp.com/live/sd-1-4567346.m3u8?txSecret=bbf11535951708796dab3d9ac21f558b&txTime=6AF077F1
 西甲,#genre#
 西甲 马拉加 vs 桑坦德竞技 - 直播46,https://hello.ooo0ooo.top/live/4565569.m3u8
-西甲 马拉加 vs 桑坦德竞技 - 原声6,https://pul-tenm.gkykp.com/live/hd-en-1-4565569.m3u8?txSecret=836554a012cb34a52792a5e3c16ee84b&txTime=6AF07521
+西甲 马拉加 vs 桑坦德竞技 - 原声6,https://pul-tenm.gkykp.com/live/hd-en-1-4565569.m3u8?txSecret=1ef186aa224a07cfc13967bb61f05699&txTime=6AF077F1
 越南联,#genre#
 越南联 河内公安 vs 胡志明市公安 - 直播39,https://hello.ooo0ooo.top/live/4636605.m3u8
-越南联 河内公安 vs 胡志明市公安 - 原声27,https://pul-tenm.gkykp.com/live/sd-1-4636605.m3u8?txSecret=e62e7e2f69e7792359b766d0bede4048&txTime=6AF07521
+越南联 河内公安 vs 胡志明市公安 - 原声27,https://pul-tenm.gkykp.com/live/sd-1-4636605.m3u8?txSecret=55f1a4d33d6d887731f4dc067ba63bda&txTime=6AF077F1
 阿塞超,#genre#
 阿塞超 巴库萨法 vs 纳希切万 - 直播101,https://hello.ooo0ooo.top/live/4595645.m3u8
-阿塞超 巴库萨法 vs 纳希切万 - 原声53,https://pul-tenm.gkykp.com/live/sd-1-4595645.m3u8?txSecret=31f263429d9cad1ec6a224db51ad935c&txTime=6AF07521
+阿塞超 巴库萨法 vs 纳希切万 - 原声53,https://pul-tenm.gkykp.com/live/sd-1-4595645.m3u8?txSecret=d81636b9b83b164676f88ea830da3b0e&txTime=6AF077F1
 阿联酋超,#genre#
 阿联酋超 迪哈夫拉 vs 卡尔巴联盟 - 直播45,https://hello.ooo0ooo.top/live/4656906.m3u8
-阿联酋超 迪哈夫拉 vs 卡尔巴联盟 - 原声59,https://pul-tenm.gkykp.com/live/sd-1-4656906.m3u8?txSecret=46b1fc7275d41d1b5edf2b5a63f2a265&txTime=6AF07521
+阿联酋超 迪哈夫拉 vs 卡尔巴联盟 - 原声59,https://pul-tenm.gkykp.com/live/sd-1-4656906.m3u8?txSecret=01e68b2adabd9d589be17c6450d85527&txTime=6AF077F1
 赛事回放,#genre#
-11-07 18:30 土甲 凡城体育 vs 锡瓦斯 (3-1) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/4aa2769b5001834827390073082/playlist_eof.m3u8?t=6aef6a37&us=585c09fc3b&sign=7c69fb1cd124a1d2eeb0d9457af71361
-11-07 18:30 土甲 克斯欧仁古库 vs 文尼沙FK (1-0) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/e74f8c435001834827337531666/playlist_eof.m3u8?t=6aef6a3d&us=d68bfe690d&sign=c1887763b2d3fd09de74d3cf6045182d
-11-07 18:30 土超 埃于普体育 vs 科贾埃利体育 (0-2) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/de4be3e05001834827361545544/playlist_eof.m3u8?t=6aef6a3e&us=9450d95b26&sign=058000609cbe94d0c0f8358c7c3ce3bc
-11-07 18:30 爱沙甲 库雷撒勒 vs 诺米联 (1-1) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/7607d0c35001834827339093139/playlist_eof.m3u8?t=6aef6a15&us=561bd68991&sign=b98202fc4491d6696c2238f97c40ffd6
-11-07 18:00 意青联甲 热那亚U20 vs 莱切U20 (1-4) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/bcfdb2a15001834827214971338/playlist_eof.m3u8?t=6aef6a5d&us=97b555c258&sign=f6ab839ab7d02f3245a4d516ed2f577e
-11-07 18:00 意青联甲 亚特兰大U20 vs 国际米兰U20 (1-1) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/3ed6ec485001834827386866350/playlist_eof.m3u8?t=6aef695d&us=6b1e07aec6&sign=571706f9e79e2bf9617a104e0018b441
-11-07 18:00 土篮超 卡伊罗瓦市 vs 博尔多篮球会 (95-78) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/dbe053df5001834827337069044/playlist_eof.m3u8?t=6aef6a7a&us=ce4098b8a9&sign=9fecdb4388989e4b04219ca30fd6ea2e
-11-07 18:00 香港超 理文 vs 冠忠南区 (1-0) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/09dbe3685001834827334955853/playlist_eof.m3u8?t=6aef695a&us=72bf81ac33&sign=8fa5ff6c5ad35f70bbdc09e7edcfbe3f
-11-07 18:00 白俄超 纳夫坦诺瓦洛克 vs ML麦克斯林 (0-5) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/a1c537335001834827336898757/playlist_eof.m3u8?t=6aef6a76&us=aa8fa60ba9&sign=bd3a98a1b713e1e85377e811ca0922a1
-11-07 18:00 越南联 嘉莱黄英 vs 河内FC (2-1) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/52364a5a5001834827216762223/playlist_eof.m3u8?t=6aef6942&us=f452d48abf&sign=c8ce4eb780b1d1f408444ff890af190f
-11-07 17:05 日篮B2 青森热力 vs 山形飞龙 (85-88) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/df436bc55001834827290441958/playlist_eof.m3u8?t=6aef6997&us=bbb2a9b406&sign=5cc542c5f325282bfb1caca3c0cae42f
-11-07 17:00 VTB 叶尼塞 vs 海参崴迪纳摩 (97-111) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/15421e735001834827372450300/playlist_eof.m3u8?t=6aef69e5&us=a834f4002f&sign=fa7d2f028e4957ba0cbb51492d439941
-11-07 16:40 澳超 墨尔本城 vs 西悉尼流浪者 (2-1) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/86e450c25001834827210892287/playlist_eof.m3u8?t=6aef69bd&us=a29956f304&sign=44e1c81b8c90fed7863505e5de0b206a
-11-07 16:35 日篮B2 横滨卓越 vs 越谷阿尔法 (92-88) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/f61c06e45001834827344952590/playlist_eof.m3u8?t=6aef6985&us=5db1607c0f&sign=84105db3078d6fb889430fa462dd9607
-11-07 16:30 印尼乙 德雷德FC vs 巴克伦佛 (4-0) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/4b0548585001834827335430155/playlist_eof.m3u8?t=6aef69b1&us=4b90212cd4&sign=9a7104f7b4ea378cac052c4534bc98ba
-11-07 16:30 印尼乙 苏美尔联 vs 三宝垄 (1-4) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/0a67c95a5001834827358424311/playlist_eof.m3u8?t=6aef69ae&us=171db4b741&sign=6d3ec2cfe7b71d3c1de16f3465ee41b7
-11-07 16:30 越南甲 林同 vs 庆和烟草 (1-1) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/94de94655001834827329512839/playlist_eof.m3u8?t=6aef69e0&us=6f4d082f0a&sign=e426e5bebfce44bba2352bc6d3f848ea
-11-07 16:30 越南甲 隆安 vs 同塔 (1-1) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/e1050b0d5001834827378388238/playlist_eof.m3u8?t=6aef69ea&us=59ab16506b&sign=9c86936f75eff467fb5c9f9c578e13e5
-11-07 16:30 澳NBL 墨尔本联 vs 布里斯班子弹 (120-92) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/4f2c33855001834827328852833/playlist_eof.m3u8?t=6aef6a5f&us=42d7c8b5f0&sign=952cd2b75520dadb4139f91c44e7d842
-11-07 16:30 澳NBL 墨尔本联 vs 布里斯班子弹 (120-92) - 超清外语1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/2b7356b15001834827379257588/playlist_eof.m3u8?t=6aef6a5f&us=42d7c8b5f0&sign=063c41a335eae44f443deccc5f272179
-11-07 16:30 印尼甲 婆罗洲FC vs PSM望加锡 (1-1) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/286b66005001834827338004946/playlist_eof.m3u8?t=6aef6a03&us=ee411bbbf9&sign=43634879912bf740dd97aeb78de9b583
-11-07 16:05 日篮B2 东京地球之友 vs 福岛火绊 (67-72) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/d34efe055001834827283198047/playlist_eof.m3u8?t=6aef69ab&us=1a9e1b86c7&sign=79e07add75b7e1075d208b76de008e2f
-11-07 16:05 日篮B2 东京八王子市火车 vs 埼玉野马 (76-94) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/44a8cc285001834827376277409/playlist_eof.m3u8?t=6aef696b&us=c11a582d9e&sign=25724d0487de93c6f5c3583027f24e3d
-11-07 16:05 日篮B1 东京太阳摇滚 vs 京都创荣 (92-87) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/167667e55001834827324635955/playlist_eof.m3u8?t=6aef69d7&us=b7f459825a&sign=48139738d32d697b477e8f9b7b15b9c0
-11-07 16:00 澳女篮 本迪高精灵女篮 vs UC首都女篮 (83-97) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/0573eb5c5001834827375841320/playlist_eof.m3u8?t=6aef697c&us=b1123a18a7&sign=5b98b7b4dfc7669db5a7b15296fde0d1
-11-07 16:00 澳女联 珀斯光荣女足 vs 堪培拉联女足 (0-1) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/d057de7a5001834827323916160/playlist_eof.m3u8?t=6aef69a6&us=10858d1638&sign=094bfda2f23e9e10e07e9d69e554db75
-11-07 15:30 韩篮甲 水原KT音速弹 vs 大邱石油公社飞马 (92-81) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/8a7eca5a5001834827282325243/playlist_eof.m3u8?t=6aef6950&us=d2bd354728&sign=f6152d6d018bf88c46c5d541e89d93ab
-11-07 15:30 韩K2联 首尔衣恋 vs 全南天龙 (3-2) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/61e4affc5001834827373405731/playlist_eof.m3u8?t=6aef6950&us=d2bd354728&sign=f5506f4b81739b19e38ba12b0bca19af
-11-07 15:30 韩K2联 金浦市民 vs 安山小绿人 (2-2) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/77c7293c5001834827322428912/playlist_eof.m3u8?t=6aef6a77&us=5cdc919995&sign=3b71c7fcbd731bd46b5ed136ea1ac679
-11-07 15:30 韩K2联 金海 vs 华城FC (0-1) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/834a81c25001834827322904586/playlist_eof.m3u8?t=6aef69a8&us=f445e8e541&sign=b9f3272a09c80b18b23dc90d66d8ca7b
-11-07 15:30 韩K联 金泉尚武 vs 安养FC (1-0) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/c7ebdda85001834827364698405/playlist_eof.m3u8?t=6aef6a5b&us=4f8d4661b7&sign=9cdf755f73a4f063b2b85fe9cc5fe611
-11-07 15:05 日篮B1 大阪七福神 vs 茨城机器人 (68-86) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/e055f1175001834827201554173/playlist_eof.m3u8?t=6aef69e7&us=e0f89499c8&sign=c6a25ae5e109eeac2bad3571c752fe03
-11-07 15:00 韩女甲 友利银行女篮 vs 龙仁三星女篮 (65-54) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/260b0fb85001834827202219166/playlist_eof.m3u8?t=6aef69db&us=33d69088d1&sign=ec338ac23095157e4d5609a10d8e5044
-11-07 15:00 日篮B1 宇都宫皇者 vs 琉球黄金帝王 (79-76) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/7d9300445001834827370544918/playlist_eof.m3u8?t=6aef69a1&us=eaa7b0cea3&sign=d97476de053d5774923e1c7a7142bb6c
-11-07 15:00 日职丙 爱媛FC vs 滋贺湖王 (1-0) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/bd075a245001834827333978008/playlist_eof.m3u8?t=6aef6979&us=c1c5c1a326&sign=f333e1c988091890ef97d2cfa40e0b9f
-11-07 15:00 香港超 至尊沙田 vs 标准流浪 (1-1) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/d75015f55001834827320195015/playlist_eof.m3u8?t=6aef69a7&us=0087125c7d&sign=6ba1a0e4b9c2065073ccd677d6da06a1
-11-07 15:00 日职联 柏太阳神 vs 川崎前锋 (2-1) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/a19dd6e85001834827319213989/playlist_eof.m3u8?t=6aef69fb&us=9661d172dd&sign=9b27f9e9d90ed4769c8a6f222d3bf89a
-11-07 14:35 日篮B2 名古屋战鹰 vs 东京联合 (76-95) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/9757d43b5001834827329632214/playlist_eof.m3u8?t=6aef69f5&us=54d5af4bb8&sign=4f522370594a02550b185f311d84dfd5
-11-07 14:30 日女甲 丰田阳光女篮 vs 电装小仙女女篮 (51-52) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/bd3b0d365001834827316344510/playlist_eof.m3u8?t=6aef69e3&us=b40fb6759d&sign=bb2d929d8f19a21d0c46362e3864bb33
-11-07 14:30 澳NBL 阿德莱德36人 vs 伊拉瓦拉老鹰 (106-78) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/50e2d4665001834827359197117/playlist_eof.m3u8?t=6aef6a40&us=abe44bfd11&sign=5b5d923edbc1c7daf2a3fad017fe8780
-11-07 14:30 澳NBL 阿德莱德36人 vs 伊拉瓦拉老鹰 (106-78) - 超清外语1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/57dfb28a5001834827359492924/playlist_eof.m3u8?t=6aef6a40&us=abe44bfd11&sign=e7ce370ed4b1edc08c0533183fd3c555
-11-07 14:30 中乙 青岛红狮 vs 成都蓉城B队 (0-2) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/66533a705001834827366866189/playlist_eof.m3u8?t=6aef69f5&us=54d5af4bb8&sign=2829184d9537d442d37e01d546656ee1
-11-07 14:30 中乙 海门珂缔缘 vs 赣州瑞狮 (3-0) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/a7384b055001834827367308762/playlist_eof.m3u8?t=6aef6a1a&us=6c32ad6ddb&sign=fc52f5b14c33efec2944467e8936f0ed
-11-07 14:30 中乙 泰安天贶 vs 厦门飞鹭 (0-0) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/aa0b924a5001834827367477724/playlist_eof.m3u8?t=6aef69ee&us=db057055ad&sign=6a2ceb728ddd74faae32af91f2955dc6
-11-07 14:30 中乙 北京理工 vs 武汉三镇B队 (0-3) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/5b1c5e9e5001834827193851602/playlist_eof.m3u8?t=6aef6a1a&us=6c32ad6ddb&sign=7589c80f16dbfd1f83417de1230fed90
-11-07 14:30 中乙 长春喜都 vs 温州队 (0-1) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/6653d3085001834827366867441/playlist_eof.m3u8?t=6aef69d4&us=e69bd321a2&sign=5e431f90645a5522f81ba165892aab75
-11-07 14:30 中乙 湖北青年星 vs 大连英博B队 (0-0) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/8e1795245001834827329246807/playlist_eof.m3u8?t=6aef69da&us=35c2d9e876&sign=15af6030d2e0cb9e6cb9f72cb27bb3c6
-11-07 14:30 中乙 广东铭途 vs 兰州陇原竞技 (0-1) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/6978c5e15001834827315076835/playlist_eof.m3u8?t=6aef6a1f&us=730f149442&sign=55ab9e172d62433322c3b5f221196224
+11-07 19:00 土女篮 伯塔斯女篮 vs 费内巴切女篮 (60-88) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/cbab04e65001834827395095543/playlist_eof.m3u8?t=6aef6c6b&us=c978957cf8&sign=56f525febc1955398af036779f1b22fc
+11-07 19:00 土女篮 加拉塔萨雷女篮 vs 贝西克塔斯女篮 (83-61) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/3e59d9805001834827345742561/playlist_eof.m3u8?t=6aef6c6c&us=8c9e9598b4&sign=4f0760a0712ec29e46b147e61280dfc8
+11-07 18:45 澳超 珀斯光荣 vs 纽卡斯尔喷气机 (2-1) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/9b64d59f5001834827224391726/playlist_eof.m3u8?t=6aef6c55&us=3401702ddd&sign=22711d95d96b635429cdbd32fec934b8
+11-07 18:30 土甲 凡城体育 vs 锡瓦斯 (3-1) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/4aa2769b5001834827390073082/playlist_eof.m3u8?t=6aef6cb0&us=e686d4df8a&sign=88d220d31d47a3366e09f0ecfb3d76cf
+11-07 18:30 土甲 克斯欧仁古库 vs 文尼沙FK (1-0) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/e74f8c435001834827337531666/playlist_eof.m3u8?t=6aef6cb4&us=44fe2c2e7b&sign=53cfebaf1cb8fef331eeb182a3aeb6b2
+11-07 18:30 土超 埃于普体育 vs 科贾埃利体育 (0-2) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/de4be3e05001834827361545544/playlist_eof.m3u8?t=6aef6cba&us=8636b6b1ec&sign=1985f7b25f037c82c3f4fd3f7b88ddd2
+11-07 18:30 爱沙甲 库雷撒勒 vs 诺米联 (1-1) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/7607d0c35001834827339093139/playlist_eof.m3u8?t=6aef6c8c&us=2f0ecd3303&sign=c01245c8cbd32976a82286739ec3ae94
+11-07 18:00 意青联甲 热那亚U20 vs 莱切U20 (1-4) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/bcfdb2a15001834827214971338/playlist_eof.m3u8?t=6aef6cbe&us=37e8c88d94&sign=db910327281e4b10a0b4ad4b7179904e
+11-07 18:00 意青联甲 亚特兰大U20 vs 国际米兰U20 (1-1) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/3ed6ec485001834827386866350/playlist_eof.m3u8?t=6aef6bdd&us=79b3cc1a32&sign=6b9622ea4676f0e85bf88e82d552a3a4
+11-07 18:00 土篮超 卡伊罗瓦市 vs 博尔多篮球会 (95-78) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/dbe053df5001834827337069044/playlist_eof.m3u8?t=6aef6ce7&us=45d7f2e84e&sign=5fb3d41b6ca103b7a2f789b07d1f572d
+11-07 18:00 香港超 理文 vs 冠忠南区 (1-0) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/09dbe3685001834827334955853/playlist_eof.m3u8?t=6aef6d0f&us=584ad663d8&sign=505847910473d9b93d9eb21b311adca3
+11-07 18:00 白俄超 纳夫坦诺瓦洛克 vs ML麦克斯林 (0-5) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/a1c537335001834827336898757/playlist_eof.m3u8?t=6aef6cff&us=1f0217b59b&sign=6f587b16dfc99adf30907f8eeaeecd2a
+11-07 18:00 越南联 嘉莱黄英 vs 河内FC (2-1) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/52364a5a5001834827216762223/playlist_eof.m3u8?t=6aef6cf5&us=eafd67cb66&sign=b7ee1745735632ac3e0d3c9d6c44b4d7
+11-07 17:05 日篮B2 青森热力 vs 山形飞龙 (85-88) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/df436bc55001834827290441958/playlist_eof.m3u8?t=6aef6c17&us=a85a08a177&sign=331ca504281e0664ac11f082db6c03c3
+11-07 17:00 VTB 叶尼塞 vs 海参崴迪纳摩 (97-111) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/15421e735001834827372450300/playlist_eof.m3u8?t=6aef6c47&us=a7fd1e919c&sign=73f5f5c2f7c36ed03b3bd9b88e3fc248
+11-07 16:40 澳超 墨尔本城 vs 西悉尼流浪者 (2-1) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/86e450c25001834827210892287/playlist_eof.m3u8?t=6aef6c4f&us=890624337f&sign=1597dc74f9813e8ad45801b7e247c302
+11-07 16:35 日篮B2 横滨卓越 vs 越谷阿尔法 (92-88) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/f61c06e45001834827344952590/playlist_eof.m3u8?t=6aef6bf2&us=7bfca66b13&sign=e6c4a3d9cb0a66e4c7d3d027afe473d0
+11-07 16:30 印尼乙 德雷德FC vs 巴克伦佛 (4-0) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/4b0548585001834827335430155/playlist_eof.m3u8?t=6aef6c28&us=009ce9fc35&sign=15d3be49956f7414c1472f6a5fef8fb5
+11-07 16:30 印尼乙 苏美尔联 vs 三宝垄 (1-4) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/0a67c95a5001834827358424311/playlist_eof.m3u8?t=6aef6c36&us=9f7880606e&sign=fbf497cf6a32e577a38bcf1042fb480f
+11-07 16:30 越南甲 林同 vs 庆和烟草 (1-1) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/94de94655001834827329512839/playlist_eof.m3u8?t=6aef6c6d&us=32c8085010&sign=41cdd592538878464a9fcae8636adac5
+11-07 16:30 越南甲 隆安 vs 同塔 (1-1) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/e1050b0d5001834827378388238/playlist_eof.m3u8?t=6aef6cd7&us=db178d51ce&sign=ee7ba11528b8de6cd7c00300a7a7ef7b
+11-07 16:30 澳NBL 墨尔本联 vs 布里斯班子弹 (120-92) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/4f2c33855001834827328852833/playlist_eof.m3u8?t=6aef6ced&us=ac843e68f7&sign=0102c3216b5a1c3ae8aae9043712488e
+11-07 16:30 澳NBL 墨尔本联 vs 布里斯班子弹 (120-92) - 超清外语1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/2b7356b15001834827379257588/playlist_eof.m3u8?t=6aef6ced&us=ac843e68f7&sign=81211711d9bc541bbee6937317a3c37c
+11-07 16:30 印尼甲 婆罗洲FC vs PSM望加锡 (1-1) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/286b66005001834827338004946/playlist_eof.m3u8?t=6aef6ce2&us=e33fa6e66f&sign=41976f352bce15725877173f9cd20f9b
+11-07 16:05 日篮B2 东京地球之友 vs 福岛火绊 (67-72) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/d34efe055001834827283198047/playlist_eof.m3u8?t=6aef6c20&us=7694e7edd7&sign=bc2659733deaf2dd630c46dfb0a2684e
+11-07 16:05 日篮B2 东京八王子市火车 vs 埼玉野马 (76-94) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/44a8cc285001834827376277409/playlist_eof.m3u8?t=6aef6d1c&us=6ce838293f&sign=ec014e5edddbefa0d645e03aaa95bbc1
+11-07 16:05 日篮B1 东京太阳摇滚 vs 京都创荣 (92-87) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/167667e55001834827324635955/playlist_eof.m3u8?t=6aef6c4c&us=6d23fd82ab&sign=c179f0587f01564a3d00fad9e8f90505
+11-07 16:00 澳女篮 本迪高精灵女篮 vs UC首都女篮 (83-97) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/0573eb5c5001834827375841320/playlist_eof.m3u8?t=6aef6bfb&us=ce05c09ef4&sign=eab2a88991fe0b922e19c89fa9e84fab
+11-07 16:00 澳女联 珀斯光荣女足 vs 堪培拉联女足 (0-1) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/d057de7a5001834827323916160/playlist_eof.m3u8?t=6aef6c23&us=7c5c305580&sign=14fdb43c9af1fc718177cba6c6ea73ad
+11-07 15:30 韩篮甲 水原KT音速弹 vs 大邱石油公社飞马 (92-81) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/8a7eca5a5001834827282325243/playlist_eof.m3u8?t=6aef6cf6&us=127d76457e&sign=b2806c39a740c46c7c1bdbfb90991cf8
+11-07 15:30 韩K2联 首尔衣恋 vs 全南天龙 (3-2) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/61e4affc5001834827373405731/playlist_eof.m3u8?t=6aef6be4&us=1a4b1eb3ca&sign=5b82da7b4e0a2b655e7420e2fa1c664d
+11-07 15:30 韩K2联 金浦市民 vs 安山小绿人 (2-2) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/77c7293c5001834827322428912/playlist_eof.m3u8?t=6aef6cfb&us=66d11afb8a&sign=edece6d54c8958a3a1ec2c9a67bc1c18
+11-07 15:30 韩K2联 金海 vs 华城FC (0-1) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/834a81c25001834827322904586/playlist_eof.m3u8?t=6aef6c16&us=2425d88d90&sign=961fa8dc460f16133eb42dc3645eb62c
+11-07 15:30 韩K联 金泉尚武 vs 安养FC (1-0) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/c7ebdda85001834827364698405/playlist_eof.m3u8?t=6aef6cd7&us=db178d51ce&sign=592a2a90a6a953e41873d6fdfea71ab0
+11-07 15:05 日篮B1 大阪七福神 vs 茨城机器人 (68-86) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/e055f1175001834827201554173/playlist_eof.m3u8?t=6aef6c4a&us=2164d07b28&sign=0a26350bab7ce3483a1543d3793962c8
+11-07 15:00 韩女甲 友利银行女篮 vs 龙仁三星女篮 (65-54) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/260b0fb85001834827202219166/playlist_eof.m3u8?t=6aef6c5d&us=1c32ea7b2a&sign=a7ca9e0c071b4224023acb87762ee5cc
+11-07 15:00 日篮B1 宇都宫皇者 vs 琉球黄金帝王 (79-76) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/7d9300445001834827370544918/playlist_eof.m3u8?t=6aef6c2a&us=9f9d65ea93&sign=7a358590bf119b94fb13ecb2380b1cac
+11-07 15:00 日职丙 爱媛FC vs 滋贺湖王 (1-0) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/bd075a245001834827333978008/playlist_eof.m3u8?t=6aef6bfc&us=7f12731655&sign=b9db97c6ec6ff750221ed7d4902b05a2
+11-07 15:00 香港超 至尊沙田 vs 标准流浪 (1-1) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/d75015f55001834827320195015/playlist_eof.m3u8?t=6aef6c30&us=cfc4bd4a65&sign=d627a1c25f781ac524fa107e56f26f34
+11-07 15:00 日职联 柏太阳神 vs 川崎前锋 (2-1) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/a19dd6e85001834827319213989/playlist_eof.m3u8?t=6aef6c7b&us=9ac19ef61b&sign=7a13b3209b6de50beb1f9054ba64e6e9
+11-07 14:35 日篮B2 名古屋战鹰 vs 东京联合 (76-95) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/9757d43b5001834827329632214/playlist_eof.m3u8?t=6aef6c7b&us=9ac19ef61b&sign=bc249ba052f1d677460301a8bb95dea3
+11-07 14:30 日女甲 丰田阳光女篮 vs 电装小仙女女篮 (51-52) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/bd3b0d365001834827316344510/playlist_eof.m3u8?t=6aef6c6d&us=32c8085010&sign=f8af984add2e1282dd19ecd903cfb03b
+11-07 14:30 澳NBL 阿德莱德36人 vs 伊拉瓦拉老鹰 (106-78) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/50e2d4665001834827359197117/playlist_eof.m3u8?t=6aef6ca9&us=a31464587d&sign=876d769f0a3924c44b6c044b75967f2d
+11-07 14:30 澳NBL 阿德莱德36人 vs 伊拉瓦拉老鹰 (106-78) - 超清外语1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/57dfb28a5001834827359492924/playlist_eof.m3u8?t=6aef6ca9&us=a31464587d&sign=1c8da87cc6b4857da83bb83350951595
+11-07 14:30 中乙 青岛红狮 vs 成都蓉城B队 (0-2) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/66533a705001834827366866189/playlist_eof.m3u8?t=6aef6c7b&us=9ac19ef61b&sign=99f4bd658f4f098dbfd000e2ebd6a4cb
+11-07 14:30 中乙 海门珂缔缘 vs 赣州瑞狮 (3-0) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/a7384b055001834827367308762/playlist_eof.m3u8?t=6aef6c99&us=7844ab939e&sign=73e6f268ba5c2867c1baa925b512617a
+11-07 14:30 中乙 泰安天贶 vs 厦门飞鹭 (0-0) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/aa0b924a5001834827367477724/playlist_eof.m3u8?t=6aef6c50&us=ba387d7cf2&sign=929873cce3cee6fc908d2f672e5ad5eb
+11-07 14:30 中乙 北京理工 vs 武汉三镇B队 (0-3) - 高清回放1,https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/5b1c5e9e5001834827193851602/playlist_eof.m3u8?t=6aef6c9a&us=7bf71d1d5b&sign=26e96ca133a7c77db6ad09a2dc24f443
 🇨🇳央卫视直播[1],#genre#
 CCTV1综合,http://8.137.121.66:20241/608807420
 CCTV2财经,http://8.137.121.66:20241/631780532
