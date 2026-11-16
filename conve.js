@@ -3,24 +3,11 @@ const fs = require('fs');
 
 // =========在这里添加所有源，txt、m3u都支持=========
 const SOURCE_LIST = [
-  {
-    url: "https://seep.eu.org/https://jh.807080747.workers.dev/"
-  },
-   {
-    url: "https://seep.eu.org/https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/refs/heads/main/webview.txt"
-  },
-  {
-    url: "http://iptv.910501.xyz/"
-  },
+
+
     {
     url: "https://gh-proxy.com/https://raw.githubusercontent.com/807080747/Collect-IPTV/refs/heads/main/best_sorted.m3u"
   },
-  {
-    url: "http://wangziduoqing.cn/yuan/zb.txt"
-  },
-  {
-    url: "https://seep.eu.org/https://iptv.445569.xyz/live.m3u"
-  }
 ];
 // 全局统一超时：15秒
 const GLOBAL_TIMEOUT = 15000;
