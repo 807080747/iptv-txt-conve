@@ -4,7 +4,7 @@ const fs = require('fs');
 // =========在这里添加所有源，txt、m3u都支持=========
 const SOURCE_LIST = [
   {
-    url: "https://seep.eu.org/https://jh.807080747.workers.dev/"
+    url: "https://seep.eu.org/https://xxyumenga04.807080747.workers.dev/"
   },
    {
     url: "https://seep.eu.org/https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/refs/heads/main/webview.txt"
