@@ -19,7 +19,7 @@ const SOURCE_LIST = [
     url: "http://wangziduoqing.cn/yuan/zb.txt"
   },
   {
-    url: "https://seep.eu.org/https://iptv.445569.xyz/live.m3u"
+    url: "https://nb.xymm.de5.net/0ybmli/https://iptv.445569.xyz/live.m3u"
   }
 ];
 // 全局统一超时：15秒
