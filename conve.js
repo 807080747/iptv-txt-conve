@@ -3,7 +3,7 @@ const fs = require('fs');
 // =========在这里添加所有源，txt、m3u都支持=========
 const SOURCE_LIST = [
   {
-    url: "https://seep.eu.org/https://xxyumenga04.807080747.workers.dev/"
+    url: "https://cnb.cool/fingersc/iptv-sync/-/git/raw/main/user_result.txt"
   },
   
   {
@@ -16,7 +16,7 @@ const SOURCE_LIST = [
     url: "https://gh-proxy.com/https://raw.githubusercontent.com/807080747/IPT/refs/heads/main/live.txt"
   },
   {
-    url: "1"
+    url: "https://cnb.cool/kingmax1688/iptv/-/git/raw/main/output/iptv.txt"
   },
   {
     url: "https://nb.xymm.de5.net/0ybmli/https://iptv.445569.xyz/live.m3u"
