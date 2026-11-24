@@ -7,7 +7,7 @@ const SOURCE_LIST = [
     url: "https://seep.eu.org/https://xxyumenga04.807080747.workers.dev/"
   },
   {
-    url: "https://seep.eu.org/https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/refs/heads/main/webview.txt"
+    url: "https://seep.eu.org/https://raw.githubusercontent.com/lem85930/LiteTV/refs/heads/main/live.m3u"
   },
   {
     url: "https://gh-proxy.com/https://raw.githubusercontent.com/807080747/IPT/refs/heads/main/live.txt"
