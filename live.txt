@@ -54,7 +54,6 @@ CCTV-14,http://123.160.235.204:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=
 CCTV-14,http://27.12.12.40:1234/624878440
 CCTV-14,http://221.226.51.220:50081/newlive/live/hls/15/live.m3u8
 CCTV-15,http://27.12.12.40:1234/673168223
-CCTV-15,http://183.129.255.66:8480/hls/16/index.m3u8
 CCTV-17,http://221.7.175.154:8445/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-17,http://27.12.12.40:1234/673168256
 CETV-1,http://27.12.12.40:1234/923287154
@@ -117,7 +116,6 @@ CETV-4,http://27.12.12.40:1234/923287339
 江西卫视,http://27.12.12.40:1234/783847495
 辽宁卫视,http://221.7.175.154:8445/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://27.12.12.40:1234/630291707
-辽宁卫视,http://111.59.24.227:8181/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 内蒙古卫视,http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
 青海卫视,http://218.13.139.26:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 青海卫视,http://123.160.235.204:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -254,6 +252,7 @@ CCTV6,webview://https://m.1905.com/m/cctv6/gzh/?home
 深圳少儿,webview://https://www.sztv.com.cn/dianshi.shtml?id=7881&u-link=1
 福州少儿,webview://https://www.zohi.tv/app/tv/795
 4K频道,#genre#
+上海卫视4k,https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 江苏卫视4K,webview://https://live.jstv.com/?channelId=676
 苏州卫视4K,https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
 苏州卫视4K,http://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
@@ -909,7 +908,6 @@ CETV4,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca9
 西安移动电视,webview://https://v.xiancity.cn/folder8/
 铜川综合,webview://https://www.tcsrm.cn/tvradio/tczhpd.html
 咸阳综合,webview://https://www.sxxynews.com.cn/tvradio/xyzhpd.html
-商洛综合,https://player4.juyun.tv/camera/171844138.m3u8
 延安综合,https://srs.yanews.cn/video/YATV-1/index.m3u8
 延安公共,https://srs.yanews.cn/video/YATV-2/index.m3u8
 榆林综合,webview://https://v.ylrb.com/2/2tsp/zb/dszb/336843.shtml
@@ -964,7 +962,6 @@ CCTV1,http://sagrad.org:8181/3m1080p/cctv1.m3u8
 CCTV1,http://116.237.170.51:7788/608807420
 CCTV1,http://175.24.134.198:1234/608807420
 CCTV1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
-CCTV1,http://183.129.255.66:8480/hls/1/index.m3u8
 CCTV2,http://38.75.136.137:98/gslb/dsdqca/cctv2hd.m3u8?auth=test20251009
 CCTV2,http://38.75.136.137:98/gslb/dsdqca/gzwshd.m3u8?auth=test20251009
 CCTV2,http://192.151.150.154/live/cctv2hd.m3u8
@@ -1036,7 +1033,6 @@ CCTV5,http://221.226.51.220:50081/newlive/live/hls/6/live.m3u8
 CCTV5,http://221.226.51.220:50081/newlive/live/hls/5/live.m3u8
 CCTV5,http://175.24.134.198:1234/641886683
 CCTV5,http://60.187.246.195:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5,http://183.129.255.66:8480/hls/5/index.m3u8
 CCTV5,http://116.237.170.51:7788/641886683
 CCTV5,http://121.199.48.54/live1/dsdq.m3u8?id=cctv5hd&usign=jCw-MkWk9oF-fhwQoml3pQ
 CCTV5,http://61.136.172.236:9901/tsfile/live/0005_1.m3u8
@@ -1106,7 +1102,6 @@ CCTV8,http://107.150.60.122/live/cctv8hd.m3u8
 CCTV8,http://198.204.228.26/live/cctv8hd.m3u8
 CCTV8,http://204.12.221.218:8181/3m1080p/cctv8.m3u8
 CCTV8,http://sagrad.org:8181/3m1080p/cctv8.m3u8
-CCTV8,http://183.129.255.66:8480/hls/9/index.m3u8
 CCTV8,http://175.24.134.198:1234/624878356
 CCTV8,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8k
 CCTV8,http://116.237.170.51:7788/624878356
@@ -1159,7 +1154,6 @@ CCTV11,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv11hd
 CCTV11,http://175.24.134.198:1234/667987558
 CCTV11,http://61.136.172.236:9901/tsfile/live/0011_1.m3u8
 CCTV11,http://116.237.170.51:7788/667987558
-CCTV11,http://183.129.255.66:8480/hls/12/index.m3u8
 CCTV11,http://218.13.139.26:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV11,http://58.57.40.22:9901/tsfile/live/1011_1.m3u8
 CCTV11,http://120.76.248.139/live/bfgd/4200000130.m3u8
@@ -1172,7 +1166,6 @@ CCTV12,http://74.91.26.218:82/live/cctv12hd.m3u8
 CCTV12,http://173.208.234.146/live/cctv12.m3u8
 CCTV12,http://107.150.60.122/live/cctv12hd.m3u8
 CCTV12,http://221.226.51.220:50081/newlive/live/hls/13/live.m3u8
-CCTV12,http://183.129.255.66:8480/hls/13/index.m3u8
 CCTV12,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv12hd
 CCTV12,http://175.24.134.198:1234/673168185
 CCTV12,http://116.237.170.51:7788/673168185
@@ -1193,7 +1186,6 @@ CCTV13,http://107.150.60.122/live/cctv13hd.m3u8
 CCTV13,https://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8
 CCTV13,http://116.237.170.51:7788/608807423
 CCTV13,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13hd
-CCTV13,http://183.129.255.66:8480/hls/14/index.m3u8
 CCTV13,http://121.199.48.54/live1/cctvxw.m3u8?bt=2&id=cctv13hd&usign=jCw-MkWk9oF-fhwQoml3pQ@@Referer=https://m-live.cctvnews.cctv.com/@@
 CCTV13,http://61.136.172.236:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13,http://175.24.134.198:1234/608807423
@@ -1230,7 +1222,6 @@ CCTV15,http://173.208.212.130:8181/720p/cctv15.m3u8
 CCTV15,http://107.150.60.122/live//cctv15hd.m3u8
 CCTV15,http://175.24.134.198:1234/673168223
 CCTV15,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv15hd
-CCTV15,http://183.129.255.66:8480/hls/16/index.m3u8
 CCTV15,http://121.199.48.54/live1/dsdq.m3u8?id=cctv15hd&usign=jCw-MkWk9oF-fhwQoml3pQ
 CCTV15,http://49.70.189.149:60001/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://116.237.170.51:7788/673168223
@@ -1252,7 +1243,7 @@ CCTV16,http://173.208.234.146/live/cctv16.m3u8
 CCTV16,http://221.226.51.220:50081/newlive/live/hls/1/live.m3u8
 CCTV16,http://183.11.239.36:808/hls/169/index.m3u8
 CCTV16,http://121.199.48.54/live1/dsdq.m3u8?id=cctv16hd&usign=jCw-MkWk9oF-fhwQoml3pQ
-CCTV16,http://183.129.255.66:8480/hls/17/index.m3u8
+CCTV16,http://gmxw.7766.org:808/hls/169/index.m3u8
 CCTV17,http://38.75.136.137:98/gslb/dsdqca/cctv17hd.m3u8?auth=test20251009
 CCTV17,http://38.75.136.137:98/gslb/dsdqca/fhzwhd.m3u8?auth=test20251009
 CCTV17,https://live.264788.xyz/channel/cctv17?streamid=f9c36f1e95b5b35eac89cc89583e7c0a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -1269,7 +1260,6 @@ CCTV17,http://sagrad.org:8181/3m1080p/cctv17.m3u8
 CCTV17,http://173.208.212.130:8181/720p/cctv17.m3u8
 CCTV17,http://116.237.170.51:7788/673168256
 CCTV17,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd
-CCTV17,http://183.129.255.66:8480/hls/18/index.m3u8
 CCTV17,http://175.24.134.198:1234/673168256
 CCTV17,http://58.57.40.22:9901/tsfile/live/0019_1.m3u8
 风云剧场,https://live.264788.xyz/channel/fengyunjuchang?streamid=31e7b5b7032d25dd215a4069cdee1a48&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -1300,6 +1290,7 @@ CCTV17,http://58.57.40.22:9901/tsfile/live/0019_1.m3u8
 兵器科技,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gfjs
 兵器科技,http://121.199.48.54/live1/jsbv1.m3u8?id=gfjs&usign=jCw-MkWk9oF-fhwQoml3pQ
 兵器科技,http://121.199.48.54/live1/jsbv2b.m3u8?id=gfjs&usign=jCw-MkWk9oF-fhwQoml3pQ
+兵器科技,http://183.11.239.36:808/hls/21/index.m3u8
 兵器科技,http://107.150.60.122/live/gfjs.m3u8
 兵器科技,http://173.208.212.130:8181/720p/gfjs.m3u8
 兵器科技,http://47.97.252.137:8088/daili/gfjs.m3u8?line=0
@@ -1314,6 +1305,7 @@ CCTV17,http://58.57.40.22:9901/tsfile/live/0019_1.m3u8
 第一剧场,http://198.204.228.26/live/dyjc.m3u8
 第一剧场,http://107.150.60.122/live/dyjc.m3u8
 第一剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dyjc
+第一剧场,http://183.11.239.36:808/hls/98/index.m3u8
 第一剧场,http://dassby.qqff.top:99/live/第一剧场/index.m3u8
 第一剧场,http://121.199.48.54/live1/jsbv1.m3u8?id=dyjc&usign=jCw-MkWk9oF-fhwQoml3pQ
 第一剧场,http://121.199.48.54/live1/jsbv2b.m3u8?id=dyjc&usign=jCw-MkWk9oF-fhwQoml3pQ
@@ -1448,6 +1440,7 @@ CCTV17,http://58.57.40.22:9901/tsfile/live/0019_1.m3u8
 卫生健康,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=wsjk
 卫生健康,http://121.199.48.54/live1/jsbv2b.m3u8?id=wsjk&usign=jCw-MkWk9oF-fhwQoml3pQ
 卫生健康,http://121.199.48.54/live1/jsbv1.m3u8?id=wsjk&usign=jCw-MkWk9oF-fhwQoml3pQ
+卫生健康,http://104.152.209.49:8181/720p/wsjk.m3u8
 卫生健康,http://173.208.212.130:8181/720p/wsjk.m3u8
 卫生健康,http://47.97.252.137:8088/daili/wsjk.m3u8?line=0
 卫生健康,http://121.199.48.54/live1/jsbv2b.m3u8?id=wsjk&usign=n5ggKxECxYS6QKVrQHv6-w
@@ -1595,6 +1588,7 @@ CETV4,http://mg.cttv.vip/923287339
 安徽卫视,http://221.226.51.220:50081/newlive/live/hls/36/live.m3u8
 安徽卫视,http://183.11.239.36:808/hls/40/index.m3u8
 安徽卫视,http://120.76.248.139/live/bfgd/4200000096.m3u8
+安徽卫视,http://gmxw.7766.org:808/hls/40/index.m3u8
 安徽卫视,http://61.136.172.236:9901/tsfile/live/0130_1.m3u8
 安徽卫视,http://58.57.40.22:9901/tsfile/live/1033_1.m3u8
 安徽卫视,http://218.13.139.26:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1658,7 +1652,6 @@ CETV4,http://mg.cttv.vip/923287339
 深圳卫视,http://61.136.172.236:9901/tsfile/live/0126_1.m3u8
 深圳卫视,http://120.76.248.139/live/bfgd/4200000100.m3u8
 深圳卫视,http://218.13.139.26:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视,http://183.11.239.36:808/hls/45/index.m3u8
 深圳卫视,http://58.57.40.22:9901/tsfile/live/1036_1.m3u8
 深圳卫视,http://59.39.89.130:60901/tsfile/live/0125_11.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://124.90.45.52:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1793,13 +1786,13 @@ CETV4,http://mg.cttv.vip/923287339
 广西卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gxwshd
 广西卫视,http://61.136.172.236:9901/tsfile/live/0113_1.m3u8
 广西卫视,http://120.76.248.139/live/bfgd/4200000116.m3u8
+广西卫视,http://183.11.239.36:808/hls/56/index.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
 广西卫视,http://61.136.172.236:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 广西卫视,http://124.90.45.52:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 广西卫视,http://112.123.243.37:50085/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
 广西卫视,http://36.136.38.87:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 延边卫视,http://sagrad.org:8181/3m1080p/ybws.m3u8
-延边卫视,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 延边卫视,http://120.76.248.139/live/bfgd/4200000117.m3u8
 延边卫视,http://gmxw.7766.org:808/hls/15/index.m3u8
 延边卫视,http://stream2.jlntv.cn/jlyb/sd/live.m3u8
@@ -1850,16 +1843,13 @@ CETV4,http://mg.cttv.vip/923287339
 江西卫视,http://60.187.246.195:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://61.136.172.236:9901/tsfile/live/0138_1.m3u8
 江西卫视,http://183.11.239.36:808/hls/44/index.m3u8
-江西卫视,http://113.124.186.195:7788/783847495
 江西卫视,http://58.57.40.22:9901/tsfile/live/1043_1.m3u8
 河北卫视,http://192.151.150.154/live/hebws.m3u8
 河北卫视,http://198.204.228.26/live/hebws.m3u8
 河北卫视,http://38.75.136.137:98/gslb/dsdqpub/hewshd.m3u8?auth=testpub
 河北卫视,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=hebei&videoTVChannel=hebei&P2PChannelID=pd://cctv_p2p_hebei&tai=hebei&VideoName=hebei&channelID=hebei
-河北卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hewshd
 河北卫视,http://175.24.134.198:1234/962042070
 河北卫视,http://116.237.170.51:7788/962042070
-河北卫视,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
 河北卫视,http://120.76.248.139/live/bfgd/4200000108.m3u8
 河北卫视,http://183.11.239.36:808/hls/54/index.m3u8
 河北卫视,http://218.13.139.26:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1975,7 +1965,6 @@ CETV4,http://mg.cttv.vip/923287339
 重庆卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cqwshd
 重庆卫视,http://61.136.172.236:9901/tsfile/live/0142_1.m3u8
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
-重庆卫视,http://183.11.239.36:808/hls/53/index.m3u8
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi?streamid=9dc887dba8ecb4e4143baf4f2373800c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
 陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
@@ -2085,6 +2074,7 @@ CETV4,http://mg.cttv.vip/923287339
 内蒙古卫视,http://120.76.248.139/live/bfgd/4200000110.m3u8
 内蒙古卫视,http://118.193.115.2:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
 内蒙古卫视,http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
+内蒙古卫视,http://cssbyd.imwork.net:8082/hls/44/index.m3u8
 内蒙古卫视,http://121.199.48.54/live1/jsbv2b.m3u8?id=nmgws&usign=jCw-MkWk9oF-fhwQoml3pQ
 大湾区卫视,http://204.12.221.218:8181/3m1080p/nfws.m3u8
 大湾区卫视,http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub
@@ -2332,7 +2322,6 @@ ViuTV,http://iptv12k.com:35461/live/test167/12345/1008.m3u8
 中视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 中视新闻,http://31.43.191.125:8080/restream/restream/34896
 中视新闻,https://www.youtube.com/watch?v=TCnaIE_SAtM
-中视经典,http://167.88.62.43:64008/0.ts
 中视经典,http://31.43.191.125:8080/restream/restream/34895
 中视经典,http://iptv12k.com:35461/live/8032022060101/452381/1274.m3u8
 中视经典,http://iptv12k.com:35461/live/test167/12345/1274.m3u8
@@ -2460,7 +2449,6 @@ ViuTV,http://iptv12k.com:35461/live/test167/12345/1008.m3u8
 龙华电影,http://45.192.97.170:8880/play/646.m3u8
 龙华经典,https://cdn.qd.je/163189.php?id=lhjd
 龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
-龙华经典,https://8.fast.hidns.vip/163189/lhjd
 龙华经典,http://45.192.97.170:8880/play/647.m3u8
 台视,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 台视,http://iptv12k.com:35461/live/test167/12345/1290.m3u8
@@ -2531,6 +2519,7 @@ amc电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
 经典电影,http://api2.52tb.xyz/info?id=1020&token=20230404dmgnht
 1905电影网,http://php.jdshipin.com:8880/1905.php?id=1905dy
+1905电影网,http://8.138.7.223/tv/1905.php?id=LIVE8J4LTCXPI7QJ5
 周星驰,http://173.208.234.146/live/vlzxc.m3u8
 周星驰,http://222.186.39.38:8000/028749/index.m3u8
 周星驰,http://121.199.48.54/live1/jsbv1.m3u8?id=hyzxc&usign=jCw-MkWk9oF-fhwQoml3pQ
@@ -2565,7 +2554,6 @@ amc电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 林正英,https://yg.ygbox.de5.net/huya.php?id=11342421
 林正英,http://121.199.48.54/live1/jsbv2b.m3u8?id=hylzy&usign=n5ggKxECxYS6QKVrQHv6-w
 林正英,http://121.199.48.54/live1/jsbv1.m3u8?id=hylzy&usign=n5ggKxECxYS6QKVrQHv6-w
-甄子丹,http://tv.zimtv.cn/tv/player/api/huya.php?id=11352935
 电影_黄渤,https://lbds.us.ci/11352876
 电影_周星星,https://lbds.us.ci/11336587
 电影_成龙,https://lbds.us.ci/11342386
@@ -2577,42 +2565,28 @@ amc电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 电影_刘德华,https://lbds.us.ci/11342424
 电影_怪兽,https://lbds.us.ci/21059577
 电影_喜乐影院,https://lbds.us.ci/21059580
-电影_喜乐影院,http://tv.zimtv.cn/tv/player/api/huya.php?id=21059580
 电影_喜剧专场,https://lbds.us.ci/11602044
-电影_喜剧专场,http://tv.zimtv.cn/tv/player/api/huya.php?id=11602044
 电影_玄幻,https://lbds.us.ci/11342414
 电影_古墓系列,https://lbds.us.ci/11352913
 电影_功夫片,https://lbds.us.ci/11352941
 电影_罪犯,https://lbds.us.ci/11352962
 电影_盗墓,https://lbds.us.ci/21059552
-电影_犯罪片,http://tv.zimtv.cn/tv/player/api/huya.php?id=11352974
 电影_犯罪片,https://lbds.us.ci/11352974
 电影_不挤影院,https://lbds.us.ci/11352897
-电影_不挤影院,http://tv.zimtv.cn/tv/player/api/huya.php?id=11352897
 电影_武侠,https://lbds.us.ci/11342427
 电影_黑帮片,https://lbds.us.ci/11336719
-电影_黑帮片,http://tv.zimtv.cn/tv/player/api/huya.php?id=11336719
 电影_丧尸片,https://lbds.us.ci/21059578
-电影_丧尸片,http://tv.zimtv.cn/tv/player/api/huya.php?id=21059578
 电影_动作电影,https://lbds.us.ci/11602077
-电影_动作电影,http://tv.zimtv.cn/tv/player/api/huya.php?id=11602077
 电影_战争片,https://lbds.us.ci/21059574
-电影_战争片,http://tv.zimtv.cn/tv/player/api/huya.php?id=21059574
 电影_搞笑喜剧,https://lbds.us.ci/11342423
-电影_搞笑喜剧,http://tv.zimtv.cn/tv/player/api/huya.php?id=11342423
 电影_搞笑恐怖,https://lbds.us.ci/11601960
-电影_搞笑恐怖,http://tv.zimtv.cn/tv/player/api/huya.php?id=11601960
 电影_枪战,https://lbds.us.ci/21059579
 电影_热血,https://lbds.us.ci/11352934
 电影_经典女神,https://lbds.us.ci/11352909
-电影_经典女神,http://tv.zimtv.cn/tv/player/api/huya.php?id=11352909
 电影_许氏三杰,https://lbds.us.ci/11602033
 电影_谍战,https://lbds.us.ci/21059585
-电影_谍战,http://tv.zimtv.cn/tv/player/api/huya.php?id=21059585
-电影_谍战片,http://tv.zimtv.cn/tv/player/api/huya.php?id=21059587
 电影_贺岁,https://lbds.us.ci/11601971
 电影_贺岁片,https://lbds.us.ci/11601986
-电影_贺岁片,http://tv.zimtv.cn/tv/player/api/huya.php?id=11601986
 电影_赛车,https://lbds.us.ci/11279247
 电影_死神来了,https://lbds.us.ci/11352903
 电影_推荐,https://lbds.us.ci/11602041
@@ -2629,7 +2603,6 @@ amc电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 电视剧,#genre#
 仙剑奇侠传,https://mursor.ottiptv.cc/yy/1382749903
 与凤行,http://cfss.cc/cdn/huya/26355866.flv
-庆余年,http://tv.zimtv.cn/tv/player/api/huya.php?id=11352960
 小欢喜,https://live.metshop.top/yy/1382737888
 你是我的荣耀,http://cfss.cc/cdn/huya/11352920.flv
 你是我的荣耀,http://live.ottiptv.cc/huya/11352920
@@ -2638,7 +2611,6 @@ amc电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 大江大河,https://live.metshop.top/yy/1382736806
 大江大河2,https://live.metshop.top/yy/1382736797
 白夜追凶第一季,https://live.metshop.top/yy/1354932359
-射雕英雄传,http://tv.zimtv.cn/tv/player/api/huya.php?id=23824164
 神雕侠侣,http://live.ottiptv.cc/yy/1351762426
 神雕侠侣,http://cfss.cc/cdn/huya/24609809.flv
 倚天屠龙记,http://live.ottiptv.cc/huya/11342403
@@ -2774,24 +2746,23 @@ NewTV,#genre#
 风云足球,http://120.76.248.139/live/bfgd/4200000225.m3u8
 风云足球,http://dassby.qqff.top:99/live/风云足球/index.m3u8
 魅力足球,http://dassby.qqff.top:99/live/快乐垂钓/index.m3u8
-魅力足球,http://8.138.7.223/tv/migu3.php?id=mlzq
 游戏频道,#genre#
 「B站」CS_2,http://live.iill.top/bilibili.php?id=21622811
 「B站」使命召唤•手游,http://live.iill.top/bilibili.php?id=22741849
+「B站」无畏契约,http://live.iill.top/bilibili.php?id=22908869
 「B站」王者荣耀_𝟙,http://live.iill.top/bilibili.php?id=55
 「B站」英雄联盟,http://live.iill.top/bilibili.php?id=6
 「斗鱼」DOTA2,http://live.iill.top/douyu.php?id=3811559
+「斗鱼」JJ斗地主,http://live.iill.top/douyu.php?id=488743
 「斗鱼」QQ飞车•手游,http://live.iill.top/douyu.php?id=5040227
 「斗鱼」云顶之弈,http://live.iill.top/douyu.php?id=522423
 「斗鱼」使命召唤•手游,http://live.iill.top/douyu.php?id=9223245
-「斗鱼」原神,http://live.iill.top/douyu.php?id=10853239
 「斗鱼」和平精英,http://live.iill.top/douyu.php?id=999
 「斗鱼」我的世界,http://live.iill.top/douyu.php?id=738878
 「斗鱼」永劫无间,http://live.iill.top/huya.php?id=9662891
-「斗鱼」穿越火线_𝟚,http://live.iill.top/douyu.php?id=5388537
+「斗鱼」王者荣耀_𝟙,http://live.iill.top/douyu.php?id=1863767
 「斗鱼」第五人格,http://live.iill.top/douyu.php?id=3226194
 「斗鱼」英雄联盟_𝟙,http://live.iill.top/douyu.php?id=288016
-「斗鱼」英雄联盟_𝟚,http://live.iill.top/douyu.php?id=424559
 「斗鱼」街霸,http://live.iill.top/huya.php?id=11437
 「斗鱼」跑跑卡丁车•手游,http://live.iill.top/douyu.php?id=6672862
 「斗鱼」金铲铲之战,http://live.iill.top/douyu.php?id=9715241
@@ -2803,11 +2774,10 @@ NewTV,#genre#
 游戏风云,http://121.199.48.54/live1/jsbv1.m3u8?id=yxfyhd&usign=n5ggKxECxYS6QKVrQHv6-w
 「虎牙」DOTA2,http://live.iill.top/huya.php?id=660118
 「虎牙」使命召唤•手游,http://live.iill.top/huya.php?id=11718629
-「虎牙」和平精英,http://live.iill.top/huya.php?id=660006
 「虎牙」无畏契约,http://live.iill.top/huya.php?id=660679
-「虎牙」王者荣耀_𝟙,http://live.iill.top/huya.php?id=660002
 「虎牙」王者荣耀_𝟚,http://live.iill.top/huya.php?id=660164
 「虎牙」穿越火线,http://live.iill.top/huya.php?id=660101
+「虎牙」穿越火线•手游,http://live.iill.top/huya.php?id=660102
 「虎牙」第五人格,http://live.iill.top/huya.php?id=idvesports
 「虎牙」绝地求生_𝟙,http://live.iill.top/huya.php?id=660004
 「虎牙」绝地求生_𝟚,http://live.iill.top/huya.php?id=660005
@@ -2859,6 +2829,7 @@ CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.22
 卡酷少儿,http://38.75.136.137:82/live2/btv.m3u8?id=btvkk&usign=n5ggKxECxYS6QKVrQHv6-w
 卡酷少儿,http://121.199.48.54/live1/jsbv2b.m3u8?id=btvkk&usign=n5ggKxECxYS6QKVrQHv6-w
 卡酷少儿,http://121.199.48.54/live1/jsbv1.m3u8?id=btvkk&usign=n5ggKxECxYS6QKVrQHv6-w
+卡酷少儿,http://8.138.7.223/tv/bj.php?id=0008
 名侦探柯南,https://lbds.us.ci/30080236
 哈哈炫动,http://38.75.136.137:98/gslb/dsdqpub/xdkthd.m3u8?auth=testpub
 哈哈炫动,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xdkthd
@@ -2894,7 +2865,6 @@ CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.22
 浙江少儿,http://124.90.45.52:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=
-浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8?a=1000&amp;d=83b26bacf5397c013aff782b2c4287d0&amp;k=c99bdac76cff6ddc27e750ba689b7d5b&amp;t=1704368408
 浙江少儿,http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
 浙江少儿,https://ali-xwl.cztv.com/live/channel08720Pnew.m3u8
 浙江少儿,https://ali-xwl.cztv.com/live/channel081080Pnew.m3u8
@@ -2906,7 +2876,6 @@ CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.22
 浙江少儿,http://121.199.48.54/live1/zjtv2.m3u8?id=zjtv8&usign=jCw-MkWk9oF-fhwQoml3pQ
 海南少儿,http://121.199.48.54/live1/hitv.m3u8?id=hiqs&usign=jCw-MkWk9oF-fhwQoml3pQ
 海南少儿,http://vapi.91kds.cc/live1/hitv.m3u8?id=hiqs&apiKey=2079b631b519ec17da0bc09844eb8419
-海南少儿,http://hainan.lbds.us.ci/?id=7
 海南少儿,http://121.199.48.54/live1/hitv.m3u8?id=hiqs&usign=n5ggKxECxYS6QKVrQHv6-w
 猫和老鼠,http://live.iill.top/huya.php?id=11352879
 猫和老鼠,https://lbds.us.ci/11352879
@@ -2918,7 +2887,6 @@ CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.22
 金鹰卡通,http://124.90.45.52:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://39.165.39.49:85/tsfile/live/1156_1.m3u8?key=txiptv&playlive=0&authid=0
 金鹰卡通,http://221.7.175.154:8445/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-金鹰卡通,https://ysp.lml1971.ccwu.cc/mg_jykt/playlist.m3u8
 龙华卡通,https://8.fast.hidns.vip/163189/lhkt
 国际台,#genre#
 AlabbassiaTV,https://stream.alabbassia.com/live/alabbassia/index.m3u8
@@ -2943,7 +2911,6 @@ CNN,http://fastrunner.live:8080/live/LXdVGQ2ulN/2YV8Pnu7e9/568.ts
 CNN,http://d029dcec.kazmazpaz.ru/iptv/FHKC2D3GGKYK3Q/6499/index.m3u8
 CNN,http://primep2.tv:826/live/SourPatchKid/nlnE4DVQUs/105877.ts
 CNN,https://jmp2.uk/stvp-GBBD8000016N
-CNN,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/220900
 CNN,https://jmp2.uk/stvp-ESBD190000137
 CNN,https://jmp2.uk/stvp-ATBD800001VA
 CNN,https://jmp2.uk/stvp-CHBD800001D0
@@ -2954,6 +2921,7 @@ VOA美国之音,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlis
 东森美洲卫视,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 东森美洲卫视,http://38.64.72.148/hls/modn/list/2015/playlist.m3u8
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zshijd
+半岛电视台,https://epg.pw/stream/0b732899375b36eab58d7a77b4943066b480d947237f75d07721b3a87fbd4065.m3u8
 半·新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 新加坡CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 新加坡国际,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
@@ -2972,6 +2940,7 @@ Discovery,http://ott.watch/stream/E9LDH2ZCN7/146.m3u8
 世界地理,http://173.208.212.130:8181/720p/sjdl.m3u8
 人与自然,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1425e1d505654cb48ba82b807b221193/1200.m3u8
 动物世界,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/71d7dce230b74c1b9e35b41e837ffc5f/1200.m3u8
+动物星球,https://epg.pw/stream/0e38a2ff528e933b9a9dc37acf08f88b9ac4c118cdbba4adac0517303612645e.m3u8
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 动物星球,http://31.43.191.125:8080/VIP019301734188047280/7bce5254f13d/34889
 动物星球,http://iptv12k.com:35461/live/test167/12345/1233.m3u8
@@ -2996,6 +2965,8 @@ Discovery,http://ott.watch/stream/E9LDH2ZCN7/146.m3u8
 求索纪录,http://121.199.48.54/live1/jsbv2b.m3u8?id=qsjl&usign=jCw-MkWk9oF-fhwQoml3pQ
 求索纪录,http://121.199.48.54/live1/jsbv2b.m3u8?id=qsjl&usign=n5ggKxECxYS6QKVrQHv6-w
 求索纪录,http://121.199.48.54/live1/jsbv1.m3u8?id=qsjl&usign=n5ggKxECxYS6QKVrQHv6-w
+美食星球,http://167.88.62.43:64017/0.ts
+美食星球,https://epg.pw/stream/1df3601f344fa4b1c79295aefec312f528d418c2ed0b391b3fe630ed1ddf70fc.m3u8
 美食星球,http://iptv12k.com:35461/live/test167/12345/1259.m3u8
 美食星球,http://iptv12k.com:35461/live/8032022060101/452381/1259.m3u8
 航拍中国第一季,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/8edf3fb6a69148ea9a7dc0b5a9d99fdb/4000.m3u8
@@ -3016,6 +2987,7 @@ Discovery,http://ott.watch/stream/E9LDH2ZCN7/146.m3u8
 梨园,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=9ca0a53dc3bac43ac4366f124179b506&wsTime=1795323884
 梨园,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=15f06b75fd1c50237d0024be46de5110&wsTime=1795331013
 梨园,http://121.199.48.54/live1/jsbv2b.m3u8?id=hezj&usign=n5ggKxECxYS6QKVrQHv6-w
+七彩戏剧,http://8.138.7.223/tv/migu3.php?id=qcxj
 上海外语,http://8.138.7.223/tv/migu3.php?id=shics
 上海教育,http://121.199.48.54/live1/jsbv1.m3u8?id=shjy&usign=jCw-MkWk9oF-fhwQoml3pQ
 上海教育,http://121.199.48.54/live1/jsbv2b.m3u8?id=shjy&usign=jCw-MkWk9oF-fhwQoml3pQ
@@ -3071,7 +3043,6 @@ Discovery,http://ott.watch/stream/E9LDH2ZCN7/146.m3u8
 新闻综合,http://121.199.48.54/live1/jsbv2b.m3u8?id=shxwhd&usign=n5ggKxECxYS6QKVrQHv6-w
 欢笑剧场,http://38.75.136.137:98/gslb/dsdqpub/hxjchd.m3u8?auth=testpub
 欢笑剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hxjchd
-欢笑剧场,http://8.138.7.223/tv/migu3.php?id=hxjc
 法治天地,http://121.199.48.54/live1/jsbv2b.m3u8?id=fztd&usign=jCw-MkWk9oF-fhwQoml3pQ
 法治天地,http://121.199.48.54/live1/jsbv1.m3u8?id=fztd&usign=jCw-MkWk9oF-fhwQoml3pQ
 法治天地,http://8.138.7.223/tv/migu3.php?id=fztd
@@ -3093,6 +3064,7 @@ Discovery,http://ott.watch/stream/E9LDH2ZCN7/146.m3u8
 第一财经,http://121.199.48.54/live1/jsbv2b.m3u8?id=dycjhd&usign=jCw-MkWk9oF-fhwQoml3pQ
 第一财经,https://tv.zhuhongxuan.cn/608780988
 第一财经,http://38.75.136.137:82/live2/shkk.m3u8?id=dycjhd&usign=jCw-MkWk9oF-fhwQoml3pQ
+第一财经,http://a1live.livecdn.yicai.com/live/radio_tv.m3u8
 第一财经,http://123.207.224.130:123/shanghai/caijing.php?id=dycj
 第一财经,http://my1nas.dpdns.org:1234/608780988
 第一财经,http://mg.cttv.vip/608780988
@@ -3273,9 +3245,8 @@ Discovery,http://ott.watch/stream/E9LDH2ZCN7/146.m3u8
 湖北综合,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbzh
 湖北综合,http://38.75.136.137:82/live2/hbtv.m3u8?id=hbzh&usign=n5ggKxECxYS6QKVrQHv6-w@@Referer=https://m.hbtv.com.cn/@@
 荆门新闻综合,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
-荆门新闻综合,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-荆门新闻综合,https://stream.jmtv.com.cn/xwzh/playlist.m3u8?_upt=3e28e7271664278691
 荆门新闻综合,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?zhubd
+荆门新闻综合,https://jingmen-live21.cjyun.org/10101/s10101-jmnews.m3u8?auth_key=1798732799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-9bbdf1e961c3ba64dcd8d00f6d5dfff0
 荆门新闻综合,http://121.199.48.54/live1/hoge.m3u8?ip=hbjmtv&id=4&usign=jCw-MkWk9oF-fhwQoml3pQ
 荆门新闻综合,http://121.199.48.54/live1/hoge.m3u8?ip=hbjmtv&id=4&usign=n5ggKxECxYS6QKVrQHv6-w
 麻城综合,https://video.yscxy.cn:8888/mctv1.m3u8
@@ -3401,6 +3372,8 @@ Discovery,http://ott.watch/stream/E9LDH2ZCN7/146.m3u8
 深圳移动电视,http://121.199.48.54/live1/jsbv2b.m3u8?id=gdszyd&usign=jCw-MkWk9oF-fhwQoml3pQ
 深圳移动电视,http://121.199.48.54/live1/jsbv2b.m3u8?id=gdszyd&usign=n5ggKxECxYS6QKVrQHv6-w
 深圳移动电视,http://121.199.48.54/live1/jsbv1.m3u8?id=gdszyd&usign=n5ggKxECxYS6QKVrQHv6-w
+YMG未来,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?
+上虞文化,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed?
 上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
 上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8zzhed
 上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed?
@@ -3423,10 +3396,13 @@ Discovery,http://ott.watch/stream/E9LDH2ZCN7/146.m3u8
 云和新闻综合,http://121.199.48.54/live1/qklive.m3u8?id=zjlsyh1&usign=n5ggKxECxYS6QKVrQHv6-w
 余姚姚江文化,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8?zzhed
 余姚姚江文化,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8zzhed
+余姚姚江文化,https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
 余姚姚江文化,https://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
 余姚姚江文化,http://121.199.48.54/live1/qklive.m3u8?id=zjnbyy2&usign=n5ggKxECxYS6QKVrQHv6-w
 余姚综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?cWlkPSZzPTg3OWMwYmMyZDMzYTFhZGY3NDQxMjgyYTg1MmUzNTY0JmVzPTE3MDY2Nzc4NzMmdXVpZD0yMjdiY2MzNGNiNGY0MThlYjRiY2IxYzcwNmZjODNkMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl
 余姚综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
+余姚综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+余姚综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?
 余姚综合,https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 余姚综合,http://121.199.48.54/live1/qklive.m3u8?id=zjnbyy1&usign=n5ggKxECxYS6QKVrQHv6-w
 余杭新闻,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed?
@@ -3493,6 +3469,7 @@ Discovery,http://ott.watch/stream/E9LDH2ZCN7/146.m3u8
 杭州综合,http://121.199.48.54/live1/zjhztv.m3u8?id=zjhztv1&usign=jCw-MkWk9oF-fhwQoml3pQ@@Referer=https://www.hoolo.tv/@@
 杭州综合,http://live.xmcdn.com/live/1845/64.m3u8
 杭州综合,https://ali-xwl.cztv.com/live/hangzhouds.m3u8
+杭州综合,https://play.htv-1.com/tv/htv1.m3u8
 杭州综合,https://l.cztvcloud.com/channels/lantian/sxchannel01/1080p.m3u8
 杭州综合,http://121.199.48.54/live1/zjhztv.m3u8?id=zjhztv1&usign=n5ggKxECxYS6QKVrQHv6-w@@Referer=https://www.hoolo.tv/@@
 松阳综合,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8?zzhed?
@@ -3514,7 +3491,6 @@ Discovery,http://ott.watch/stream/E9LDH2ZCN7/146.m3u8
 浙江公共新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江公共新闻,http://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
 浙江国际,https://ali-xwl.cztv.com/live/channel101080Plxw.m3u8
-浙江国际,http://ali-vl.cztv.com/channels/lantian/channel010/360p.m3u8?a=1000&d=4e3d476240659192311f471b7b63aec2&k=d26568bae9dd23dd781c769c148459b2&t=1683180450
 浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?zzhed
 浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/720p.m3u8
@@ -3530,7 +3506,6 @@ Discovery,http://ott.watch/stream/E9LDH2ZCN7/146.m3u8
 浙江少儿,http://124.90.45.52:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=
-浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8?a=1000&amp;d=83b26bacf5397c013aff782b2c4287d0&amp;k=c99bdac76cff6ddc27e750ba689b7d5b&amp;t=1704368408
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
 浙江少儿,http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
@@ -3640,7 +3615,6 @@ Discovery,http://ott.watch/stream/E9LDH2ZCN7/146.m3u8
 湖州文化娱乐,https://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887
 湖州新闻综合,http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865&amp;fbl=
 湖州新闻综合,https://ali-xwl.cztv.com/live/huzhouds.m3u8
-湖州新闻综合,https://l.cztvcloud.com/channels/lantian/sxchannel05/1080p.m3u8
 湖州新闻综合,https://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865
 绍兴新闻综合,https://ali-xwl.cztv.com/live/shaoxingds.m3u8
 绍兴新闻综合,https://l.cztvcloud.com/channels/lantian/sxchannel04/1080p.m3u8
@@ -3826,6 +3800,7 @@ Discovery,http://ott.watch/stream/E9LDH2ZCN7/146.m3u8
 徐州新闻综合,http://121.199.48.54/live1/jstv1.m3u8?id=jsxztv1&usign=n5ggKxECxYS6QKVrQHv6-w@@Referer=https://live.jstv.com/@@
 徐州新闻综合,http://38.75.136.137:82/live2/jsqx1.m3u8?id=jsxztv1&usign=n5ggKxECxYS6QKVrQHv6-w
 徐州新闻综合,http://38.75.136.137:82/live2/jsqx.m3u8?id=jsxztv1&usign=n5ggKxECxYS6QKVrQHv6-w
+徐州新闻综合,http://8.138.7.223/tv/migu3.php?id=xzxwzh
 扬州新闻频道,http://121.199.48.54/live1/jstv1.m3u8?id=jsyztv1&usign=jCw-MkWk9oF-fhwQoml3pQ@@Referer=https://live.jstv.com/@@
 扬州新闻频道,http://38.75.136.137:82/live2/jsqx.m3u8?id=jsyztv1&usign=jCw-MkWk9oF-fhwQoml3pQ
 扬州新闻频道,http://38.75.136.137:82/live2/jsqx1.m3u8?id=jsyztv1&usign=jCw-MkWk9oF-fhwQoml3pQ
@@ -3840,7 +3815,6 @@ Discovery,http://ott.watch/stream/E9LDH2ZCN7/146.m3u8
 扬州邗江频道,http://38.75.136.137:82/live2/jsqx.m3u8?id=jsyztv5&usign=n5ggKxECxYS6QKVrQHv6-w
 新沂新闻频道,http://121.199.48.54/live1/jstv1.m3u8?id=jsxzxy1&usign=jCw-MkWk9oF-fhwQoml3pQ@@Referer=https://live.jstv.com/@@
 新沂新闻频道,http://live.xysrmt.cn/xwzh/sd/live.m3u8?zjiangsd
-新沂新闻频道,http://live.xysrmt.cn/xwzh/sd/live.m3u8
 新沂新闻频道,http://38.75.136.137:82/live2/jsqx1.m3u8?id=jsxzxy1&usign=jCw-MkWk9oF-fhwQoml3pQ
 新沂新闻频道,http://38.75.136.137:82/live2/jsqx.m3u8?id=jsxzxy1&usign=jCw-MkWk9oF-fhwQoml3pQ
 新沂新闻频道,http://121.199.48.54/live1/jstv1.m3u8?id=jsxzxy1&usign=n5ggKxECxYS6QKVrQHv6-w@@Referer=https://live.jstv.com/@@
@@ -4082,6 +4056,7 @@ Discovery,http://ott.watch/stream/E9LDH2ZCN7/146.m3u8
 陕西都市青春,http://121.199.48.54/live1/jsbv2b.m3u8?id=sntv2&usign=n5ggKxECxYS6QKVrQHv6-w
 陕西都市青春,http://121.199.48.54/live1/jsbv1.m3u8?id=sntv2&usign=n5ggKxECxYS6QKVrQHv6-w
 万荣综合,http://60.222.246.220:19433/hls1.m3u8
+古县综合,https://l2fpdktp.live.sxmty.com/live/hls/e4c3b363cc4549788e2d983f403e07db/d99ce1eb686e41b9afc888110bd95aa7.m3u8
 大宁综合,http://live.daningtv.com/aac_dngb/playlist.m3u8
 太谷新闻综合,https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&tpid=1516989100&type=0
 太谷新闻综合,https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&amp;amp;tpid=1516989100&amp;amp;type=0
@@ -4129,7 +4104,7 @@ Discovery,http://ott.watch/stream/E9LDH2ZCN7/146.m3u8
 黄河电视台,http://121.199.48.54/live1/tidenew.m3u8?id=sxhh&usign=n5ggKxECxYS6QKVrQHv6-w@@User-Agent=Mozilla/5.0@@
 黄河电视台,http://38.75.136.137:82/live2/sxy.m3u8?id=sxhh&usign=n5ggKxECxYS6QKVrQHv6-w
 黄河电视台,http://121.199.48.54/live1/sxtv.m3u8?id=sxhh&usign=n5ggKxECxYS6QKVrQHv6-w@@User-Agent=Mozilla/5.0@@
-江川综合,https://zb-live.ynurl.com/jiangchuan/ad8dc86f-f35a-4203-85f0-dfd0eef52d18.m3u8
+广南电视台,https://zb-live.ynurl.com/guangnan/31407c0a-ec07-4b5f-8a89-c26fbcc1fcf9.m3u8
 北京频道,#genre#
 北京体育休闲,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=btv6
 北京体育休闲,http://38.75.136.137:82/live2/btv.m3u8?id=btv6&usign=jCw-MkWk9oF-fhwQoml3pQ
@@ -4197,7 +4172,6 @@ Discovery,http://ott.watch/stream/E9LDH2ZCN7/146.m3u8
 云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian
 云霄综合,https://live.zzyxxw.com:2443/live/xwzh.m3u8
 云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8
-云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian,
 厦门卫视,http://38.75.136.137:98/gslb/dsdqpub/xmws.m3u8?auth=testpub
 厦门卫视,http://192.151.150.154/live/xmws.m3u8
 厦门卫视,http://198.204.228.26/live/xmws.m3u8
@@ -4281,6 +4255,7 @@ Discovery,http://ott.watch/stream/E9LDH2ZCN7/146.m3u8
 碌曲综合,http://pili-live-hls.hfmt.net/gntv/lqtv.m3u8?zgand
 舟曲新闻,http://pili-live-hls.hfmt.net/gntv/zqtv.m3u8?zgand
 西峰综合,http://pili-live-rtmp.luan2.hfmt.net/luan2/xifeng/123456.m3u8?zgand
+凌云综合,https://rtmp.gdlive.gdmain.com/live/lnp683z5.m3u8
 凌云综合,https://lives.myun.tv/live/lnp683z5.m3u8
 南宁新闻综合,http://live.xmcdn.com/live/305/64.m3u8?aac
 广西新闻,http://38.75.136.137:98/gslb/dsdqpub/gxxw.m3u8?auth=testpub
@@ -4295,6 +4270,8 @@ Discovery,http://ott.watch/stream/E9LDH2ZCN7/146.m3u8
 来宾综合,http://zb.gxlbamc.com:1935/live/lbzh.stream/playlist.m3u8
 灌阳新闻综合,https://ls.qingting.fm/live/5043/64k.m3u8
 那坡综合,https://lives.myun.tv/live/ljkp2890.m3u8
+那坡综合,https://rtmp.gdlive.gdmain.com/live/ljkp2890.m3u8
+都安综合,https://rtmp.gdlive.gdmain.com/live/lgo97185.m3u8
 都安综合,https://lives.myun.tv/live/lgo97185.m3u8
 仁怀新闻,http://123.207.224.130:123/guizhou/renhuai.php
 安顺新闻,https://ls.qingting.fm/live/5022203/64k.m3u8
@@ -4303,18 +4280,15 @@ Discovery,http://ott.watch/stream/E9LDH2ZCN7/146.m3u8
 河北农民,https://ls.qingting.fm/live/1650/64k.m3u8
 河北农民,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
 河北农民,http://1.94.31.214/php/hebei.php?id=nmpd
-河北都市,http://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=1893427200&k=49867ab5d80a7564abaf8ee18868992f
 河北都市,https://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=1854721069&k=50ffb8a4f5bdbdec2e065070270be4f7
 河北都市,http://121.199.48.54/live1/hetv.m3u8?id=heds&usign=jCw-MkWk9oF-fhwQoml3pQ
 河北都市,http://api3.52tb.xyz/info?id=481&token=20221127jxwhhemby
 河北都市,http://1.94.31.214/php/hebei.php?id=hbds
 河北都市,https://radio.pull.hebtv.com/live/hebnczx.m3u8
-河北都市,https://ysp.lml1971.ccwu.cc/hb_hebeidushi/playlist.m3u8
 河北都市,http://121.199.48.54/live1/hetv.m3u8?id=heds&usign=n5ggKxECxYS6QKVrQHv6-w
 河北都市,http://8.138.7.223/tv/heb.php?id=0003
 河北都市,http://8.138.7.223/tv/heb.php?id=00031
 河北都市,http://8.138.7.223/tv/heb.php?id=00032
-石家庄新闻综合,https://live.sjzntv.cn/rftlive/809631088acd4294b547de1b96bb0001/809631088acd4294b547de1b96bb0001.m3u8
 邢台综合,http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
 邢台综合,https://jwplay.hebyun.com.cn:443/live/xtsrmtzs/1500k/tzwj_video.m3u8
 邢台综合,http://8.138.7.223/tv/heb.php?id=0501
@@ -4409,7 +4383,6 @@ Discovery,http://ott.watch/stream/E9LDH2ZCN7/146.m3u8
 延边卫视,http://gmxw.7766.org:808/hls/15/index.m3u8
 延边卫视,https://srs.iyb983.cn:443/video/CYS/index.m3u8
 延边卫视,https://srs.iyb983.cn/video/CYS/index.m3u8
-延边卫视,https://stream2.jlntv.cn/jlyb/sd/live.m3u8
 延边朝鲜语综合,https://srs.iyb983.cn/video/ybtv1/index.m3u8
 延边汉语综合,https://srs.iyb983.cn/video/ybtv2/index.m3u8
 德惠综合,http://stream11.jlntv.cn/dehuitv/sd/live.m3u8
@@ -4511,8 +4484,8 @@ Discovery,http://ott.watch/stream/E9LDH2ZCN7/146.m3u8
 银川文体,http://121.199.48.54/live1/qklive.m3u8?id=nxycwt&usign=n5ggKxECxYS6QKVrQHv6-w
 银川生活,http://121.199.48.54/live1/qklive.m3u8?id=nxycsh&usign=jCw-MkWk9oF-fhwQoml3pQ
 银川生活,http://121.199.48.54/live1/qklive.m3u8?id=nxycsh&usign=n5ggKxECxYS6QKVrQHv6-w
-安多卫视,https://liveout.xntv.tv/a65jur/96iln2.m3u8
 安多卫视,http://39.164.143.66:13994/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+西宁新闻综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8?zqinghd
 乐山新闻综合,http://121.199.48.54/live1/scy.m3u8?id=sclstv1&usign=n5ggKxECxYS6QKVrQHv6-w
 九寨沟新闻综合,http://121.199.48.54/live1/scy.m3u8?id=scabjzg1&usign=n5ggKxECxYS6QKVrQHv6-w
 井研综合,http://tvfile.jyrmt.cn/nmip-media/channellive/channel104452/playlist.m3u8
@@ -4524,12 +4497,7 @@ Discovery,http://ott.watch/stream/E9LDH2ZCN7/146.m3u8
 名山综合,https://m3u8channel-bx.yunxya.com/nmip-media/channellive/channel104666/playlist.m3u8
 名山综合,https://m3u8channel-ms.yunxya.com:443/nmip-media/audiolive/audio100580/playlist.m3u8
 大竹新闻综合,https://lmt.dazhutv.cn/live1/live1.m3u8
-峨边电视台,http://applive.iebrmt.cn/live/ls1.m3u8?txSecret=c9d94de7720d19569051c533a7ec43a9&txTime=8375D652
-广安公共,http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8?zsicd
-广安公共,http://live1.gatv.com.cn:85/live/GGPD.m3u8
-广安公共,http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
 成都高新电视,https://livepgc.chinamcache.com/pgc/d849e3b837e34409b46124c267a8a1cf.m3u8?auth_key=1719565624-0-0-c80453df5f2edc88776ce766e497b52b
-松潘新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8?zsicd
 梓潼新闻综合,http://121.199.48.54/live1/scy.m3u8?id=scmyzt1&usign=n5ggKxECxYS6QKVrQHv6-w
 江油新闻综合,http://121.199.48.54/live1/scy.m3u8?id=scmyjy1&usign=n5ggKxECxYS6QKVrQHv6-w
 汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
@@ -4621,7 +4589,6 @@ MTV,#genre#
 7首「伤感情歌」,https://vd2.bdstatic.com/mda-nbdj7sp20st0jd9d/sc/cae_h264_delogo/1644847557994341172/mda-nbdj7sp20st0jd9d.mp4
 DJ13首《经典老歌》,https://vd4.bdstatic.com/mda-igbpw1bm4vdxitj0/logo/sc/mda-igbpw1bm4vdxitj0.mp4
 DJ4首吸烟的女人,https://vd2.bdstatic.com/mda-mg7zcjiauy83ehmz/sc/cae_h264/1625790109974824055/mda-mg7zcjiauy83ehmz.mp4
-DJ4首吸烟的女人,http://wb.xn--dkw.xn--6qq986b3xl:5244/d/%E5%A4%A9/og1.mp4?mda-mg7zcjiauy83ehmz/sc/cae_h264/1625790109974824055/mda-mg7zcjiauy83ehmz.mp4
 DJ《原谅你的谎》,https://vd4.bdstatic.com/mda-mhacxx5vhr2we882/1080p/cae_h264/1628673933350116053/mda-mhacxx5vhr2we882.mp4
 DJ天后,https://vd3.bdstatic.com/mda-kk5f22n13qna8edp/v1-cae/sc/mda-kk5f22n13qna8edp.mp4
 DJ《小薇》,https://vd3.bdstatic.com/mda-nd6jimimnfwyjuar/sc/cae_h264_delogo/1649345922829980302/mda-nd6jimimnfwyjuar.mp4
@@ -4887,380 +4854,356 @@ CNA,https://live1.mediadesk.al/cnatvlive.m3u8
 经典港剧六,https://live.ottiptv.cc/huya/29465858
 仙剑奇侠传,https://live.ottiptv.cc/yy/1382749903
 抖音直播,#genre#
-郁小圆 - 郁小圆,http://pull-hls-l11.douyincdn.com/thirdgame/stream-120494270456005452.m3u8?expire=1796110275&sign=f831e0becbec7997f3e49970955eb1e3&major_anchor_level=common&exp_hrchy=c1&arch_hrchy=c1&t_id=037-202611241531144A1D80EB079ED6E64BD4-JJjgrc
-三个石头_雪域流光 - 三个石头冬藏万物,http://pull-hls-t11.douyincdn.com/third/stream-696954719362351930_uhd5.m3u8?expire=1796110275&sign=349b61710c2db89f63160ccccaf2397d&exp_hrchy=w1&arch_hrchy=w1&major_anchor_level=common&t_id=037-202611241531144A1D80EB079ED6E64BD4-tCSWNf
-Amber_ - Amber_正在直播,http://pull-hls-c11.douyincdn.com/stage/stream-120494002088706519.m3u8?expire=1796110275&sign=13e781985b900ebee95317ab7ea3c7b4&arch_hrchy=c1&exp_hrchy=c1&major_anchor_level=common&t_id=037-202611241531144A1D80EB079ED6E64BD4-XWhU6n
-盼之小小虫（三角洲行动） - 盼之送水果啦,http://pull-x2-t5-hls.douyincdn.com/third/stream-120494047601361722/index.m3u8?expire=1796110275&sign=de5e633b13022e94315e1ad8147dce72&volcSecret=de5e633b13022e94315e1ad8147dce72&volcTime=1796110275&exp_hrchy=h1&arch_hrchy=h1&major_anchor_level=common&t_id=037-202611241531144A1D80EB079ED6E64BD4-sDNrxf
-心底的雪 - 玩,http://pull-hs-f5.flive.douyincdn.com/thirdgame/stream-696954956872942346/index.m3u8?expire=1796110275&sign=09d70097af42853645e34a857a352e3b&volcSecret=09d70097af42853645e34a857a352e3b&volcTime=1796110275&exp_hrchy=w1&major_anchor_level=common&arch_hrchy=w1&t_id=037-202611241531144A1D80EB079ED6E64BD4-JI7tCR
-李景学（晋级赛）补分/包时/战神 - 补分双系统多赛季一天封神荣都天花板,http://pull-cold-f5.douyincdn.com/thirdgame/stream-696954510861927273_hiquhd5/index.m3u8?expire=1796110275&sign=fc93c14fdae37dcb22e418503eb3cfd5&volcSecret=fc93c14fdae37dcb22e418503eb3cfd5&volcTime=1796110275&arch_hrchy=c1&exp_hrchy=c1&major_anchor_level=common&t_id=037-202611241531144A1D80EB079ED6E64BD4-vw4bGx
-Holy钳(97段辅助) - 请找出队伍里的驴,http://pull-hs-f5.flive.douyincdn.com/thirdgame/stream-120494072421679882/index.m3u8?expire=1796110275&sign=6a41a4ff2f359ac1b86c9d2de020977d&volcSecret=6a41a4ff2f359ac1b86c9d2de020977d&volcTime=1796110275&major_anchor_level=common&exp_hrchy=w1&arch_hrchy=w1&t_id=037-202611241531144A1D80EB079ED6E64BD4-0pLpIO
-cf身法（救世主压力） - 时间无言，如此这般,http://pull-t5.douyincdn.com/thirdgame/stream-120494205970940731/index.m3u8?expire=1796110275&sign=ee643d17b1d3757497751ff46d2f1c32&volcSecret=ee643d17b1d3757497751ff46d2f1c32&volcTime=1796110275&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-202611241531144A1D80EB079ED6E64BD4-kKrs5K
-诩洛（KEG三角洲） - keg唯一盾护,http://pull-hls-l11.douyincdn.com/thirdgame/stream-408723426099069772_hiquhd5.m3u8?expire=1796110275&sign=a9d295c0fbe58c830efdbb152d609077&exp_hrchy=w1&arch_hrchy=w1&major_anchor_level=common&t_id=037-202611241531144A1D80EB079ED6E64BD4-gj795D
-小奥要努力 - 00年老登摆地摊的一天,http://pull-hls-l11.douyincdn.com/third/stream-120494319589917148.m3u8?expire=1796110275&sign=c5796d70576bcc599014e0056bf6355b&exp_hrchy=w1&major_anchor_level=common&arch_hrchy=w1&t_id=037-202611241531144A1D80EB079ED6E64BD4-8fTMUr
-小森（国服暃） - 2w暃/超强手法思路/极品温青/情绪好不压力/灯牌＋关注免费带粉！,http://pull-hls-l11.douyincdn.com/thirdgame/stream-696954982438798156.m3u8?expire=1796110275&sign=87d87016417100691d1ecca84974f96c&arch_hrchy=c1&exp_hrchy=c1&major_anchor_level=common&t_id=037-202611241531144A1D80EB079ED6E64BD4-OE85XE
-启朵🫧 - 全民爆仓,http://pull-hs-f5.flive.douyincdn.com/thirdgame/stream-120493970755945226_hiquhd5/index.m3u8?expire=1796110275&sign=d582bdbf413f25411f64e2166785e243&volcSecret=d582bdbf413f25411f64e2166785e243&volcTime=1796110275&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-202611241531144A1D80EB079ED6E64BD4-uveeDq
-怀逝【李白导师】 - 三分钟教你玩转李白！,http://pull-hls-q1.douyincdn.com/thirdgame/stream-696954280876966718_hiquhd5/playlist.m3u8?keeptime=00093a80&wsSecret=9b487987a3270b921009a04391dde2bd&wsTime=6b053d43&arch_hrchy=h1&exp_hrchy=h1&major_anchor_level=common&t_id=037-202611241531144A1D80EB079ED6E64BD4-xHFoN5
-方木（国服女娲） - 学女娲看方木，女娲打法思路教学！给主播三分钟，逆风翻盘只在一瞬间！,http://pull-hls-l11.douyincdn.com/thirdgame/stream-696954720114443084_hiquhd5.m3u8?expire=1796110276&sign=8e7f29c10199ed90fe0d9ab602d356df&exp_hrchy=w1&major_anchor_level=common&arch_hrchy=w1&t_id=037-20261124153116A7D43198871FDBDE52BA-7hoUY4
+手中有扇 - 钻石狂潮最娱乐之人,http://pull-hls-l11.douyincdn.com/thirdgame/stream-120493453003719500_uiquhd5.m3u8?expire=1796114563&sign=0bb1ec3fbbd83a880d2f479510cbc530&exp_hrchy=w1&arch_hrchy=w1&major_anchor_level=common&t_id=037-20261124164243E1F9E4115FA85CE76D78-wORDkG
+小苏菲🦖 - 241431,http://pull-hls-q11.douyincdn.com/thirdgame/stream-120494288919593790_hiquhd5.m3u8?expire=1796114563&sign=044353945388d8ea316d732eec3d2c4f&arch_hrchy=h1&exp_hrchy=h1&major_anchor_level=common&t_id=037-20261124164243E1F9E4115FA85CE76D78-1FiMmc
+小羊瞌睡了（第五人格） - 我会一直安静的陪你,http://pull-hls-q13.douyincdn.com/thirdgame/stream-120494539763876670_hiquhd5.m3u8?expire=1796114563&sign=735ed97d1c6f3773223a330f74ffc1aa&arch_hrchy=h1&exp_hrchy=h1&major_anchor_level=common&t_id=037-20261124164243E1F9E4115FA85CE76D78-R5k85u
+捌十玖公孙离 - 国服阿离教会你，阿离运营细节,http://pull-hls-l11.douyincdn.com/thirdgame/stream-408724898676212556.m3u8?expire=1796114563&sign=bd2d9409e4c09cdde46622c70ecd27ef&exp_hrchy=w1&arch_hrchy=w1&major_anchor_level=common&t_id=037-20261124164243E1F9E4115FA85CE76D78-XRW9gW
+阿超-王者万象棋 - 最有耐心的教学博主 下午S2，晚上S1,http://pull-hls-f13.douyinliving.com/thirdgame/stream-120494191479620417_uiquhd5.m3u8?expire=1796114563&sign=e85d3cf30cc886476efda1e51d7b3d99&major_anchor_level=vip&arch_hrchy=s2&exp_hrchy=s1&s_anchor=1&t_id=037-20261124164243E1F9E4115FA85CE76D78-RGhodA
+云屿（万象棋王牌对决） - 王牌对决竞猜,http://pull-hls-l11.douyincdn.com/thirdgame/stream-696954298593444684_uiquhd5.m3u8?expire=1796114563&sign=8d993d1b6fe6660968fdf9a1c46ff829&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-20261124164243E1F9E4115FA85CE76D78-XMv9cF
+老9（国一亚瑟） - 边路亚瑟无敌上分思路！,http://pull-hls-l11.douyincdn.com/thirdgame/stream-120493938401608524_hiquhd5.m3u8?expire=1796114563&sign=4c2fabc8d9720236d15966bda31f1756&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-20261124164243E1F9E4115FA85CE76D78-qAZPO9
+发（燕云十六声） - 燕云十六声开服玩家，专业看号调号，专为新手开荒,http://pull-hls-l11.douyincdn.com/thirdgame/stream-120494455755637580.m3u8?expire=1796114563&sign=21e1d4d92e92d8340f972dfda43a4e77&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-20261124164243E1F9E4115FA85CE76D78-9nraxK
+呆小茜 - 和姐妹双四  上午双奶医师+天籁  下午随机,http://pull-hls-l11.douyincdn.com/thirdgame/stream-696955204294935372_hiquhd5.m3u8?expire=1796114563&sign=77b255f2e6848b53f6d14626f3c67ab9&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-20261124164243E1F9E4115FA85CE76D78-HOTIMi
+格子神（世一豪） - 传说纲手最强使用者出手22号超影,http://pull-hls-q13.douyincdn.com/thirdgame/stream-408724650106028862_uiquhd5.m3u8?expire=1796114563&sign=a6ce4484a9573fbc7ddc30d958c8dea0&exp_hrchy=h1&arch_hrchy=h1&major_anchor_level=common&t_id=037-20261124164243E1F9E4115FA85CE76D78-zgbja9
+第五曼波 - 联合魔丸来袭,http://pull-hls-q13.douyincdn.com/thirdgame/stream-120494491519681342_hiquhd5.m3u8?expire=1796114563&sign=5e59b1759255b1f231fc882691ac53a6&arch_hrchy=h1&exp_hrchy=h2&major_anchor_level=common&t_id=037-20261124164243E1F9E4115FA85CE76D78-dsdulv
+Apu（金铲铲/云顶） - [大橘大利]新神天使、灼烧火轮、主角维克托、自爆塞恩、全职塞拉斯,http://pull-hls-l11.douyincdn.com/thirdgame/stream-408724352940639052_uiquhd5.m3u8?expire=1796114563&sign=5f00efc2b6f71737f2b107a84427f442&major_anchor_level=common&arch_hrchy=w1&exp_hrchy=w1&t_id=037-20261124164243E1F9E4115FA85CE76D78-iphoVO
+顾冷（2.2w国服弈星） - 顶级批发商,http://pull-hls-l11.douyincdn.com/thirdgame/stream-696955011083273036_hiquhd5.m3u8?expire=1796114563&sign=53f93c509ad9b679464d2d49192bf9f9&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-20261124164243E1F9E4115FA85CE76D78-ufUIG6
+kk木禾 - 最新磷光症一命速通/探索600w大红/能文能武/新人开播第一天,http://pull-hls-l11.douyincdn.com/thirdgame/stream-408724587350590284_hiquhd5.m3u8?expire=1796114563&sign=90a7a31021dd5f21efb1c09df1bd1c5d&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-20261124164243E1F9E4115FA85CE76D78-2rR6ZB
+王者荣耀恨意【国一野猪】 - 巅峰第一恨意,http://pull-t5.douyincdn.com/thirdgame/stream-696955158391423803_hiquhd5/index.m3u8?expire=1796114563&sign=3c52c1b5b6248cf31b247d47a245c1aa&volcSecret=3c52c1b5b6248cf31b247d47a245c1aa&volcTime=1796114563&arch_hrchy=h1&exp_hrchy=h1&major_anchor_level=common&t_id=037-20261124164243E1F9E4115FA85CE76D78-1v9WHz
+王者荣耀破局（手法刀妹） - 极致手法刀锋宝贝教学,http://pull-hls-q1.douyincdn.com/thirdgame/stream-120494456618353470_hiquhd5/playlist.m3u8?keeptime=00093a80&wsSecret=326559e527cc8d960598b43fac41d567&wsTime=6b054e03&exp_hrchy=h1&major_anchor_level=common&arch_hrchy=h1&t_id=037-20261124164243E1F9E4115FA85CE76D78-IIBMvq
+于二 - 兄弟无需多言,http://pull-hls-q6.douyincdn.com/thirdgame/stream-120494370448999230/index.m3u8?k=8a86a7be7cb6f8d0&t=1796114564&exp_hrchy=h2&arch_hrchy=h1&major_anchor_level=common&t_id=037-2026112416424409B7C408353819DC71AF-22H7lf
+大力（火影导师） - 全网最难打火影擂台？,http://pull-hls-t26.douyincdn.com/thirdgame/stream-408724558168982331.m3u8?expire=6b0e8884&sign=66310f727d4f7bf40879ea6b830b6254&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-2026112416424409B7C408353819DC71AF-Va5qFH
+林羽｜金铲铲 - 大橘大利新版本｜以绪塔尔保姆教学局,http://pull-hs-f5.flive.douyincdn.com/thirdgame/stream-696955230866375434/index.m3u8?expire=1796114564&sign=17fa341bbd1a080b910cfd5e1e59a200&volcSecret=17fa341bbd1a080b910cfd5e1e59a200&volcTime=1796114564&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-2026112416424409B7C408353819DC71AF-xmgOze
+疾风将临『超自然行动组』 - 世界第一月神,http://pull-hs-f5.flive.douyincdn.com/thirdgame/stream-696955214300971786_uiquhd5/index.m3u8?expire=1796114564&sign=fb4348cfc66002df82b4789453e7895f&volcSecret=fb4348cfc66002df82b4789453e7895f&volcTime=1796114564&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-2026112416424409B7C408353819DC71AF-vhg38j
+小佛（梦幻手游） - 小佛（梦幻手游）正在直播,http://pull-hs-f5.flive.douyincdn.com/thirdgame/stream-696954002505466634/index.m3u8?expire=1796114564&sign=dd00b88048b6970b51d1a57d3611b835&volcSecret=dd00b88048b6970b51d1a57d3611b835&volcTime=1796114564&exp_hrchy=w1&arch_hrchy=w1&major_anchor_level=common&t_id=037-2026112416424409B7C408353819DC71AF-qCMk5i
+小丑游戏君 - 5星好市民！,http://pull-hs-f5.flive.douyincdn.com/thirdgame/stream-696954517305950986_hiquhd5/index.m3u8?expire=1796114564&sign=c7f4b142b0c8f8f1c467bfec4fafbb96&volcSecret=c7f4b142b0c8f8f1c467bfec4fafbb96&volcTime=1796114564&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-2026112416424409B7C408353819DC71AF-WbTLIO
+迪迦. - 如果开心太难，那就祝你平安,http://pull-cold-f5.douyincdn.com/thirdgame/stream-408724812232655721_hiquhd5/index.m3u8?expire=1796114564&sign=20008555061a471cb0d9eef6cc38e273&volcSecret=20008555061a471cb0d9eef6cc38e273&volcTime=1796114564&arch_hrchy=c1&exp_hrchy=c1&major_anchor_level=common&t_id=037-2026112416424409B7C408353819DC71AF-c2s8i4
+漂亮兔兔（魔兽世界） - 兔兔的魔兽世界,http://pull-t5.douyincdn.com/thirdgame/stream-120494226236769083/index.m3u8?expire=1796114564&sign=6c6645087622a08836de655b11cb6f7d&volcSecret=6c6645087622a08836de655b11cb6f7d&volcTime=1796114564&exp_hrchy=h2&major_anchor_level=common&arch_hrchy=h1&t_id=037-2026112416424409B7C408353819DC71AF-dPX1ss
 快手直播,#genre#
-756歌舞团 - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/e3HghXiQOHQ_ShowAvcHdL0.flv?txSecret=e4ddce4e4bf1c346f1facdd07c990a74&txTime=6b068ec4&stat=bLTxoq6XGBPArASZFy2uy9v%2BvOTPc2gtjroxkkzNFs5LjrcSBOXSyI490FbT08Z7&tsc=origin&oidc=watchmen&sidc=201165&no_script=1&ss=s23&tfc_buyer=0
-Fz姐姐   - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/V6fxWnLvrHA_ShowAvcHdL0-AuditAvcOriginL3.flv?txSecret=82e16bd4b85c7fba0e633c74439fb914&txTime=6b068ec4&stat=bLTxoq6XGBPArASZFy2uy9v%2BvOTPc2gtjroxkkzNFs5LjrcSBOXSyI490FbT08Z7&tsc=origin&oidc=watchmen&sidc=204180&no_script=1&srcStrm=V6fxWnLvrHA&ss=s23&tfc_buyer=0
-超级玛丽🥰 - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/G0L-npualaE_ShowAvcHdL0.flv?txSecret=16fe66985e6557bcdca15a0041c7c68f&txTime=6b068ec4&stat=bLTxoq6XGBPArASZFy2uy9v%2BvOTPc2gtjroxkkzNFs5LjrcSBOXSyI490FbT08Z7&tsc=origin&oidc=watchmen&sidc=205730&no_script=1&ss=s23&tfc_buyer=0
-꧁꧂苹果女孩꧁꧂小号 - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/P3bvgn93TNg_ShowAvcHdL0.flv?txSecret=f5263191055b478929d6063843020ce9&txTime=6b068ec4&stat=bLTxoq6XGBPArASZFy2uy9v%2BvOTPc2gtjroxkkzNFs5LjrcSBOXSyI490FbT08Z7&tsc=origin&oidc=watchmen&sidc=201165&no_script=1&ss=s23&tfc_buyer=0
-粥粥🍚白 - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/9zDanIlqycw_ShowAvcHdL0.flv?txSecret=3a62995b40d87f8a189bde9c20890f19&txTime=6b068ec4&stat=bLTxoq6XGBPArASZFy2uy9v%2BvOTPc2gtjroxkkzNFs5LjrcSBOXSyI490FbT08Z7&tsc=origin&oidc=watchmen&sidc=201165&no_script=1&ss=s23&tfc_buyer=0
-HT-遇见 - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/GsyXXj37_yw_ShowAvcHdL0.flv?txSecret=429dcc82e7d33d5848cf97f0289dff39&txTime=6b068ec4&stat=bLTxoq6XGBPArASZFy2uy9v%2BvOTPc2gtjroxkkzNFs5LjrcSBOXSyI490FbT08Z7&tsc=origin&oidc=edgeWm&sidc=201165&no_script=1&ss=s23&tfc_buyer=0
-90后颖妹 - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/SV_oeD7FKtA_ShowAvcHdL0.flv?txSecret=62f5fb36331a1fb2869e66e4c3749a99&txTime=6b068ec4&stat=bLTxoq6XGBPArASZFy2uy9v%2BvOTPc2gtjroxkkzNFs5LjrcSBOXSyI490FbT08Z7&tsc=origin&oidc=watchmen&sidc=201165&no_script=1&ss=s23&tfc_buyer=0
-山猫学姐 - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/NLZO9O2a3SE_ShowAvcHdL0.flv?txSecret=60d5e7ef6ff35e3f5a4ad5c8c82a8f82&txTime=6b068ec4&stat=bLTxoq6XGBPArASZFy2uy9v%2BvOTPc2gtjroxkkzNFs5LjrcSBOXSyI490FbT08Z7&tsc=origin&oidc=edgeWm&sidc=206077&no_script=1&ss=s23&tfc_buyer=0
-NF-小木女团 - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/RsqLWxZlbOM_ShowAvcHdL0.flv?txSecret=f3928752045d2a22900cac32c57310bc&txTime=6b068ec4&stat=bLTxoq6XGBPArASZFy2uy9v%2BvOTPc2gtjroxkkzNFs5LjrcSBOXSyI490FbT08Z7&tsc=origin&oidc=edgeWm&sidc=2527&no_script=1&ss=s23&tfc_buyer=0
-丽莎💃 - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/lFKQUQWKCY8_ShowAvcHdL0.flv?txSecret=be9ea22262ca1e2467bda1cdf5d0492e&txTime=6b068ec4&stat=bLTxoq6XGBPArASZFy2uy9v%2BvOTPc2gtjroxkkzNFs5LjrcSBOXSyI490FbT08Z7&tsc=origin&oidc=edgeWm&sidc=2527&no_script=1&ss=s23&tfc_buyer=0
-小鱼🐟 - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/arsxlvAeSWI_ShowAvcHdL0.flv?txSecret=1909c570f14030166eab06df7544db8d&txTime=6b068ec4&stat=bLTxoq6XGBPArASZFy2uy9v%2BvOTPc2gtjroxkkzNFs5LjrcSBOXSyI490FbT08Z7&tsc=origin&oidc=edgeWm&sidc=2012&no_script=1&ss=s23&tfc_buyer=0
-汉堡🍔 - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/sWvSr5LfRew_ShowAvcHdL0.flv?txSecret=48fc397a7cfa02410132e2323c162b6b&txTime=6b068ec4&stat=bLTxoq6XGBPArASZFy2uy9v%2BvOTPc2gtjroxkkzNFs5LjrcSBOXSyI490FbT08Z7&tsc=origin&oidc=edgeWm&sidc=203562&no_script=1&ss=s23&tfc_buyer=0
-小小姨 - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/Q4Oe8uRfLw4_ShowAvcHdL0.flv?txSecret=02ce96b11b657a7e93f1ebb730f9ca56&txTime=6b068ec4&stat=bLTxoq6XGBPArASZFy2uy9v%2BvOTPc2gtjroxkkzNFs5LjrcSBOXSyI490FbT08Z7&tsc=origin&oidc=edgeWm&sidc=205251&no_script=1&ss=s23&tfc_buyer=0
-美儿！！！ - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/EuOhhL-tEis_ShowAvcHdL0.flv?txSecret=8eaaf9f7f4049efc9a4045876b214e0a&txTime=6b068ec4&stat=bLTxoq6XGBPArASZFy2uy9v%2BvOTPc2gtjroxkkzNFs5LjrcSBOXSyI490FbT08Z7&tsc=origin&oidc=edgeWm&sidc=201230&no_script=1&ss=s23&tfc_buyer=0
-美女 - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/NPv-7DCPL4o_ShowAvcHdL0.flv?txSecret=a1b4e41b83c87a0dae63658edfae8e8c&txTime=6b068ec4&stat=bLTxoq6XGBPArASZFy2uy9v%2BvOTPc2gtjroxkkzNFs5LjrcSBOXSyI490FbT08Z7&tsc=origin&oidc=edgeWm&sidc=204180&no_script=1&ss=s23&tfc_buyer=0
-新势力《绘梦》星恋 - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/adUuo8h_E-Q_ShowAvcHdL0.flv?txSecret=60d0eff9d33da2a943f32e7216d19db2&txTime=6b068ec4&stat=bLTxoq6XGBPArASZFy2uy9v%2BvOTPc2gtjroxkkzNFs5LjrcSBOXSyI490FbT08Z7&tsc=origin&oidc=edgeWm&sidc=204180&no_script=1&ss=s23&tfc_buyer=0
-⊹软软喵 - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/iupsOnbpe_g_ShowAvcHdL0.flv?txSecret=2a8d91740073f1a39355e9f904e53f76&txTime=6b068ec4&stat=bLTxoq6XGBPArASZFy2uy9v%2BvOTPc2gtjroxkkzNFs5LjrcSBOXSyI490FbT08Z7&tsc=origin&oidc=edgeWm&sidc=207615&no_script=1&ss=s23&tfc_buyer=0
-静丽吖舞团丽丽 - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/QZg4pHQpFh4_ShowAvcHdL0.flv?txSecret=a0238cd51f200a03c899c378b2013c1e&txTime=6b068ec4&stat=bLTxoq6XGBPArASZFy2uy9v%2BvOTPc2gtjroxkkzNFs5LjrcSBOXSyI490FbT08Z7&tsc=origin&oidc=watchmen&sidc=206077&no_script=1&ss=s23&tfc_buyer=0
-程程 尊师伊丫头🔥哪吒 - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/R3IcsyobiFA_ShowAvcHdL0.flv?txSecret=6a2404df94ad9fed7cc99ee601be52d6&txTime=6b068ec4&stat=bLTxoq6XGBPArASZFy2uy9v%2BvOTPc2gtjroxkkzNFs5LjrcSBOXSyI490FbT08Z7&tsc=origin&oidc=edgeWm&sidc=2527&no_script=1&ss=s23&tfc_buyer=0
-礼物 - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/l8TNZK3Zp3E_ShowAvcHdL0.flv?txSecret=d0a3fe171d0805e6c868e5a0c4021d7b&txTime=6b068ec4&stat=bLTxoq6XGBPArASZFy2uy9v%2BvOTPc2gtjroxkkzNFs5LjrcSBOXSyI490FbT08Z7&tsc=origin&oidc=edgeWm&sidc=2527&no_script=1&ss=s23&tfc_buyer=0
-紫怡 - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/K9MC4LstKro_ShowAvcHdL0.flv?txSecret=b72a1045bbc11365ae89e9f4579031f4&txTime=6b068ec4&stat=bLTxoq6XGBPArASZFy2uy9v%2BvOTPc2gtjroxkkzNFs5LjrcSBOXSyI490FbT08Z7&tsc=origin&oidc=edgeWm&sidc=201165&no_script=1&ss=s23&tfc_buyer=0
-小熊 - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/iumjXLP-3Cw_ShowAvcHdL0.flv?txSecret=edc8d9c26e03590a0e673536d75574e7&txTime=6b068ec4&stat=bLTxoq6XGBPArASZFy2uy9v%2BvOTPc2gtjroxkkzNFs5LjrcSBOXSyI490FbT08Z7&tsc=origin&oidc=edgeWm&sidc=205816&no_script=1&ss=s23&tfc_buyer=0
-🚬乖不如野ᰔᩚ - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/l38nWy64iWQ_ShowAvcHdL0.flv?txSecret=88a76dfe6107a9e5d5ef64c069d8f357&txTime=6b068ec4&stat=bLTxoq6XGBPArASZFy2uy9v%2BvOTPc2gtjroxkkzNFs5LjrcSBOXSyI490FbT08Z7&tsc=origin&oidc=watchmen&sidc=2527&no_script=1&ss=s23&tfc_buyer=0
-悦悦🤎 - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/CcD2LZGrgOU_ShowAvcHdL0.flv?txSecret=98b4f74bd109dbe80953ecf96a960b05&txTime=6b068ec4&stat=bLTxoq6XGBPArASZFy2uy9v%2BvOTPc2gtjroxkkzNFs5LjrcSBOXSyI490FbT08Z7&tsc=origin&oidc=edgeWm&sidc=2527&no_script=1&ss=s23&tfc_buyer=0
-周颜 - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/pTDSqc4DOgw_ShowAvcHdL0.flv?txSecret=30d9684488a5d370214c76a7ba6bd02e&txTime=6b068ec4&stat=bLTxoq6XGBPArASZFy2uy9v%2BvOTPc2gtjroxkkzNFs5LjrcSBOXSyI490FbT08Z7&tsc=origin&oidc=edgeWm&sidc=207615&no_script=1&ss=s23&tfc_buyer=0
-云顶天宫-BB - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/mdI0paKv2kI_ShowAvcHdL0.flv?txSecret=a00a9d01fda38ca3f2bc80ec0c18d2aa&txTime=6b068ec4&stat=bLTxoq6XGBPArASZFy2uy9v%2BvOTPc2gtjroxkkzNFs5LjrcSBOXSyI490FbT08Z7&tsc=origin&oidc=edgeWm&sidc=201165&no_script=1&ss=s23&tfc_buyer=0
-CT少女💕 - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/5FF3V2NetIY_ShowAvcHdL0.flv?txSecret=76e56f9d04475d44c328ac9aa3d4b707&txTime=6b068ec4&stat=bLTxoq6XGBPArASZFy2uy9v%2BvOTPc2gtjroxkkzNFs5LjrcSBOXSyI490FbT08Z7&tsc=origin&oidc=edgeWm&sidc=204180&no_script=1&ss=s23&tfc_buyer=0
-三鹤💐《左暖琪》 - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/IJ7utm3dBbA_ShowAvcHdL0.flv?txSecret=a50514dade9a642336be94046f432c77&txTime=6b068ec4&stat=bLTxoq6XGBPArASZFy2uy9v%2BvOTPc2gtjroxkkzNFs5LjrcSBOXSyI490FbT08Z7&tsc=origin&oidc=edgeWm&sidc=201165&no_script=1&ss=s23&tfc_buyer=0
-秋香妹妹 - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/T56p3QUnUo4_ShowAvcHdL0.flv?txSecret=b84540d12fd3217f20d655b11da75baa&txTime=6b068ec4&stat=bLTxoq6XGBPArASZFy2uy9v%2BvOTPc2gtjroxkkzNFs5LjrcSBOXSyI490FbT08Z7&tsc=origin&oidc=edgeWm&sidc=2527&no_script=1&ss=s23&tfc_buyer=0
-星宝 - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/wzNNsSU0bt4_ShowAvcHdL0-AuditAvcOriginL3.flv?txSecret=518f5b7d6d99dda703377e878a9c8fb6&txTime=6b068ec4&stat=bLTxoq6XGBPArASZFy2uy9v%2BvOTPc2gtjroxkkzNFs5LjrcSBOXSyI490FbT08Z7&tsc=origin&oidc=edgeWm&sidc=204180&no_script=1&srcStrm=wzNNsSU0bt4&ss=s23&tfc_buyer=0
-胖妞（重新来过） - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/p4xJjb-Mp6A_ShowAvcHdL0.flv?txSecret=c6e7b8daceec1191db062ae89f4606c2&txTime=6b068ec4&stat=bLTxoq6XGBPArASZFy2uy9v%2BvOTPc2gtjroxkkzNFs5LjrcSBOXSyI490FbT08Z7&tsc=origin&oidc=edgeWm&sidc=2527&no_script=1&ss=s23&tfc_buyer=0
-丹丹要乖哦 - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/7aUyLUIaIqE_ShowAvcHdL0.flv?txSecret=cd64ab40a07618e6bdc31a35abfe5e24&txTime=6b068ec4&stat=bLTxoq6XGBPArASZFy2uy9v%2BvOTPc2gtjroxkkzNFs5LjrcSBOXSyI490FbT08Z7&tsc=origin&oidc=edgeWm&sidc=206077&no_script=1&ss=s23&tfc_buyer=0
+756歌舞团 - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/e3HghXiQOHQ_ShowAvcHdL0.flv?txSecret=4f1884e3a6da8b41513bfff83a77935e&txTime=6b069f84&stat=kqAI%2FrPx4OsH4WeNTyf5gjUYQSroRFBTdbvVY%2F3g38eGwrko0qi9uIIbak4iZW6W&tsc=origin&oidc=watchmen&sidc=201165&no_script=1&ss=s23&tfc_buyer=0
+HT-遇见 - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/GsyXXj37_yw_ShowAvcHdL0.flv?txSecret=50a5514060ee77bb5030df1a6e2fd77a&txTime=6b069f84&stat=kqAI%2FrPx4OsH4WeNTyf5gjUYQSroRFBTdbvVY%2F3g38eGwrko0qi9uIIbak4iZW6W&tsc=origin&oidc=edgeWm&sidc=201165&no_script=1&ss=s23&tfc_buyer=0
+小鱼 - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/hQ2LtW9jPmY_ShowAvcHdL0.flv?txSecret=0cb8d8ed33756707f7b7e7b2f8f5c2b7&txTime=6b069f84&stat=kqAI%2FrPx4OsH4WeNTyf5gjUYQSroRFBTdbvVY%2F3g38eGwrko0qi9uIIbak4iZW6W&tsc=origin&oidc=edgeWm&sidc=201230&no_script=1&ss=s23&tfc_buyer=0
+ঞᩚ•雅蓝🦋 - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/PA_6AXhYRlI_ShowAvcHdL0.flv?txSecret=08f3fbf5d39eace5e1b4528195676c4c&txTime=6b069f84&stat=kqAI%2FrPx4OsH4WeNTyf5gjUYQSroRFBTdbvVY%2F3g38eGwrko0qi9uIIbak4iZW6W&tsc=origin&oidc=watchmen&sidc=203562&no_script=1&ss=s23&tfc_buyer=0
+大丫二丫🔥歌舞团🔥 - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/SpGPGNldWOE_ShowAvcHdL0.flv?txSecret=74e20bde4d96949e65d953dd47c266ec&txTime=6b069f84&stat=kqAI%2FrPx4OsH4WeNTyf5gjUYQSroRFBTdbvVY%2F3g38eGwrko0qi9uIIbak4iZW6W&tsc=origin&oidc=watchmen&sidc=2527&no_script=1&ss=s23&tfc_buyer=0
+措儿💃 - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/p70EBRSJBMg_ShowAvcHdL0.flv?txSecret=53911f555aa79d89aaa1ab37953ad5ac&txTime=6b069f84&stat=kqAI%2FrPx4OsH4WeNTyf5gjUYQSroRFBTdbvVY%2F3g38eGwrko0qi9uIIbak4iZW6W&tsc=origin&oidc=edgeWm&sidc=207615&no_script=1&ss=s23&tfc_buyer=0
+温柔小女人 - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/smopPHgEQX0_ShowAvcHdL0.flv?txSecret=6fd304b96e23a88fc68de657248a0b4b&txTime=6b069f84&stat=kqAI%2FrPx4OsH4WeNTyf5gjUYQSroRFBTdbvVY%2F3g38eGwrko0qi9uIIbak4iZW6W&tsc=origin&oidc=edgeWm&sidc=207615&no_script=1&ss=s23&tfc_buyer=0
+汉堡🍔 - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/sWvSr5LfRew_ShowAvcHdL0.flv?txSecret=7d0c2acf1962975db3ba2ac35f821071&txTime=6b069f84&stat=kqAI%2FrPx4OsH4WeNTyf5gjUYQSroRFBTdbvVY%2F3g38eGwrko0qi9uIIbak4iZW6W&tsc=origin&oidc=edgeWm&sidc=203562&no_script=1&ss=s23&tfc_buyer=0
+A梅花傲雪 - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/amvDwqgRs58_ShowAvcHdL0.flv?txSecret=6e0e9344a946fa951731905848c4469c&txTime=6b069f84&stat=kqAI%2FrPx4OsH4WeNTyf5gjUYQSroRFBTdbvVY%2F3g38eGwrko0qi9uIIbak4iZW6W&tsc=origin&oidc=edgeWm&sidc=2527&no_script=1&ss=s23&tfc_buyer=0
+丹丹要乖哦 - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/xZ_luyi9Gkg_ShowAvcHdL0.flv?txSecret=e4c2c506114336bd93584490268f034f&txTime=6b069f84&stat=kqAI%2FrPx4OsH4WeNTyf5gjUYQSroRFBTdbvVY%2F3g38eGwrko0qi9uIIbak4iZW6W&tsc=origin&oidc=edgeWm&sidc=207615&no_script=1&ss=s23&tfc_buyer=0
+白玛舞蹈 - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/tNWBiA4xfl4_ShowAvcHdL0.flv?txSecret=7944eee798d0ee8430b0ae81e59f90d5&txTime=6b069f84&stat=kqAI%2FrPx4OsH4WeNTyf5gjUYQSroRFBTdbvVY%2F3g38eGwrko0qi9uIIbak4iZW6W&tsc=origin&oidc=watchmen&sidc=207211&no_script=1&ss=s23&tfc_buyer=0
+光点Koi - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/Xx8_Bnx7L6M_ShowAvcHdL0.flv?txSecret=b334fdcb4d047c908c5f67ecbba65c73&txTime=6b069f84&stat=kqAI%2FrPx4OsH4WeNTyf5gjUYQSroRFBTdbvVY%2F3g38eGwrko0qi9uIIbak4iZW6W&tsc=origin&oidc=edgeWm&sidc=203562&no_script=1&ss=s23&tfc_buyer=0
+内蒙程大漂亮 - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/eYN18OXhOV8_ShowAvcHdL0.flv?txSecret=6c0eec4edb7d6085f7122bd8725483b7&txTime=6b069f84&stat=kqAI%2FrPx4OsH4WeNTyf5gjUYQSroRFBTdbvVY%2F3g38eGwrko0qi9uIIbak4iZW6W&tsc=origin&oidc=watchmen&sidc=2012&no_script=1&ss=s23&tfc_buyer=0
+美儿！！！ - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/EuOhhL-tEis_ShowAvcHdL0.flv?txSecret=d4e623f04f9a5af04e5d6cee2beb8239&txTime=6b069f84&stat=kqAI%2FrPx4OsH4WeNTyf5gjUYQSroRFBTdbvVY%2F3g38eGwrko0qi9uIIbak4iZW6W&tsc=origin&oidc=edgeWm&sidc=201230&no_script=1&ss=s23&tfc_buyer=0
+NF-小木女团 - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/RsqLWxZlbOM_ShowAvcHdL0.flv?txSecret=781b15d34c4e3dd8229096c629d4f0a1&txTime=6b069f84&stat=kqAI%2FrPx4OsH4WeNTyf5gjUYQSroRFBTdbvVY%2F3g38eGwrko0qi9uIIbak4iZW6W&tsc=origin&oidc=edgeWm&sidc=2527&no_script=1&ss=s23&tfc_buyer=0
+杨ge. - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/j7AwHs1pjNc_ShowAvcHdL0.flv?txSecret=1591d56b71b2b0eb292b736175a9f924&txTime=6b069f84&stat=kqAI%2FrPx4OsH4WeNTyf5gjUYQSroRFBTdbvVY%2F3g38eGwrko0qi9uIIbak4iZW6W&tsc=origin&oidc=watchmen&sidc=201165&no_script=1&ss=s23&tfc_buyer=0
+单身瑶宝 - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/Nj9zOhw2jWQ_ShowAvcHdL0.flv?txSecret=b0b9b733cd5cdb4e5a384505396be39d&txTime=6b069f84&stat=kqAI%2FrPx4OsH4WeNTyf5gjUYQSroRFBTdbvVY%2F3g38eGwrko0qi9uIIbak4iZW6W&tsc=origin&oidc=edgeWm&sidc=205730&no_script=1&ss=s23&tfc_buyer=0
+ঞৣঁ一路阳光ঞৣ相守一生ঞৣ - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/mmy5wb5_hTo_ShowAvcHdL0.flv?txSecret=2a127346577d0bdbf598f6128fd2f267&txTime=6b069f84&stat=kqAI%2FrPx4OsH4WeNTyf5gjUYQSroRFBTdbvVY%2F3g38eGwrko0qi9uIIbak4iZW6W&tsc=origin&oidc=edgeWm&sidc=206077&no_script=1&ss=s23&tfc_buyer=0
+跃鸢尾花“张凤儿” - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/ZQOqhMEi4hA_ShowAvcHdL0.flv?txSecret=1e2c7832a928a9c680c4ef1166ab976b&txTime=6b069f84&stat=kqAI%2FrPx4OsH4WeNTyf5gjUYQSroRFBTdbvVY%2F3g38eGwrko0qi9uIIbak4iZW6W&tsc=origin&oidc=edgeWm&sidc=2959&no_script=1&ss=s23&tfc_buyer=0
+九七 - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/ujYpMaDugck_ShowAvcHdL0.flv?txSecret=dadd2e164be5d79791fbbbaa0c340742&txTime=6b069f84&stat=kqAI%2FrPx4OsH4WeNTyf5gjUYQSroRFBTdbvVY%2F3g38eGwrko0qi9uIIbak4iZW6W&tsc=origin&oidc=watchmen&sidc=201165&no_script=1&ss=s23&tfc_buyer=0
+单身三妹 - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/HZcMempjmiM_ShowAvcHdL0.flv?txSecret=4c3123946959139f12b46ff1ff3d4f6c&txTime=6b069f84&stat=kqAI%2FrPx4OsH4WeNTyf5gjUYQSroRFBTdbvVY%2F3g38eGwrko0qi9uIIbak4iZW6W&tsc=origin&oidc=edgeWm&sidc=201165&no_script=1&ss=s23&tfc_buyer=0
+心语💞 - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/r9LEOJZOSco_ShowAvcHdL0.flv?txSecret=d83f61b6994813540e8d9f8e85ed5b6c&txTime=6b069f84&stat=kqAI%2FrPx4OsH4WeNTyf5gjUYQSroRFBTdbvVY%2F3g38eGwrko0qi9uIIbak4iZW6W&tsc=origin&oidc=edgeWm&sidc=2959&no_script=1&ss=s23&tfc_buyer=0
+云妹🌈 - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/WwqfwQEwG2E_ShowAvcHdL0.flv?txSecret=afe2ec399745fd9f61a96f12a66d7611&txTime=6b069f84&stat=kqAI%2FrPx4OsH4WeNTyf5gjUYQSroRFBTdbvVY%2F3g38eGwrko0qi9uIIbak4iZW6W&tsc=origin&oidc=watchmen&sidc=2527&no_script=1&ss=s23&tfc_buyer=0
+雨落爱如潮水 - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/r2Nzn16Btm0_ShowAvcHdL0.flv?txSecret=f589e7531244993a4f26057791b45413&txTime=6b069f84&stat=kqAI%2FrPx4OsH4WeNTyf5gjUYQSroRFBTdbvVY%2F3g38eGwrko0qi9uIIbak4iZW6W&tsc=origin&oidc=edgeWm&sidc=2527&no_script=1&ss=s23&tfc_buyer=0
+90后颖妹 - 快手直播,https://tx-origin.pull.yximgs.com/gifshow/SV_oeD7FKtA_ShowAvcHdL0.flv?txSecret=c9ebc51f0899e2bf462ef7df7c4c2aed&txTime=6b069f84&stat=kqAI%2FrPx4OsH4WeNTyf5gjUYQSroRFBTdbvVY%2F3g38eGwrko0qi9uIIbak4iZW6W&tsc=origin&oidc=watchmen&sidc=201165&no_script=1&ss=s23&tfc_buyer=0
 虎牙直播,#genre#
 webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:10188", DANK1NG - 虎牙直播,https://baheyi.pages.dev/huya/10188
-webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:123321", CSBOY - 虎牙直播,https://baheyi.pages.dev/huya/123321
-彡彡九户外 - 虎牙直播,https://baheyi.pages.dev/huya/485503
-AmazingJ - 虎牙直播,https://baheyi.pages.dev/huya/707
-webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:142193", QY-沈佳宜uvu - 虎牙直播,https://baheyi.pages.dev/huya/142193
-webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:52647", Dae-感觉至上 - 虎牙直播,https://baheyi.pages.dev/huya/52647
-webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:339124", 华创-明凯【巅峰第二】 - 虎牙直播,https://baheyi.pages.dev/huya/339124
-天九-798 - 虎牙直播,https://baheyi.pages.dev/huya/99798
-AG绝迹 - 虎牙直播,https://baheyi.pages.dev/huya/115959
-webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:950168", Timi丶老白 - 虎牙直播,https://baheyi.pages.dev/huya/950168
-webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:168212", 星晴-全是美女 - 虎牙直播,https://baheyi.pages.dev/huya/168212
 小小小酷哥-组织 - 虎牙直播,https://baheyi.pages.dev/huya/1995
+webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:123321", CSBOY - 虎牙直播,https://baheyi.pages.dev/huya/123321
+webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:168212", 星晴-全是美女 - 虎牙直播,https://baheyi.pages.dev/huya/168212
+彡彡九户外 - 虎牙直播,https://baheyi.pages.dev/huya/485503
 神枪小子 - 虎牙直播,https://baheyi.pages.dev/huya/149721
-狂鸟丶小宇热游-90098 - 虎牙直播,https://baheyi.pages.dev/huya/10098
-webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:660101", 穿越火线赛事 - 【重播】恭喜白鲨获得EWC穿越火线项目总冠军！,https://baheyi.pages.dev/huya/660101
+webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:339124", 华创-明凯【巅峰第二】 - 虎牙直播,https://baheyi.pages.dev/huya/339124
+AG绝迹 - 虎牙直播,https://baheyi.pages.dev/huya/115959
+壮壮-798 - 虎牙直播,https://baheyi.pages.dev/huya/66798
+baicaiovo - 虎牙直播,https://baheyi.pages.dev/huya/691406
+webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:660115", 永劫无间赛事 - 【重播】2026NBPL秋季赛,https://baheyi.pages.dev/huya/660115
 webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:6952", 盛世-仙女湖 - 虎牙直播,https://baheyi.pages.dev/huya/6952
 webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:51888", 小豹子【豹豹黄】 - 虎牙直播,https://baheyi.pages.dev/huya/51888
-大锤酱798 - 虎牙直播,https://baheyi.pages.dev/huya/57798
+天九-798 - 虎牙直播,https://baheyi.pages.dev/huya/99798
 webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:229085", 红莲8888 - 虎牙直播,https://baheyi.pages.dev/huya/229085
-webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:825801", 完美世界电竞频道一 - 【预告】12:00直播PGL新加坡Major2026,https://baheyi.pages.dev/huya/825801
-webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:158468", 渝淮【国一阿离】 - 虎牙直播,https://baheyi.pages.dev/huya/158468
-webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:537071", 龙城-扛把子【浪弟】夫 - 虎牙直播,https://baheyi.pages.dev/huya/537071
-webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:24275469", Cute-头号可爱 - 虎牙直播,https://baheyi.pages.dev/huya/24275469
-壮壮-798 - 虎牙直播,https://baheyi.pages.dev/huya/66798
-webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:321123", CSBOY-Mo - 虎牙直播,https://baheyi.pages.dev/huya/321123
-webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:880221", 虎牙羽毛球 - 阮日VS大波波夫    2026中国香港羽毛球公开赛,https://baheyi.pages.dev/huya/880221
-webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:154265", 阿斗-一雾 - 虎牙直播,https://baheyi.pages.dev/huya/154265
-集梦罗玉姬子【1995】 - 虎牙直播,https://baheyi.pages.dev/huya/919
-webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:152751", 广州TTG小雪 - 虎牙直播,https://baheyi.pages.dev/huya/152751
-QG-玥昭昭 - 虎牙直播,https://baheyi.pages.dev/huya/139642
-webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:825290", 弃徒x - 虎牙直播,https://baheyi.pages.dev/huya/825290
-webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:153241", 好运来琳、 - 虎牙直播,https://baheyi.pages.dev/huya/153241
-webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:30805932", 虎牙羽毛球副台 - 半决赛精彩回放 2026中国香港羽毛球公开赛,https://baheyi.pages.dev/huya/30805932
-小六子【1995】 - 虎牙直播,https://baheyi.pages.dev/huya/616
 Letme严君泽 - 虎牙直播,https://baheyi.pages.dev/huya/518518
-webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:31368599", 小正-世一马超 - 虎牙直播,https://baheyi.pages.dev/huya/31368599
-林佳茵【1995】 - 虎牙直播,https://baheyi.pages.dev/huya/88668
-webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:31373452", 玖笙-蛋挞【公孙离】 - 虎牙直播,https://baheyi.pages.dev/huya/31373452
-baicaiovo - 虎牙直播,https://baheyi.pages.dev/huya/691406
+webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:24275469", Cute-头号可爱 - 虎牙直播,https://baheyi.pages.dev/huya/24275469
+王木木啊【1995】 - 虎牙直播,https://baheyi.pages.dev/huya/80088
+webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:825801", 完美世界电竞频道一 - 【预告】12:00直播PGL新加坡Major2026,https://baheyi.pages.dev/huya/825801
+憨憨是只猫呢 - 虎牙直播,https://baheyi.pages.dev/huya/159327
+webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:158468", 渝淮【国一阿离】 - 虎牙直播,https://baheyi.pages.dev/huya/158468
+webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:880221", 虎牙羽毛球 - 阮日VS大波波夫    2026中国香港羽毛球公开赛,https://baheyi.pages.dev/huya/880221
+webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:16188", 阳宝宝、 - 虎牙直播,https://baheyi.pages.dev/huya/16188
+webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:152751", 广州TTG小雪 - 虎牙直播,https://baheyi.pages.dev/huya/152751
+webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:321123", CSBOY-Mo - 虎牙直播,https://baheyi.pages.dev/huya/321123
+webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:950168", Timi丶老白 - 虎牙直播,https://baheyi.pages.dev/huya/950168
+webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:30805932", 虎牙羽毛球副台 - 半决赛精彩回放 2026中国香港羽毛球公开赛,https://baheyi.pages.dev/huya/30805932
+集梦罗玉姬子【1995】 - 虎牙直播,https://baheyi.pages.dev/huya/919
+webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:52027", 极品女教官 - 虎牙直播,https://baheyi.pages.dev/huya/52027
+webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:10825", 龙城、沾枳 - 虎牙直播,https://baheyi.pages.dev/huya/10825
+雪芙-798 - 虎牙直播,https://baheyi.pages.dev/huya/521798
+webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:31403166", 紫浩【山东第一射】 - 虎牙直播,https://baheyi.pages.dev/huya/31403166
 AG美黎 - 虎牙直播,https://baheyi.pages.dev/huya/10076
-webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:66025", 66饱饱 - 虎牙直播,https://baheyi.pages.dev/huya/66025
-水叔羽球 - 虎牙直播,https://baheyi.pages.dev/huya/30862527
+QG-玥昭昭 - 虎牙直播,https://baheyi.pages.dev/huya/139642
+webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:880214", 虎牙斯诺克 - 曼恩VS邓壕辉  2026斯诺克英锦赛资格赛,https://baheyi.pages.dev/huya/880214
 Blue组织 - 虎牙直播,https://baheyi.pages.dev/huya/19951
 webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:31391746", 宗师【国一镜】 - 虎牙直播,https://baheyi.pages.dev/huya/31391746
-QG-鹿予超甜超白 - 虎牙直播,https://baheyi.pages.dev/huya/124873
-狂鸟丶哥布林-90327 - 虎牙直播,https://baheyi.pages.dev/huya/546540
-webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:124816", 时一【努力版、】 - 虎牙直播,https://baheyi.pages.dev/huya/124816
-webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:880214", 虎牙斯诺克 - 曼恩VS邓壕辉  2026斯诺克英锦赛资格赛,https://baheyi.pages.dev/huya/880214
-小唐【1995】 - 虎牙直播,https://baheyi.pages.dev/huya/19950
-webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:31403166", 紫浩【山东第一射】 - 虎牙直播,https://baheyi.pages.dev/huya/31403166
-Mint万坤 - 虎牙直播,https://baheyi.pages.dev/huya/775178
 萝莉控啊 - 虎牙直播,https://baheyi.pages.dev/huya/713352
-webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:46821", 书香、深深 - 虎牙直播,https://baheyi.pages.dev/huya/46821
-云端体育 - 虎牙直播,https://baheyi.pages.dev/huya/31189969
-子圣-798 - 虎牙直播,https://baheyi.pages.dev/huya/528040
 webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:651346", 王大白- - 虎牙直播,https://baheyi.pages.dev/huya/651346
-憨憨是只猫呢 - 虎牙直播,https://baheyi.pages.dev/huya/159327
-webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:153821", QY-纯御粥 - 虎牙直播,https://baheyi.pages.dev/huya/153821
+webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:91209", 书香、柔软【209】 - 虎牙直播,https://baheyi.pages.dev/huya/91209
 webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:30860842", 羽羿羽毛球 - 虎牙直播,https://baheyi.pages.dev/huya/30860842
-MY-心刺【全能打野】 - 虎牙直播,https://baheyi.pages.dev/huya/31402248
-webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:528300", 安德罗妮丶 - 虎牙直播,https://baheyi.pages.dev/huya/528300
-webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:31403837", 书香、派派 - 虎牙直播,https://baheyi.pages.dev/huya/31403837
-羽球裁判阿里 - 虎牙直播,https://baheyi.pages.dev/huya/20520483
-webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:31416313", DT丶宇川【国1司空震】 - 虎牙直播,https://baheyi.pages.dev/huya/31416313
-集美雅婷【ZkL】 - 虎牙直播,https://baheyi.pages.dev/huya/92233
+webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:31413120", Ak故氏-全国服射手 - 虎牙直播,https://baheyi.pages.dev/huya/31413120
 MG、小毅-90504 - 虎牙直播,https://baheyi.pages.dev/huya/565371
-webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:314957", 盛世-莱昂凯SHYEARKMIU - 虎牙直播,https://baheyi.pages.dev/huya/314957
-传奇台球 - 虎牙直播,https://baheyi.pages.dev/huya/31368404
-webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:31400738", DT丶小故【国1元射】 - 虎牙直播,https://baheyi.pages.dev/huya/31400738
-佳怡1995 - 虎牙直播,https://baheyi.pages.dev/huya/19952
-Wsy、3胖 - 虎牙直播,https://baheyi.pages.dev/huya/33147
-webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:125764", 烟雨、李多多sweetie - 虎牙直播,https://baheyi.pages.dev/huya/125764
-webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:145328", Hot-是潇潇呀 - 虎牙直播,https://baheyi.pages.dev/huya/145328
+优凡丶梦娜 - 虎牙直播,https://baheyi.pages.dev/huya/971573
+webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:153821", QY-纯御粥 - 虎牙直播,https://baheyi.pages.dev/huya/153821
+羽球裁判阿里 - 虎牙直播,https://baheyi.pages.dev/huya/20520483
+阿B【1995】 - 虎牙直播,https://baheyi.pages.dev/huya/688715
+webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:31369973", 苏苏【巅峰第一辅】 - 虎牙直播,https://baheyi.pages.dev/huya/31369973
+QG-鹿予超甜超白 - 虎牙直播,https://baheyi.pages.dev/huya/124873
+webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:528300", 安德罗妮丶 - 虎牙直播,https://baheyi.pages.dev/huya/528300
+webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:66025", 66饱饱 - 虎牙直播,https://baheyi.pages.dev/huya/66025
+云端体育 - 虎牙直播,https://baheyi.pages.dev/huya/31189969
+林佳茵【1995】 - 虎牙直播,https://baheyi.pages.dev/huya/88668
+Mint万坤 - 虎牙直播,https://baheyi.pages.dev/huya/775178
+eStar-草莓 - 虎牙直播,https://baheyi.pages.dev/huya/12290
+webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:158932", QY-静香 - 虎牙直播,https://baheyi.pages.dev/huya/158932
 老唐-斯诺克 - 虎牙直播,https://baheyi.pages.dev/huya/27599671
-webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:31423971", 云翔-皮卡丘 - 虎牙直播,https://baheyi.pages.dev/huya/31423971
-集美嘉宝【ZKL】 - 虎牙直播,https://baheyi.pages.dev/huya/158346
+小岩-798 - 虎牙直播,https://baheyi.pages.dev/huya/30152161
+webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:138968", 广州TTG萝卜 - 虎牙直播,https://baheyi.pages.dev/huya/138968
 老鬼-MG - 虎牙直播,https://baheyi.pages.dev/huya/705112
 忆玖-大晴子【超白】 - 虎牙直播,https://baheyi.pages.dev/huya/264187
-webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:880625", 虎牙斯诺克副舞台 - 沃拉斯顿VS乔伊斯  2026斯诺克英锦赛资格赛,https://baheyi.pages.dev/huya/880625
-webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:31413020", AK北慕-国一露娜 - 虎牙直播,https://baheyi.pages.dev/huya/31413020
-金大脸【1995】 - 虎牙直播,https://baheyi.pages.dev/huya/21995
-webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:31369695", 龙城、金鑫鑫 - 虎牙直播,https://baheyi.pages.dev/huya/31369695
-万星-颖儿【0923】 - 虎牙直播,https://baheyi.pages.dev/huya/316236
-webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:660115", 永劫无间赛事 - 【重播】2026NBPL秋季赛,https://baheyi.pages.dev/huya/660115
-虎牙中式台球 - 2026独牙传奇横琴站-主台,https://baheyi.pages.dev/huya/880236
-webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:31361882", 寂然--巅峰第一 - 虎牙直播,https://baheyi.pages.dev/huya/31361882
+webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:31256268", 书香、甜芯儿baby - 虎牙直播,https://baheyi.pages.dev/huya/31256268
+传奇台球 - 虎牙直播,https://baheyi.pages.dev/huya/31368404
 冷水鱼【AJ】 - 虎牙直播,https://baheyi.pages.dev/huya/158967
-webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:153612", 书香、林芷汐 - 虎牙直播,https://baheyi.pages.dev/huya/153612
-webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:22744626", 万星-小乔【806】 - 虎牙直播,https://baheyi.pages.dev/huya/22744626
+webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:31400738", DT丶小故【国1元射】 - 虎牙直播,https://baheyi.pages.dev/huya/31400738
+风华-小超梦OvO - 虎牙直播,https://baheyi.pages.dev/huya/598349
+Wsy、3胖 - 虎牙直播,https://baheyi.pages.dev/huya/33147
+webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:347584", RF渣渣辉【江西深情】 - 虎牙直播,https://baheyi.pages.dev/huya/347584
+米粒电脑装机 - 虎牙直播,https://baheyi.pages.dev/huya/16929106
+小唐【1995】 - 虎牙直播,https://baheyi.pages.dev/huya/19950
+webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:31380800", 摘星-小猪【07国一镜】 - 虎牙直播,https://baheyi.pages.dev/huya/31380800
+webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:125764", 烟雨、李多多sweetie - 虎牙直播,https://baheyi.pages.dev/huya/125764
+webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:145328", Hot-是潇潇呀 - 虎牙直播,https://baheyi.pages.dev/huya/145328
+webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:880625", 虎牙斯诺克副舞台 - 沃拉斯顿VS乔伊斯  2026斯诺克英锦赛资格赛,https://baheyi.pages.dev/huya/880625
+十一【AJ】【518】 - 虎牙直播,https://baheyi.pages.dev/huya/99101
+webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:31361662", 梦境-阿遇【国一玄策】 - 虎牙直播,https://baheyi.pages.dev/huya/31361662
+webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:31381620", QY-叶星雅 - 虎牙直播,https://baheyi.pages.dev/huya/31381620
+webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:152694", 杨齐家丶随便掏 - 虎牙直播,https://baheyi.pages.dev/huya/152694
+小妍【AJ】财来财来 - 虎牙直播,https://baheyi.pages.dev/huya/159132
+webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:660000", 虎牙英雄联盟赛事 - 【预告】29日4点 S16瑞士轮第五日,https://baheyi.pages.dev/huya/660000
+优凡丶希北北 - 虎牙直播,https://baheyi.pages.dev/huya/25885
+webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:31413403", 18岁的软软 - 虎牙直播,https://baheyi.pages.dev/huya/31413403
+阿伟 - 虎牙直播,https://baheyi.pages.dev/huya/641257
+webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:520230", -天才小甜瓜- - 虎牙直播,https://baheyi.pages.dev/huya/520230
+大大大王【1995】 - 虎牙直播,https://baheyi.pages.dev/huya/521995
+WE957 - 虎牙直播,https://baheyi.pages.dev/huya/890001
+盛世-昨天 - 虎牙直播,https://baheyi.pages.dev/huya/289545
 小强电脑装机 - 虎牙直播,https://baheyi.pages.dev/huya/28947271
-webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:31375998", MY-羽紫柒 - 虎牙直播,https://baheyi.pages.dev/huya/31375998
-集美丢丢【ZKL】 - 虎牙直播,https://baheyi.pages.dev/huya/125487
-eStar-草莓 - 虎牙直播,https://baheyi.pages.dev/huya/12290
-解说元宝  - 虎牙直播,https://baheyi.pages.dev/huya/138297
-小虎牙直播FM - 虎牙直播,https://baheyi.pages.dev/huya/29076690
-冰月凝 - 虎牙直播,https://baheyi.pages.dev/huya/31384677
-呆呆渔【1995】 - 虎牙直播,https://baheyi.pages.dev/huya/57899
-webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:159364", 铭创-桐韵 - 虎牙直播,https://baheyi.pages.dev/huya/159364
-笙宝超甜 - 虎牙直播,https://baheyi.pages.dev/huya/26243000
-six球杆六哥 - 虎牙直播,https://baheyi.pages.dev/huya/28321405
-webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:23143122", 小k【国一老虎】 - 虎牙直播,https://baheyi.pages.dev/huya/23143122
-王木木啊【1995】 - 虎牙直播,https://baheyi.pages.dev/huya/80088
-webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:91209", 书香、柔软【209】 - 虎牙直播,https://baheyi.pages.dev/huya/91209
-QG-鱼兜兜 - 虎牙直播,https://baheyi.pages.dev/huya/159324
-webp" group-title="虎牙直播",webp" group-title="虎牙直播" tvg-id="huya:691422", 天才少女ic - 虎牙直播,https://baheyi.pages.dev/huya/691422
-Wy苏金辉 - 虎牙直播,https://baheyi.pages.dev/huya/31441459
 斗鱼直播,#genre#
-椰汁糕冬瓜强 - 鱼姚妹jor季前赛,https://baheyi.pages.dev/douyu/63136
-玩机器丶Machine - 小众宝藏结晶直播间 6657,https://baheyi.pages.dev/douyu/6979222
 若若跑的贼快 - 精英手册热卖中！,https://baheyi.pages.dev/douyu/9263298
-甜星kitty - 祝我生日快乐~ 99900,https://baheyi.pages.dev/douyu/6135669
-我叫鬼鬼呀 - 山林从不向四季起誓 枯荣随缘 7877,https://baheyi.pages.dev/douyu/6496945
+椰汁糕冬瓜强 - 鱼姚妹jor季前赛,https://baheyi.pages.dev/douyu/63136
 yyfyyf - 陪伴每一天！,https://baheyi.pages.dev/douyu/9999
-QuQu非常规大师 - FAZE vs WC 新加坡MAJOR,https://baheyi.pages.dev/douyu/178432
+甜星kitty - 周二愉快呀,https://baheyi.pages.dev/douyu/6135669
+我叫鬼鬼呀 - 山林从不向四季起誓 枯荣随缘 7877,https://baheyi.pages.dev/douyu/6496945
+玩机器丶Machine - 小众宝藏结晶直播间 6657,https://baheyi.pages.dev/douyu/6979222
+MrGemini - Gemini：陪伴型主播！！,https://baheyi.pages.dev/douyu/36252
+QuQu非常规大师 - LVG vs NIP 新加坡MAJOR,https://baheyi.pages.dev/douyu/178432
+可可or - 每天开心就会每天漂亮^_^（四点播,https://baheyi.pages.dev/douyu/12767534
+757户外 - 《荒野神存5》 Day1,https://baheyi.pages.dev/douyu/757122
+20岁天才歌手Running - Running 决胜天命圈D2真人战场,https://baheyi.pages.dev/douyu/2448877
 超级小桀 - 现代最强游戏GTA来了,https://baheyi.pages.dev/douyu/74751
-757户外 - 今天下午2点集合《荒野神存5》~,https://baheyi.pages.dev/douyu/757122
 曾小鹿儿 - 恭喜发财平安喜乐,https://baheyi.pages.dev/douyu/8122827
-地下城与勇士手游官方 - DNFU嘉年华直播盛典，玩点新动作！,https://baheyi.pages.dev/douyu/8727119
 pigff - pigff IVE联名已登录PUBG,https://baheyi.pages.dev/douyu/24422
-叶子户外 - 恭喜空客哥荣升王者至尊！！！,https://baheyi.pages.dev/douyu/244548
-在逃公主阮阮 - 唱歌-清晨第一缕阳光,https://baheyi.pages.dev/douyu/8765349
+地下城与勇士手游官方 - DNFU嘉年华直播盛典，玩点新动作！,https://baheyi.pages.dev/douyu/8727119
 邦Sa - 大师局硬核指挥！专业团队冲分教学！,https://baheyi.pages.dev/douyu/5720533
+叶子户外 - 恭喜空客哥荣升王者至尊！！！,https://baheyi.pages.dev/douyu/244548
+榆宝77 - 恭喜我辣椒100级啦！,https://baheyi.pages.dev/douyu/12658511
 鹿小鸣l - 冬天到了 该上分了！ 10040721,https://baheyi.pages.dev/douyu/10040721
-迅哥丶雨霖铃 - 美测王者八排！！,https://baheyi.pages.dev/douyu/216555
-顾北宁ii - 得了夫人病,https://baheyi.pages.dev/douyu/1853869
+主播阿飞 - 阿飞)16点来迈阿密第一高智商,https://baheyi.pages.dev/douyu/84452
+可可昕ohh - 【萌面小侠】小番茄教程,https://baheyi.pages.dev/douyu/9252212
+在逃公主阮阮 - 唱歌-清晨第一缕阳光,https://baheyi.pages.dev/douyu/8765349
 小阿青Angel - 河南唱歌 正在演唱中。。。。。,https://baheyi.pages.dev/douyu/9693493
+子丘【南波家族】 - 丘游记第二季晚上主台扎飞镖！！！,https://baheyi.pages.dev/douyu/558004
 孙悟空丨兰林汉 - 兰林汉：英雄联盟！铁皮双倍亲密度！,https://baheyi.pages.dev/douyu/475252
-余小C真的很强 - 余小C：每天都是元气满满的一天！,https://baheyi.pages.dev/douyu/1126960
+驴酱的冯雨大王 - 冯雨：人在广东已经漂泊十五天~,https://baheyi.pages.dev/douyu/317422
 成都55张 - 重生之我在麻团当队长,https://baheyi.pages.dev/douyu/4386404
 周笙zs - 冲击年度，宝剑锋从磨砺出，梅花香自苦寒来,https://baheyi.pages.dev/douyu/771592
-驴酱的冯雨大王 - 冯雨：人在广东已经漂泊十五天~,https://baheyi.pages.dev/douyu/317422
 白鲨AyoM - CFS世界赛加油！,https://baheyi.pages.dev/douyu/12821
+啦啦啦不是狗狗狗 - 鹿鹿鹿：jjc启动！,https://baheyi.pages.dev/douyu/633019
 南波儿大魔王丶 - 牙子大舞台27号开业,https://baheyi.pages.dev/douyu/5526219
-卡司一星梦阁1 - 愿好运如春风常驻，轻抚岁月，温柔你每段路,https://baheyi.pages.dev/douyu/10799022
-开心丶张可檬 - 我多么希望你能回来,https://baheyi.pages.dev/douyu/9715414
+亚洲洲长丶 - 播吧，不播咋整阿,https://baheyi.pages.dev/douyu/4514243
 阿涛皎月Carry - 新赛季的神 美测最新版本科研,https://baheyi.pages.dev/douyu/6560603
 梨落秋溪 - 美测新赛季科研阵容，多玩点新东西！,https://baheyi.pages.dev/douyu/594019
-衣锦夜行 - 高歌猛进，万八近在咫尺,https://baheyi.pages.dev/douyu/48699
-是小阿糖呀 - 新主播第一天 9955829,https://baheyi.pages.dev/douyu/9955829
-你要找哪条小鱼 - 杭州必游景点花港观鱼,https://baheyi.pages.dev/douyu/8188531
-洞主丨歌神洞庭湖 - 欢乐时光已经开始了！,https://baheyi.pages.dev/douyu/138243
+余小C真的很强 - 余小C：每天都是元气满满的一天！,https://baheyi.pages.dev/douyu/1126960
+卡司一星梦阁1 - 愿好运如春风常驻，轻抚岁月，温柔你每段路,https://baheyi.pages.dev/douyu/10799022
 轰轰仔 - 轰轰：年度冲一波！,https://baheyi.pages.dev/douyu/6925114
-不太冷xxx - 2100分以下别进来，你看不懂,https://baheyi.pages.dev/douyu/3125893
-小诗玥 - 想当最美校园天使~,https://baheyi.pages.dev/douyu/12834971
+洞主丨歌神洞庭湖 - 欢乐时光已经开始了！,https://baheyi.pages.dev/douyu/138243
+小诗玥 - 原来我是奶油 随随便便就打发咯,https://baheyi.pages.dev/douyu/12834971
 徐不快乐 - 祝你天天开心7300160,https://baheyi.pages.dev/douyu/7300160
 王者荣耀官方赛事 - 重播 KNC洲际争霸赛,https://baheyi.pages.dev/douyu/1863767
 靓旭 - 给钻粉拉磨！！,https://baheyi.pages.dev/douyu/1165924
-谢彬DD - 喂 在吗?进来看Show了.,https://baheyi.pages.dev/douyu/110
+晒网的慧儿呀 - 祝甜星生日快乐~ 5088,https://baheyi.pages.dev/douyu/4941977
 甜彦 - 祝神爹生日快乐！永远不死！,https://baheyi.pages.dev/douyu/9288988
-悦mmm - 恭喜徐雷哥荣升星耀❤~,https://baheyi.pages.dev/douyu/6464361
-石页的第一根矛s - 石页:荒野生活day3！,https://baheyi.pages.dev/douyu/593392
-XROCK年鹏Enpi - CFS开始啦，CNCF加油,https://baheyi.pages.dev/douyu/5389181
+谢彬DD - 喂 在吗?进来看Show了.,https://baheyi.pages.dev/douyu/110
 异灵术老师 - 异灵术：放羊gta6,https://baheyi.pages.dev/douyu/93589
+喜欢水水【南波家族】 - 关注牙子大舞台27号开业,https://baheyi.pages.dev/douyu/7003279
+悦mmm - 恭喜徐雷哥荣升星耀❤~,https://baheyi.pages.dev/douyu/6464361
 JT丶浩克大魔王 - 下午1点来,https://baheyi.pages.dev/douyu/4489985
+XROCK年鹏Enpi - CFS开始啦，CNCF加油,https://baheyi.pages.dev/douyu/5389181
+石页的第一根矛s - 石页:荒野生活day3！,https://baheyi.pages.dev/douyu/593392
+大余ya - 庆祝周笙zs打年度必拿下,https://baheyi.pages.dev/douyu/9383155
 郁知晚 - 努力保级。。,https://baheyi.pages.dev/douyu/10039515
-尐表哥 - 斗鱼NO.1歌神！,https://baheyi.pages.dev/douyu/217331
 lqscrisp - 天才决斗降临,https://baheyi.pages.dev/douyu/2739447
-PeRo明明 - 11.4女团联名要来了！,https://baheyi.pages.dev/douyu/6822146
-阿喜BABYxi - 沉睡の喜子,https://baheyi.pages.dev/douyu/9243236
 diyy刘頔 - 斗鱼第一薄切!,https://baheyi.pages.dev/douyu/231059
-南枫阿i - 来这里起飞就好了,https://baheyi.pages.dev/douyu/3436094
-穿越火线运营团队 - 直播|CFS世界赛 WLVS vs WK,https://baheyi.pages.dev/douyu/605964
-考拉-24K音乐盒子 - 【极品点唱】第一首免费！,https://baheyi.pages.dev/douyu/10952867
-17shou丷 - 【2026PCL】17 战队视角,https://baheyi.pages.dev/douyu/2267291
+PeRo明明 - 11.4女团联名要来了！,https://baheyi.pages.dev/douyu/6822146
+未三岁i - 一位腼腆害羞内向社恐文静的小女生,https://baheyi.pages.dev/douyu/4400186
+阿喜BABYxi - 沉睡の喜子,https://baheyi.pages.dev/douyu/9243236
 果小果是个弟弟 - 果小果：来啦,https://baheyi.pages.dev/douyu/6558897
+穿越火线运营团队 - 直播|CFS世界赛 WLVS vs WK,https://baheyi.pages.dev/douyu/605964
 光阴大人 - 驴酱新人武汉小团,https://baheyi.pages.dev/douyu/7201257
-椰椰甜虾 - 天生媚骨透玲珑,https://baheyi.pages.dev/douyu/12090593
-久九小九久 - 甜过初恋 不甜退款,https://baheyi.pages.dev/douyu/12894684
+开心丶张可檬 - 我多么希望你能回来,https://baheyi.pages.dev/douyu/9715414
+清晓mm - 必吃播间 定不负你,https://baheyi.pages.dev/douyu/6295904
+丶不喜欢喝水水 - 啵啵啵啵啵 11239476,https://baheyi.pages.dev/douyu/11239476
 王拉奇 - 【小奶团】GTA我来辣!!,https://baheyi.pages.dev/douyu/11144156
 赖小峰 - 【赖小峰】回归~,https://baheyi.pages.dev/douyu/93936
-丶不喜欢喝水水 - 啵啵啵啵啵 11239476,https://baheyi.pages.dev/douyu/11239476
-芳心狙击手舒克 - 能把大大的礼物塞进我小小的直播间里吗,https://baheyi.pages.dev/douyu/66748
-可可昕ohh - 【萌面小侠】小番茄教程,https://baheyi.pages.dev/douyu/9252212
-CSGO馒头 - 聊聊天打打游戏 6959154,https://baheyi.pages.dev/douyu/6959154
-白祁玉 - 江苏 175 温柔系,https://baheyi.pages.dev/douyu/12892022
+小野绿子midori - 【欢迎点歌】合肥第二歌姬,https://baheyi.pages.dev/douyu/9713879
+考拉-24K音乐盒子 - 【极品点唱】第一首免费！,https://baheyi.pages.dev/douyu/10952867
 王大谋QoQ - 福团s3，向往的生活~,https://baheyi.pages.dev/douyu/9990298
-你的布吉岛 - 摘星星请大喊我！！！,https://baheyi.pages.dev/douyu/9095533
+CSGO馒头 - 聊聊天打打游戏 6959154,https://baheyi.pages.dev/douyu/6959154
+椰椰甜虾 - 天生媚骨透玲珑,https://baheyi.pages.dev/douyu/12090593
+久九小九久 - 甜过初恋 不甜退款,https://baheyi.pages.dev/douyu/12894684
 午夜抹抹茶 - GTA6-这不是一个游戏，而是一个世界,https://baheyi.pages.dev/douyu/80432
-Zy梓洋 - 【CSTG】福团Day6，给飞哥投投票,https://baheyi.pages.dev/douyu/656750
 叫我老陈就好了 - 来这里开心就好！！！ 74960,https://baheyi.pages.dev/douyu/74960
-阿乐fps - 开始报复性直播。。。,https://baheyi.pages.dev/douyu/7459835
-主播大飞纪实 - 斯里兰卡纪实日行一善,https://baheyi.pages.dev/douyu/11799200
-妙蛙山上一直蛙 - 虚假繁荣第一人！！！,https://baheyi.pages.dev/douyu/6554445
-帽子戏法Chess - 夺命象棋飞刀王，刁钻绝情手段,https://baheyi.pages.dev/douyu/4487219
-骇客H4cker - dota之神回归第一天,https://baheyi.pages.dev/douyu/7314971
-主播帝王 - 福团S3 六百多星米其林厨子,https://baheyi.pages.dev/douyu/731252
-小圆UUm - 真心换真心 12907406,https://baheyi.pages.dev/douyu/12907406
-禾粒Ace - 愿每片温柔都被真心以待,https://baheyi.pages.dev/douyu/12869774
-一萌imu - 蒙面小侠  入口,https://baheyi.pages.dev/douyu/6503272
-太原马超丶 - 加油 修炼 努力 提高,https://baheyi.pages.dev/douyu/891464
-方小凡ii - 江浙沪唱歌主播  很内向除了唱歌不道说啥,https://baheyi.pages.dev/douyu/9779997
+Zy梓洋 - 【CSTG】福团Day6，给飞哥投投票,https://baheyi.pages.dev/douyu/656750
 梨酱lli - 我说仲夏苦短，你说蝉鸣悠长。,https://baheyi.pages.dev/douyu/4636924
+小梨梨Lily - 不要慌，不要慌，太阳下山有月光。,https://baheyi.pages.dev/douyu/9742633
+迷人的大魔猪 - 感谢阿玛给我靓号 阿玛睡个好觉,https://baheyi.pages.dev/douyu/4365727
+阿乐fps - 开始报复性直播。。。,https://baheyi.pages.dev/douyu/7459835
+帽子戏法Chess - 夺命象棋飞刀王，刁钻绝情手段,https://baheyi.pages.dev/douyu/4487219
+芳心狙击手舒克 - 能把大大的礼物塞进我小小的直播间里吗,https://baheyi.pages.dev/douyu/66748
+主播大飞纪实 - 斯里兰卡纪实日行一善,https://baheyi.pages.dev/douyu/11799200
+骇客H4cker - dota之神回归第一天,https://baheyi.pages.dev/douyu/7314971
 Nico小香猪 - 我比刮痧师傅还会刮,https://baheyi.pages.dev/douyu/6794620
-丸子头的文哥哥 - 速看 真伤提款专业户！,https://baheyi.pages.dev/douyu/3305122
-黑欢喜 - 金农禁止入内的直播间,https://baheyi.pages.dev/douyu/2456621
+小迪迪mm - 小迪小迪可爱无敌,https://baheyi.pages.dev/douyu/8094748
+主播帝王 - 福团S3 六百多星米其林厨子,https://baheyi.pages.dev/douyu/731252
+太原马超丶 - 加油 修炼 努力 提高,https://baheyi.pages.dev/douyu/891464
+一萌imu - 蒙面小侠  入口,https://baheyi.pages.dev/douyu/6503272
+妙蛙山上一直蛙 - 虚假繁荣第一人！！！,https://baheyi.pages.dev/douyu/6554445
 福宝Lee - 标题随意想象,https://baheyi.pages.dev/douyu/7624425
+阿良林暦 - 快乐每一天~ 1314213,https://baheyi.pages.dev/douyu/1314213
+丸子头的文哥哥 - 速看 真伤提款专业户！,https://baheyi.pages.dev/douyu/3305122
+不祥之刃c - 心之钢卡特见过没？叠到一万血1V5！,https://baheyi.pages.dev/douyu/5152641
+橘子miya - 至美至善天秤座 5852816,https://baheyi.pages.dev/douyu/5852816
+青榎 - 等一个很好很好的天气～~,https://baheyi.pages.dev/douyu/8031896
+黑欢喜 - 金农禁止入内的直播间,https://baheyi.pages.dev/douyu/2456621
 狗剩子GSZ - 〔直播〕飞机打号上车,https://baheyi.pages.dev/douyu/4871359
-罩流痞 - 番茄小丑雪国 积分教学,https://baheyi.pages.dev/douyu/7920402
-八卦象棋大师 - 2026年二代闭关锁☞布局开战。,https://baheyi.pages.dev/douyu/851040
+是希文吖丶 - 祝你今日愉快！,https://baheyi.pages.dev/douyu/1334765
 i雯雯777 - 命运高抬贵手原来是要扇我,https://baheyi.pages.dev/douyu/9160725
-伊纯Fairy - 要是你在就好了,https://baheyi.pages.dev/douyu/9391576
-24k纯小鹿 - 【非常757】今晚求生集合！,https://baheyi.pages.dev/douyu/12906933
-沈幼楚ii - 若能与水问真心,https://baheyi.pages.dev/douyu/9140931
-糖星mm - 这里有你最在意的人,https://baheyi.pages.dev/douyu/7096276
-羊村少爷 - 新人主播有位求带,https://baheyi.pages.dev/douyu/12485228
-爱吃鱼的石原 - OB一下游戏之夜！！！,https://baheyi.pages.dev/douyu/921393
-周周不见了 - 我的努力就像小狗屁 9684954,https://baheyi.pages.dev/douyu/9684954
-可爱惠惠惠 - 相信 要相信 会好起来的,https://baheyi.pages.dev/douyu/9574325
-刷白 - 每日乱杀秀,https://baheyi.pages.dev/douyu/474669
-菜刀三国杀 - 四个新武将！搞起！,https://baheyi.pages.dev/douyu/160504
-铁饼GO - 【铁饼】吃鸡宝可梦,https://baheyi.pages.dev/douyu/184219
+电棍 - 电棍：人逢喜事精神爽!!,https://baheyi.pages.dev/douyu/12306
+何二抛zZ - 二抛：Power Gaming 加油~！,https://baheyi.pages.dev/douyu/4452132
+八卦象棋大师 - 2026年二代闭关锁☞布局开战。,https://baheyi.pages.dev/douyu/851040
 长乐点唱一盛夏光年 - 盛夏光年[点唱厅]----推西柚汁儿,https://baheyi.pages.dev/douyu/10508463
-晒网的慧儿呀 - 祝甜星生日快乐~ 5088,https://baheyi.pages.dev/douyu/4941977
-王科长的WOW - 无限 防骑详细攻略已做完,https://baheyi.pages.dev/douyu/433724
-耿枫QUQ - 蒙面小侠-和平集市入口,https://baheyi.pages.dev/douyu/7573365
+周周不见了 - 我的努力就像小狗屁 9684954,https://baheyi.pages.dev/douyu/9684954
+罩流痞 - 番茄小丑雪国 积分教学,https://baheyi.pages.dev/douyu/7920402
+小歪ouo - 巅峰冲冲冲 10740395,https://baheyi.pages.dev/douyu/10740395
+24k纯小鹿 - 【非常757】今晚求生集合！,https://baheyi.pages.dev/douyu/12906933
+国民大舅哥 - 26号s11启动,https://baheyi.pages.dev/douyu/182102
+Sky灬素顏 - 本周更新太初之路！聊聊嘉年华见闻,https://baheyi.pages.dev/douyu/9940062
+子敬ad - 开开心心每一天！ 8256300,https://baheyi.pages.dev/douyu/8256300
+羊村少爷 - 新人主播有位求带,https://baheyi.pages.dev/douyu/12485228
 酷狗直播,#genre#
-艺涵Athena - 艺涵Athena,https://baheyi.pages.dev/kugou/5179240
-新人安予 - 新人安予,https://baheyi.pages.dev/kugou/51202191
-郭温柔i恋心U - 郭温柔i恋心U,https://baheyi.pages.dev/kugou/5171815
-困困包11 - 困困包11,https://baheyi.pages.dev/kugou/51098120
-Top恬柚 - Top恬柚,https://baheyi.pages.dev/kugou/3147274
-钟歆乐 - 钟歆乐,https://baheyi.pages.dev/kugou/1013962
-小慧慧hh - 小慧慧hh,https://baheyi.pages.dev/kugou/50967236
-XN语菲新主播 - XN语菲新主播,https://baheyi.pages.dev/kugou/51204876
-瑄瑄qwq - 瑄瑄qwq,https://baheyi.pages.dev/kugou/51204948
-n柚柚n - n柚柚n,https://baheyi.pages.dev/kugou/51202198
-小灰灰 - 小灰灰,https://baheyi.pages.dev/kugou/1528949
 Bz舞媚娘柒月 - Bz舞媚娘柒月,https://baheyi.pages.dev/kugou/3624549
-aa橘子aa - aa橘子aa,https://baheyi.pages.dev/kugou/51204150
+艺涵Athena - 艺涵Athena,https://baheyi.pages.dev/kugou/5179240
+小慧慧hh - 小慧慧hh,https://baheyi.pages.dev/kugou/50967236
+秋晴CC - 秋晴CC,https://baheyi.pages.dev/kugou/5613842
+林雨萱r - 林雨萱r,https://baheyi.pages.dev/kugou/3404876
 葫芦娃oo - 葫芦娃oo,https://baheyi.pages.dev/kugou/51095826
-姜遇103 - 姜遇103,https://baheyi.pages.dev/kugou/3609127
-小困芽o - 小困芽o,https://baheyi.pages.dev/kugou/51096431
-叶宁宁y - 叶宁宁y,https://baheyi.pages.dev/kugou/1547072
-心怡oo - 心怡oo,https://baheyi.pages.dev/kugou/50837249
-XN桉月新主播 - XN桉月新主播,https://baheyi.pages.dev/kugou/51204878
-腾东新人仔仔 - 腾东新人仔仔,https://baheyi.pages.dev/kugou/51203156
-新人Pp - 新人Pp,https://baheyi.pages.dev/kugou/51201481
-XN糯米米新主播 - XN糯米米新主播,https://baheyi.pages.dev/kugou/51203975
+纯欲欣宝 - 纯欲欣宝,https://baheyi.pages.dev/kugou/50641385
+小灰灰 - 小灰灰,https://baheyi.pages.dev/kugou/1528949
+烟嗓小嘿宝儿 - 烟嗓小嘿宝儿,https://baheyi.pages.dev/kugou/1413651
 夏安安c - 夏安安c,https://baheyi.pages.dev/kugou/51203752
-新人兮兮07 - 新人兮兮07,https://baheyi.pages.dev/kugou/51204071
+aa橘子aa - aa橘子aa,https://baheyi.pages.dev/kugou/51204150
+叶宁宁y - 叶宁宁y,https://baheyi.pages.dev/kugou/1547072
+小困芽o - 小困芽o,https://baheyi.pages.dev/kugou/51096431
+飞伊1 - 飞伊1,https://baheyi.pages.dev/kugou/50814859
+新人红豆y - 新人红豆y,https://baheyi.pages.dev/kugou/51096271
+VV美媛新人a - VV美媛新人a,https://baheyi.pages.dev/kugou/51097530
+新人李小星 - 新人李小星,https://baheyi.pages.dev/kugou/51203849
+新人清禾吖 - 新人清禾吖,https://baheyi.pages.dev/kugou/51205246
+新人清清l - 新人清清l,https://baheyi.pages.dev/kugou/51097167
+新人米宝 - 新人米宝,https://baheyi.pages.dev/kugou/51202805
+林星瑶Max - 林星瑶Max,https://baheyi.pages.dev/kugou/50824926
+钧星楚 - 钧星楚,https://baheyi.pages.dev/kugou/51203670
+XN桉月新主播 - XN桉月新主播,https://baheyi.pages.dev/kugou/51204878
+涉外北北同學 - 涉外北北同學,https://baheyi.pages.dev/kugou/4624270
+新人安予 - 新人安予,https://baheyi.pages.dev/kugou/51202191
+井瑶儿hm - 井瑶儿hm,https://baheyi.pages.dev/kugou/5239589
+张影影baby - 张影影baby,https://baheyi.pages.dev/kugou/5456278
 小涵吖h - 小涵吖h,https://baheyi.pages.dev/kugou/51097845
+锦鲤小小 - 锦鲤小小,https://baheyi.pages.dev/kugou/51086242
+Qy新人羊咩咩 - Qy新人羊咩咩,https://baheyi.pages.dev/kugou/51201683
+XN糯米米新主播 - XN糯米米新主播,https://baheyi.pages.dev/kugou/51203975
+n柚柚n - n柚柚n,https://baheyi.pages.dev/kugou/51202198
+新人星苒 - 新人星苒,https://baheyi.pages.dev/kugou/51203437
+Jz小妍妍 - Jz小妍妍,https://baheyi.pages.dev/kugou/51086925
+苏沁沁a - 苏沁沁a,https://baheyi.pages.dev/kugou/51016469
 星瑶RJ - 星瑶RJ,https://baheyi.pages.dev/kugou/50962871
-JZ小鱼鱼 - JZ小鱼鱼,https://baheyi.pages.dev/kugou/51201974
 Rill温软 - Rill温软,https://baheyi.pages.dev/kugou/50607280
-慕颜ai - 慕颜ai,https://baheyi.pages.dev/kugou/5952601
+依小涵一nikeer - 依小涵一nikeer,https://baheyi.pages.dev/kugou/4134386
 困困怪88888 - 困困怪88888,https://baheyi.pages.dev/kugou/50314693
-新人知盈 - 新人知盈,https://baheyi.pages.dev/kugou/51093580
-桃桃眠 - 桃桃眠,https://baheyi.pages.dev/kugou/51089735
+YX十一 - YX十一,https://baheyi.pages.dev/kugou/50931076
+新人绿豆沙 - 新人绿豆沙,https://baheyi.pages.dev/kugou/51086232
+王慕慕579 - 王慕慕579,https://baheyi.pages.dev/kugou/51081963
+星魅少女团 - 星魅少女团,https://baheyi.pages.dev/kugou/51058320
+王者荣耀清欢 - 王者荣耀清欢,https://baheyi.pages.dev/kugou/51035015
+新人福小禧 - 新人福小禧,https://baheyi.pages.dev/kugou/51097434
 来疯直播,#genre#
-m_fill,h_600,w_600/format,png" group-title="来疯直播",m_fill,h_600,w_600/format,png" group-title="来疯直播" tvg-id="laifeng:8032351", 没错我是乔·ݛ - 没错我是乔·ݛ - 没大哥 放心刷,https://baheyi.pages.dev/laifeng/8032351
-m_fill,h_600,w_600/format,png" group-title="来疯直播",m_fill,h_600,w_600/format,png" group-title="来疯直播" tvg-id="laifeng:656481", 星辰✧ - 星辰✧ - 平凡至极却又可爱非常,https://baheyi.pages.dev/laifeng/656481
-m_fill,h_600,w_600/format,png" group-title="来疯直播",m_fill,h_600,w_600/format,png" group-title="来疯直播" tvg-id="laifeng:9418860", 峰不二2 - 峰不二2,https://baheyi.pages.dev/laifeng/9418860
-m_fill,h_600,w_600/format,png" group-title="来疯直播",m_fill,h_600,w_600/format,png" group-title="来疯直播" tvg-id="laifeng:8166650", 小酒✨微胖 - 小酒✨微胖 - 你知道我在等你么！！！！,https://baheyi.pages.dev/laifeng/8166650
-m_fill,h_600,w_600/format,png" group-title="来疯直播",m_fill,h_600,w_600/format,png" group-title="来疯直播" tvg-id="laifeng:8095713", 壹闪加油. - 壹闪加油. - 停电,https://baheyi.pages.dev/laifeng/8095713
-m_fill,h_600,w_600/format,png" group-title="来疯直播",m_fill,h_600,w_600/format,png" group-title="来疯直播" tvg-id="laifeng:726380", 筱筱、 - 筱筱、 - 嗯呢是筱筱,https://baheyi.pages.dev/laifeng/726380
-m_fill,h_600,w_600/format,png" group-title="来疯直播",m_fill,h_600,w_600/format,png" group-title="来疯直播" tvg-id="laifeng:8148028", 芯儿~ - 芯儿~ - 王者荣耀,https://baheyi.pages.dev/laifeng/8148028
-m_fill,h_600,w_600/format,png" group-title="来疯直播",m_fill,h_600,w_600/format,png" group-title="来疯直播" tvg-id="laifeng:9418870", 小鱼谢26哥接生 - 小鱼谢26哥接生,https://baheyi.pages.dev/laifeng/9418870
+m_fill,h_600,w_600/format,png" group-title="来疯直播",m_fill,h_600,w_600/format,png" group-title="来疯直播" tvg-id="laifeng:9418454", 鹿野 - 鹿野,https://baheyi.pages.dev/laifeng/9418454
 m_fill,h_600,w_600/format,png" group-title="来疯直播",m_fill,h_600,w_600/format,png" group-title="来疯直播" tvg-id="laifeng:9418763", 没错我是Ty - 没错我是Ty,https://baheyi.pages.dev/laifeng/9418763
-m_fill,h_600,w_600/format,png" group-title="来疯直播",m_fill,h_600,w_600/format,png" group-title="来疯直播" tvg-id="laifeng:9418810", 七月小喵 - 七月小喵 - 播一会,https://baheyi.pages.dev/laifeng/9418810
-m_fill,h_600,w_600/format,png" group-title="来疯直播",m_fill,h_600,w_600/format,png" group-title="来疯直播" tvg-id="laifeng:677187", 没错静 - 没错静 - 谁能莫名其妙给我开个守护,https://baheyi.pages.dev/laifeng/677187
-m_fill,h_600,w_600/format,png" group-title="来疯直播",m_fill,h_600,w_600/format,png" group-title="来疯直播" tvg-id="laifeng:8175393", 星黛鹿 - 星黛鹿,https://baheyi.pages.dev/laifeng/8175393
-m_fill,h_600,w_600/format,png" group-title="来疯直播",m_fill,h_600,w_600/format,png" group-title="来疯直播" tvg-id="laifeng:8149461", 一米 - 一米 - 一米,https://baheyi.pages.dev/laifeng/8149461
-m_fill,h_600,w_600/format,png" group-title="来疯直播",m_fill,h_600,w_600/format,png" group-title="来疯直播" tvg-id="laifeng:9418861", 冰冰. - 冰冰.,https://baheyi.pages.dev/laifeng/9418861
-png" group-title="来疯直播",png" group-title="来疯直播" tvg-id="laifeng:8173444", 热舞阿喵 - 热舞阿喵,https://baheyi.pages.dev/laifeng/8173444
-m_fill,h_600,w_600/format,png" group-title="来疯直播",m_fill,h_600,w_600/format,png" group-title="来疯直播" tvg-id="laifeng:8074368", 奶糖❤️ - 奶糖❤️,https://baheyi.pages.dev/laifeng/8074368
-m_fill,h_600,w_600/format,png" group-title="来疯直播",m_fill,h_600,w_600/format,png" group-title="来疯直播" tvg-id="laifeng:8178821", 瑞瑞谢万哥9灯 - 瑞瑞谢万哥9灯,https://baheyi.pages.dev/laifeng/8178821
-m_fill,h_600,w_600/format,png" group-title="来疯直播",m_fill,h_600,w_600/format,png" group-title="来疯直播" tvg-id="laifeng:8070292", 迪丽用❤️唱歌 - 迪丽用❤️唱歌 - 一个爱唱歌的,https://baheyi.pages.dev/laifeng/8070292
-m_fill,h_600,w_600/format,png" group-title="来疯直播",m_fill,h_600,w_600/format,png" group-title="来疯直播" tvg-id="laifeng:46278", 果酱大王 - 果酱大王 - 欢迎👏,https://baheyi.pages.dev/laifeng/46278
-m_fill,h_600,w_600/format,png" group-title="来疯直播",m_fill,h_600,w_600/format,png" group-title="来疯直播" tvg-id="laifeng:8173933", 一诺吖 - 一诺吖,https://baheyi.pages.dev/laifeng/8173933
-m_fill,h_600,w_600/format,png" group-title="来疯直播",m_fill,h_600,w_600/format,png" group-title="来疯直播" tvg-id="laifeng:47788", 进进。 - 进进。,https://baheyi.pages.dev/laifeng/47788
-m_fill,h_600,w_600/format,png" group-title="来疯直播",m_fill,h_600,w_600/format,png" group-title="来疯直播" tvg-id="laifeng:9417269", 糖球儿唱情歌 - 糖球儿唱情歌,https://baheyi.pages.dev/laifeng/9417269
-m_fill,h_600,w_600/format,png" group-title="来疯直播",m_fill,h_600,w_600/format,png" group-title="来疯直播" tvg-id="laifeng:8162225", 可爱的小废物吖 - 可爱的小废物吖 - 么么哒,https://baheyi.pages.dev/laifeng/8162225
-m_fill,h_600,w_600/format,png" group-title="来疯直播",m_fill,h_600,w_600/format,png" group-title="来疯直播" tvg-id="laifeng:9417820", 没错我是穗安 - 没错我是穗安,https://baheyi.pages.dev/laifeng/9417820
-m_fill,h_600,w_600/format,png" group-title="来疯直播",m_fill,h_600,w_600/format,png" group-title="来疯直播" tvg-id="laifeng:8126048", 哈妮 - 哈妮,https://baheyi.pages.dev/laifeng/8126048
-m_fill,h_600,w_600/format,png" group-title="来疯直播",m_fill,h_600,w_600/format,png" group-title="来疯直播" tvg-id="laifeng:8157243", 洛洛半岁了 - 洛洛半岁了,https://baheyi.pages.dev/laifeng/8157243
-m_fill,h_600,w_600/format,png" group-title="来疯直播",m_fill,h_600,w_600/format,png" group-title="来疯直播" tvg-id="laifeng:8142005", 大新 - 大新,https://baheyi.pages.dev/laifeng/8142005
-m_fill,h_600,w_600/format,png" group-title="来疯直播",m_fill,h_600,w_600/format,png" group-title="来疯直播" tvg-id="laifeng:8171242", 失意千金 - 失意千金 - 你会不会突然的出现,https://baheyi.pages.dev/laifeng/8171242
+m_fill,h_600,w_600/format,png" group-title="来疯直播",m_fill,h_600,w_600/format,png" group-title="来疯直播" tvg-id="laifeng:92919", 贺尤米予心哥升 - 贺尤米予心哥升,https://baheyi.pages.dev/laifeng/92919
+m_fill,h_600,w_600/format,png" group-title="来疯直播",m_fill,h_600,w_600/format,png" group-title="来疯直播" tvg-id="laifeng:3704", 没错我是纳尼 - 没错我是纳尼 - 时长不够,https://baheyi.pages.dev/laifeng/3704
+m_fill,h_600,w_600/format,png" group-title="来疯直播",m_fill,h_600,w_600/format,png" group-title="来疯直播" tvg-id="laifeng:9414697", 鹿小七 - 鹿小七,https://baheyi.pages.dev/laifeng/9414697
 YY直播,#genre#
-燃舞蹈-鱼乐乐 - 鱼乐乐,http://nas.jqcykj.com:88/yy?id=22490906
+燃舞蹈-精彩回放 - 燃舞蹈-精彩继续,http://nas.jqcykj.com:88/yy?id=22490906
 燃舞蹈/小兮 - 需要你的陪伴,http://nas.jqcykj.com:88/yy?id=1383543789
 婉婷 - 舞蹈小老师,http://nas.jqcykj.com:88/yy?id=1383543178
-11 - 人生若只如初见,http://nas.jqcykj.com:88/yy?id=52967009
+燃舞蹈-大坵坵（超级无敌白） - 撩人小妖精小蚯蚯,http://nas.jqcykj.com:88/yy?id=1344975306
+2670美宝 - 性感火辣美宝热舞中,http://nas.jqcykj.com:88/yy?id=39833924
 创艺宁儿 - 气质纯欲S身材,http://nas.jqcykj.com:88/yy?id=44792023
 如意520 - 我回来咯,http://nas.jqcykj.com:88/yy?id=1383545198
+文小野 - 心事都放在我这里吧,http://nas.jqcykj.com:88/yy?id=1383550558
+睿廷韩雨 - YY最丑女主播,http://nas.jqcykj.com:88/yy?id=24204631
 Yx妤柔 - Yx妤柔,http://nas.jqcykj.com:88/yy?id=1457258826
+晨一艾薇 - 源徒艾薇,http://nas.jqcykj.com:88/yy?id=1352566633
 昝希悅 - 进来提醒我喝水,http://nas.jqcykj.com:88/yy?id=1383543500
-2964小舞娘 - 全网首位五视角舞蹈主播,http://nas.jqcykj.com:88/yy?id=41090178
 孩宝 - 第一天直播 很害羞,http://nas.jqcykj.com:88/yy?id=89620090
 青青 - 新人主播,http://nas.jqcykj.com:88/yy?id=33882124
 EMI咩咩 - EMI咩咩,http://nas.jqcykj.com:88/yy?id=1355055267
 婉伊依 - 需要你的陪伴,http://nas.jqcykj.com:88/yy?id=1383543281
-天晓嫚嫚 - 气质佳人嫚児~,http://nas.jqcykj.com:88/yy?id=1354871831
 慢热七 - 杭州鞠婧祎,http://nas.jqcykj.com:88/yy?id=49485877
-景元 - 俊美景元,http://nas.jqcykj.com:88/yy?id=27513385
 天晓颜妍 - 平芜尽处是春山,http://nas.jqcykj.com:88/yy?id=32650059
-燃舞蹈橘子 - 燃舞蹈橘子,http://nas.jqcykj.com:88/yy?id=1382695487
-晨一小亦雪 - 大成都 大美女,http://nas.jqcykj.com:88/yy?id=1452638000
-天晓小叶子 - 天晓小叶子值得支持,http://nas.jqcykj.com:88/yy?id=1346329801
-SK-陈兜兜相信光 - 场控大哥，还回来吃饭吗？,http://nas.jqcykj.com:88/yy?id=1414835739
+亿风文化传媒✨1️⃣组 - 六个人 人挤人,http://nas.jqcykj.com:88/yy?id=1414767343
 Twitch直播,#genre#
-TheBurntPeanut - [DROPS] GTA 6 | DAY 5 | DIMENSIONAL RIFTS  DEMONS  SECRET MISSIONS | POSSIBLY 1ST STREAMER TO FINISH STORY | #BUNGULATE,https://baheyi.pages.dev/twitch/theburntpeanut
-StRoGo - 🔴 FaZe vs Wildcard | PGL Major Singapore 2026 Stage 1 | @m3wsu !бот,https://baheyi.pages.dev/twitch/strogo
-PGL - [A] FaZe Clan vs. Wildcard - PGL Major Singapore 2026 - Stage 1 - Opening Round,https://baheyi.pages.dev/twitch/pgl
+StRoGo - 🔴 NIP vs Lynn Vision | PGL Major Singapore 2026 Stage 1 | @m3wsu !бот,https://baheyi.pages.dev/twitch/strogo
+PGL - [A] Ninjas in Pyjamas vs. Lynn Vision Gaming - PGL Major Singapore 2026 - Stage 1 - Round 2,https://baheyi.pages.dev/twitch/pgl
 布団ちゃんと申します - arcをするゾ←気晴らしマリメ←体内時間コントロールまず朝メシを食う,https://baheyi.pages.dev/twitch/indegnasen0706
-bySL4M - FaZe vs Wildcard | PGL Major Singapore 2026 Stage 1 | КРИВОЙ ЭФИР | Day 1 | @bySL4M @WorldEdit,https://baheyi.pages.dev/twitch/bysl4m
-ceros127 - CC優勝凱旋振り返り,https://baheyi.pages.dev/twitch/ceros127
 stylishnoob4 - 16時からwwe練習会。今日は何練習しようかな？配分が難しい。,https://baheyi.pages.dev/twitch/stylishnoob4
-Tfue - KILLING HACKERS FOR SPORT,https://baheyi.pages.dev/twitch/tfue
+ceros127 - CC優勝凱旋振り返り,https://baheyi.pages.dev/twitch/ceros127
 summit1g - WoW FOREVER Rogue 60. Got a Felstriker. !framegen - !journey for %10 off - !starforge @StarforgeSystems,https://baheyi.pages.dev/twitch/summit1g
-Ludwig - 🚘DAY 5 NON-LETHAL GTA VI RUN [DROPS ON] 🚘🚔 GIVING AWAY GAME CODES EVERY HOUR 🚔 !RedBull !AT&T !Alienware #GameChanger,https://baheyi.pages.dev/twitch/ludwig
+Tfue - KILLING HACKERS FOR SPORT,https://baheyi.pages.dev/twitch/tfue
+fps_shaka - 今日はみんな集まれるかもしれない,https://baheyi.pages.dev/twitch/fps_shaka
+MontanaBlack88 - [DROPS] GTA6 NACH 13 JAHREN STORY & EASTER EGGS | GTA6 DROPS AKTIV !drops !abzeichen !flink,https://baheyi.pages.dev/twitch/montanablack88
 sasatikk - GTA6 デカい家！デカい車！デカい山！ ネタバレ禁,https://baheyi.pages.dev/twitch/sasatikk
-PGL_CS2 - [B] Eternal Fire vs. FlyQuest - PGL Major Singapore 2026 - Stage 1 - Opening Round,https://baheyi.pages.dev/twitch/pgl_cs2
-supertf - extremely tall and handsome and beautiful gorgeous stunning individual is ready to present his greatness once more,https://baheyi.pages.dev/twitch/supertf
+bySL4M - NiP vs Lynn Vision | PGL Major Singapore 2026 Stage 1 | КРИВОЙ ЭФИР | Day 1 | @bySL4M @WorldEdit,https://baheyi.pages.dev/twitch/bysl4m
 Lazvell - 今はひたすらやるだけ,https://baheyi.pages.dev/twitch/lazvell
-嬌兔 - 早灣窩,https://baheyi.pages.dev/twitch/zrush
-fl0m - PGL Major Singapore 2026 - Stage 1 - Day 1,https://baheyi.pages.dev/twitch/fl0m
+ironmouse - super late night latina hours| !ironmart !weverse !glamb !omocat !cheeky !ht !starforge !tts !merch !razer,https://baheyi.pages.dev/twitch/ironmouse
+Dmitry_Lixxx - [120 FPS] ОТКРЫВАЕМ СЕКРЕТНЫЙ БУНКЕР | !tg !winline !ЯО !ВТБ !avan,https://baheyi.pages.dev/twitch/dmitry_lixxx
 ゆゆうた押忍 - マリオメーカー,https://baheyi.pages.dev/twitch/yuyuta0702
-cs2_paragon_ru - [RU] REDZONE | FaZe Clan [0:0] Wildcard | PGL Major Singapore 2026: Stage 1 | BO1 | @yarushkin1  @Lampaaa & @cybercracken,https://baheyi.pages.dev/twitch/cs2_paragon_ru
-PaulynhaTV - ATÉ DE MANHÃ!! RubinOT [ +18] EK - Elysian (SUB/RE - 25RC) !RubinOT !dracoins !quitanda !grupo,https://baheyi.pages.dev/twitch/paulynhatv
-aldo_geo - [DROPS] LUNES CON L DE LUCÍA [DROPS ACTIVOS] 🌴 + QSMP 2,https://baheyi.pages.dev/twitch/aldo_geo
-しんじさん - たいじコースで息抜きマリオメーカー,https://baheyi.pages.dev/twitch/shinjifromjapanxd
-ironmouse - super late night latina hours| !ironmart !glamb !omocat !cheeky !ht !starforge !tts !merch !razer,https://baheyi.pages.dev/twitch/ironmouse
+嬌兔 - 早灣窩,https://baheyi.pages.dev/twitch/zrush
+gadjiev57 - Мы В ТАЙЛАНДЕ РОЗА И КОСТЯ ?где чивиля?остов обезьян,https://baheyi.pages.dev/twitch/gadjiev57
+PGL_CS2 - [B] HEROIC vs. Chinggis Warriors - PGL Major Singapore 2026 - Stage 1 - Round 2,https://baheyi.pages.dev/twitch/pgl_cs2
 mistermv - NOCTURNE GTA VI !vero !emma,https://baheyi.pages.dev/twitch/mistermv
+Ludwig - [sleep] 🚘DAY 5 NON-LETHAL GTA VI RUN 🚘🚔 GIVING AWAY GAME CODES EVERY HOUR 🚔 !RedBull !AT&T !Alienware #GameChanger,https://baheyi.pages.dev/twitch/ludwig
 leva2k - ИЗОЛЯЦИЯ ДЕНЬ 9 | !tg !donate !winline !ggsel,https://baheyi.pages.dev/twitch/leva2k
+fl0m - PGL Major Singapore 2026 - Stage 1 - Day 1,https://baheyi.pages.dev/twitch/fl0m
+cs2_paragon_ru - [RU] REDZONE | NiP [0:0] Lynn Vision Gaming | PGL Major Singapore 2026: Stage 1 | BO1 | @little_cs  @siberiancaster & @Roma_roo,https://baheyi.pages.dev/twitch/cs2_paragon_ru
+PaulynhaTV - ATÉ DE MANHÃ!! RubinOT [ +18] EK - Elysian (SUB/RE - 25RC) !RubinOT !dracoins !quitanda !grupo,https://baheyi.pages.dev/twitch/paulynhatv
 TypicalGamer - 🔴 (!DROPS) GTA 6 STORY MODE! 🔴,https://baheyi.pages.dev/twitch/typicalgamer
-watchfulTV - [RU 2K] FaZe vs Wildcard | PGL Major Singapore | Telegram: @watchfulTV,https://baheyi.pages.dev/twitch/watchfultv
+Dunduk - пока в таркове обнова абишечку,https://baheyi.pages.dev/twitch/dunduk
 🇨🇳央卫视频道,#genre#
 CCTV1综合,http://8.137.121.66:20241/608807420
 CCTV2财经,http://8.137.121.66:20241/631780532
@@ -5398,13 +5341,16 @@ CCTV-2 财经 (备用),https://yshipin.pages.dev/play/cctv2?src=ysptp
 CCTV-3 综艺,https://yshipin.pages.dev/play/cctv3
 CCTV-3 综艺 (备用),https://yshipin.pages.dev/play/cctv3?src=ysptp
 CCTV-4 中文国际,https://yshipin.pages.dev/play/cctv4
+CCTV-4 中文国际 (备用),https://yshipin.pages.dev/play/cctv4?src=ysptp
 CCTV-6 电影,https://yshipin.pages.dev/play/cctv6
 CCTV-7 国防军事,https://yshipin.pages.dev/play/cctv7
+CCTV-7 国防军事 (备用),https://yshipin.pages.dev/play/cctv7?src=ysptp
 CCTV-8 电视剧,https://yshipin.pages.dev/play/cctv8
 CCTV-8 电视剧 (备用),https://yshipin.pages.dev/play/cctv8?src=ysptp
 CCTV-9 纪录,https://yshipin.pages.dev/play/cctv9
 CCTV-9 纪录 (备用),https://yshipin.pages.dev/play/cctv9?src=ysptp
 CCTV-10 科教,https://yshipin.pages.dev/play/cctv10
+CCTV-10 科教 (备用),https://yshipin.pages.dev/play/cctv10?src=ysptp
 CCTV-11 戏曲,https://yshipin.pages.dev/play/cctv11
 CCTV-11 戏曲 (备用),https://yshipin.pages.dev/play/cctv11?src=ysptp
 CCTV-12 社会与法,https://yshipin.pages.dev/play/cctv12
@@ -5412,6 +5358,7 @@ CCTV-12 社会与法 (备用),https://yshipin.pages.dev/play/cctv12?src=ysptp
 CCTV-13 新闻,https://yshipin.pages.dev/play/cctv13
 CCTV-13 新闻 (备用),https://yshipin.pages.dev/play/cctv13?src=ysptp
 CCTV-14 少儿,https://yshipin.pages.dev/play/cctv14
+CCTV-14 少儿 (备用),https://yshipin.pages.dev/play/cctv14?src=ysptp
 CCTV-15 音乐,https://yshipin.pages.dev/play/cctv15
 CCTV-15 音乐 (备用),https://yshipin.pages.dev/play/cctv15?src=ysptp
 CCTV-17 农业农村,https://yshipin.pages.dev/play/cctv17
@@ -5447,10 +5394,13 @@ CCTV-17 农业农村 (备用),https://yshipin.pages.dev/play/cctv17?src=ysptp
 青海卫视,https://yshipin.pages.dev/play/qhws
 西藏卫视,https://yshipin.pages.dev/play/xizangws
 CETV-1,https://yshipin.pages.dev/play/cetv1
+CGTN 英语,https://yshipin.pages.dev/play/cgtn
 CGTN 英语 (备用),https://yshipin.pages.dev/play/cgtn?src=ysptp
 CGTN 法语,https://yshipin.pages.dev/play/cgtnfr
+CGTN 法语 (备用),https://yshipin.pages.dev/play/cgtnfr?src=ysptp
 CGTN 俄语,https://yshipin.pages.dev/play/cgtnru
 CGTN 俄语 (备用),https://yshipin.pages.dev/play/cgtnru?src=ysptp
+CGTN 阿拉伯语,https://yshipin.pages.dev/play/cgtnar
 CGTN 阿拉伯语 (备用),https://yshipin.pages.dev/play/cgtnar?src=ysptp
 CGTN 西班牙语,https://yshipin.pages.dev/play/cgtnes
 CGTN 西班牙语 (备用),https://yshipin.pages.dev/play/cgtnes?src=ysptp
@@ -5459,6 +5409,7 @@ CGTN 纪录 (备用),https://yshipin.pages.dev/play/cgtndoc?src=ysptp
 CCTV-4K 超高清,https://yshipin.pages.dev/play/cctv4k
 CCTV-4K 超高清 (备用),https://yshipin.pages.dev/play/cctv4k?src=ysptp
 CCTV-8K 超高清,https://yshipin.pages.dev/play/cctv8k
+CCTV-8K 超高清 (备用),https://yshipin.pages.dev/play/cctv8k?src=ysptp
 CCTV 风云剧场,https://yshipin.pages.dev/play/cctvfyjc
 CCTV 第一剧场,https://yshipin.pages.dev/play/cctvdyjc
 CCTV 怀旧剧场,https://yshipin.pages.dev/play/cctvhjjc
@@ -5482,6 +5433,7 @@ CCTV 怀旧剧场,https://yshipin.pages.dev/play/cctvhjjc
 韶关新闻综合,http://121.199.48.54/live1/gdjytv.m3u8?id=gdjytv2&usign=Gp4j6VjOiQ7iqQ83XxobXw
 汕头综合,http://121.199.48.54/live1/gdjytv.m3u8?id=gdjytv2&usign=Gp4j6VjOiQ7iqQ83XxobXw
 汕头经济生活,http://121.199.48.54/live1/gdsttv.m3u8?id=gdsttv2&usign=Gp4j6VjOiQ7iqQ83XxobXw
+汕尾综合,https://iswtv.swrtv.com/live/xwzhpd.m3u8
 红星,http://120.198.86.186:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 岭南戏曲,http://120.238.84.45:9901/tsfile/live/1095_1.m3u8?key=txiptv&playlive=1&authid=0
 廉江综合,http://183.239.248.218:8181/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -5528,6 +5480,7 @@ CCTV 怀旧剧场,https://yshipin.pages.dev/play/cctvhjjc
 浙江国际,http://121.199.48.54/live1/zjtv.m3u8?id=zjhyg&usign=Gp4j6VjOiQ7iqQ83XxobXw
 浙江之江记录,http://121.199.48.54/live1/zjtv1.m3u8?id=zjsmsd&usign=Gp4j6VjOiQ7iqQ83XxobXw
 好易购,http://121.199.48.54/live1/jsbv1.m3u8?id=qsjl&usign=Gp4j6VjOiQ7iqQ83XxobXw
+杭州综合,https://play.htv-1.com/tv/htv1.m3u8
 宁波新闻综合,https://ali-xwl.cztv.com/live/ningbods.m3u8
 宁波社会生活,http://121.199.48.54/live1/zjnbtv.m3u8?id=zjnbtv2&usign=Gp4j6VjOiQ7iqQ83XxobXw
 宁波文化娱乐,http://121.199.48.54/live1/zjnbtv.m3u8?id=zjnbtv3&usign=Gp4j6VjOiQ7iqQ83XxobXw
@@ -5538,6 +5491,8 @@ CCTV 怀旧剧场,https://yshipin.pages.dev/play/cctvhjjc
 舟山新闻综合,https://ali-xwl.cztv.com/live/zhoushands.m3u8
 衢州新闻综合,https://ali-xwl.cztv.com/live/quzhouds.m3u8
 湖州新闻综合,https://ali-xwl.cztv.com/live/huzhouds.m3u8
+湖州公共频道,http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e
+湖州文化娱乐,http://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887
 嘉兴新闻综合,https://ali-xwl.cztv.com/live/jiaxingds.m3u8
 温州新闻综合,https://ali-xwl.cztv.com/live/wenzhouds.m3u8
 丽水新闻综合,https://ali-xwl.cztv.com/live/lishuids.m3u8
@@ -5545,14 +5500,11 @@ CCTV 怀旧剧场,https://yshipin.pages.dev/play/cctvhjjc
 武义新闻综合,http://play-sh13.quklive.com/live/1707437639053211.m3u8?auth_key=2039926222-0c20643324d74ab6bca329f2864d9615-0-ad7dc9def9f83b2cc7693a23f6d91251
 海宁新闻综合,https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8
 嘉善新闻综合,https://p2hs.vzan.com/slowlive/633251673265558519/live.m3u8
-平湖新闻综合,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8
-萧山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
+桐庐综合频道,https://31666.hlsplay.aodianyun.com/tv_radio_31666/tv_channel_3566.m3u8?auth_key=4867613167-0-0-7e4d136d59c046f779f0c50461de5fe5&extra_key=ZsnRdSSZsd_55ssIU7GXV9vL2bVgmdCUfbd0zhEWRYtF1fIJa_P34oEH8HVCgRtNY3GLWcIgRP1lO0kocw3d7cCCfJYKu980fDypjkFzkHzqrB4amtUEsglZvsGvzYzoDZyioKwM9H2EUg0PFXBSWFJ1WyLLQNoQey-Q6kSGklw
 余杭综合频道,https://29371.hlsplay.aodianyun.com/lms_29371/slow_channel_master_seat_1445826801.m3u8?auth_key=3300411293-0-0-273f15e1d217965ba192be222ea38b2d&extra_key=V8uEmh_EXr1eVHhCsqQdCb2KQpy3kbF4Lfrf1S8rAZfBbea83rMZ6uqfZL74iDr9sfX_YL2E_25HrvU_mbtZh3ifdtd3R0IP_tWpoeTaMP3EUgp-m3whWwmoBhHzmq7QlJkExjuwjfwj_lLUpyUtp6oiMrocqaUoGIgnjsNh9WM
-余杭未来E频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
-嵊州新闻综合,https://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
-诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
 上虞新闻综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
 上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
+新昌新闻频道,http://42483.hlsplay.aodianyun.com/tv_radio_42483/tv_channel_1361.m3u8?auth_key=4822776050-0-0-4962c7b74dc899703bfbba3439ce0fe2&extra_key=2vtD8BdG6zU_tdWMbQ3NhQgb0T-EUej6APZOEIIFMIXy-Qo8suohFB31MQ8Yfs4NbDBbjUuK1dm9poPK9TNHJYi1LmeV9yFZW7PGDnAVdPRc8Bfn3G_z-YHOF4oWZDkwlpDzJEnv0XpVyYEvaYWovw2FApRPUzlQ8OMBCXApCo07Yd3A2mNI9LAy51E0B4zV
 玉环新闻综合,http://121.199.48.54/live1/qklive.m3u8?id=zjyhtv1&usign=Gp4j6VjOiQ7iqQ83XxobXw
 兰溪新闻综合,http://121.199.48.54/live1/ady.m3u8?id=zjlxtv1&usign=Gp4j6VjOiQ7iqQ83XxobXw
 苍南新闻综合,http://121.199.48.54/live1/qklive.m3u8?id=zjwzcn1&usign=Gp4j6VjOiQ7iqQ83XxobXw
@@ -5562,7 +5514,6 @@ CCTV 怀旧剧场,https://yshipin.pages.dev/play/cctvhjjc
 柯桥新闻综合,https://play-a2.quklive.com/live/1640945211435051.m3u8
 象山新闻综合,http://play-sh13.quklive.com/live/1702360350551252.m3u8?auth_key=2037107484-800189c57a5a44d3b823b60cf84f6756-0-a6f6828a62d5c167cff5e68735fa0d39
 普陀新闻综合,http://121.199.48.54/live1/qklive.m3u8?id=zjpttv1&usign=Gp4j6VjOiQ7iqQ83XxobXw
-宁海新闻综合,http://33658.hlsplay.aodianyun.com/tv_radio_33658/tv_channel_1423.m3u8
 江山电视台,http://play-sh13.quklive.com/live/1623117710666335.m3u8?auth_key=2027320874-f4ab7bf26c7f450398f90acd51fbe541-0-b9952255f66849bc8e7afaa8e6865488
 龙游新闻综合,http://121.199.48.54/live1/qklive.m3u8?id=zjqzly1&usign=Gp4j6VjOiQ7iqQ83XxobXw
 龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
@@ -5646,7 +5597,6 @@ CCTV 怀旧剧场,https://yshipin.pages.dev/play/cctvhjjc
 广德新闻综合,https://live.gdtv.ah.cn/live/newsTV.m3u8
 泾县新闻综合,https://apisave.jxnn.cn/hls/xwzonhe/playlist.m3u8
 淮北矿业新闻综合,http://xcblive.hbcoal.com/3/sd/live.m3u8
-祁门综合频道,http://file.qmxrmt.com/nmip-media/channellive/channel108622/playlist.m3u8
 灵璧新闻综合,http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8
 涡阳新闻综合,http://220.180.124.18:888/live/ch2.m3u8
 🇨🇳江西频道,#genre#
@@ -5679,14 +5629,8 @@ CCTV 怀旧剧场,https://yshipin.pages.dev/play/cctvhjjc
 武汉新闻综合,https://livestream.hannews.com.cn/hannews/1511-hannews.m3u8?txSecret=d5f030dd267db26d2311752e7cfcea76&txTime=6B352A80
 武汉教育频道,http://121.199.48.54/live1/hbwhjy.m3u8?id=hbwhjy&usign=Gp4j6VjOiQ7iqQ83XxobXw
 襄阳经济生活,https://34911-live.hlsplay.aodianyun.com/tv_radio_34911/tv_channel_2675.m3u8?auth_key=3341354196-0-0-4f57d23b9b993662753a7fcc254d244d&extra_key=DvfpyLJ32Vv8klXZFfP-IuLn8RqvXLeY1cyJjgBe8SL4ayNpI7gvFlgroM_-85oAJpNCVJbKFDvFkEhrbok3c1x_3s0yqt_jYRqUczWbiRGefRfLwgZaPDbUv0FS0c4Li6h03g-xAkuRHmAGMLa2n144WBXri9f7s2VqOvjmPjU
-恩施综合,https://46240.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_3724.m3u8?auth_key=3343948639-0-0-2013033e7387b223462cf589f42165be&extra_key=4dFR5nbE7e2wlPVt9fGW3I9dMs_6vOMmMulksfXRVMRZ3McWXFl1B_KcjKTbOtI9v7tGfC2nyigdP5WWERhRbM_nvplj2wnihrjeodS3JaBXawhq5XkOojpCQYLTbZhvBqhEhsWBDE8UyWGd-NcD3diruTU0EWem6iYqOFvYAhE
-恩施文旅,https://46240.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_1811.m3u8?auth_key=4857760464-0-0-ecabcbf26d39dc20cde584db2fa2a053&extra_key=D1dJezG95YTkYytoe8tr2Qhf-jhFFJmJpij9JNzLnfjYgxE5Q69rjZT1b2VrOxeb2zvhRo107e0Ze_h5agVjcLhNxl4RzjBShtdz-pQKUqaNbHnJMUJaS637QCoHNkKlJAb5i0lkR8MlxmIB6LIGojFm8kqvpZp_pI7SG10olDg
-宜昌综合,https://liveplay.ycrmt.cn/sxgd/zhpd.m3u8
-宜昌旅游生活,https://liveplay.ycrmt.cn/sxgd/lysh.m3u8
 十堰新闻,http://61.184.94.75:83/hls/stream0.m3u8
-荆门新闻综合,https://jingmen-live21.cjyun.org/10101/s10101-jmnews.m3u8?auth_key=1798732799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-9bbdf1e961c3ba64dcd8d00f6d5dfff0
 随州综合,https://34766-live.hlsplay.aodianyun.com/guangdianyun_34766/tv_channel_304.m3u8?auth_key=3333682892-0-0-497cb2bef0028f8b82ffbe5fc1e09208&extra_key=MYIzMzDNkkO34SvKX01HRqWNLlIlMiozsgdPDjQWovHuYHXmqNSxD7au9VtsJAjGivdXyQSnPkh_td3o8B3b9m6609TBdzlyh1LeaB2sz--cF3LdahdXzPicDKFxyqgn5BhCKL15L61x3kKS8FWLkmo7KBjSHXicYd6lxhTiDes
-咸丰新闻综合,https://46240.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_3567.m3u8?auth_key=4867549325-0-0-cc7ce201270f1bfda8bd5c54e0e5739c&extra_key=hKfYhS2z6614oV0yCs-AFVt7IpvlJJgoGCHOij1q2onFz-Yr5Us2Cd41rIlv4l1XjWrMXCVgYMdOmrNAgjF2W_2a6vxf1HxtHHoYEC6BCIqSeo4VGtaHFxadD2xtzAtmsjFPKB3DP_Ev_ci_KC8TQllAks-AnwmJWoohc4XLA6Q
 安陆新闻综合,http://121.199.48.54/live1/hbxgal.m3u8?id=hbxgal1&usign=Gp4j6VjOiQ7iqQ83XxobXw
 云梦综合频道,http://121.199.48.54/live1/hbxgym.m3u8?id=hbxgym1&usign=Gp4j6VjOiQ7iqQ83XxobXw
 麻城综合,https://video.yscxy.cn:8888/mctv1.m3u8
@@ -5727,6 +5671,7 @@ CCTV 怀旧剧场,https://yshipin.pages.dev/play/cctvhjjc
 巴南综合频道,http://live.cqbntv.com/bnmc/tv0709.m3u8
 梁平综合综合,http://222.179.155.21:1935/ch1.m3u8
 永川综合频道,https://yypull.cbg.cn/applive/yctv01/playlist.m3u8
+合川综合频道,https://yypull.cbg.cn/applive/hechuantv1/playlist.m3u8
 酉阳综合,https://yypull.cbg.cn/applive/youytv01/playlist.m3u8
 开州综合,https://yypull.cbg.cn/applive/kzpd02/playlist.m3u8
 大足综合频道,https://yypull.cbg.cn/applive/dazulive01/playlist.m3u8
@@ -5742,7 +5687,6 @@ CCTV 怀旧剧场,https://yshipin.pages.dev/play/cctvhjjc
 四川峨眉电影,http://121.199.48.54/live1/jsbv1.m3u8?id=scemdy&usign=Gp4j6VjOiQ7iqQ83XxobXw
 绵阳新闻综合,http://121.199.48.54/live1/scy.m3u8?id=scmytv1&usign=Gp4j6VjOiQ7iqQ83XxobXw
 乐山新闻综合,http://121.199.48.54/live1/scy.m3u8?id=sclstv1&usign=Gp4j6VjOiQ7iqQ83XxobXw
-广安新闻综合,http://live1.gatv.com.cn:85/live/XWZH.m3u8
 广安文旅乡村,http://live1.gatv.com.cn:85/live/GGPD.m3u8
 雅安新闻综合,https://play.yunxya.com/channellive/xinwen.m3u8
 雅安文化生活,https://play.yunxya.com/channellive/whsh.m3u8
@@ -5764,7 +5708,6 @@ CCTV 怀旧剧场,https://yshipin.pages.dev/play/cctvhjjc
 新都综合频道,https://guangbo-pull.magcloud.net/guangbo/xdtv.m3u8?sign=5216e5562b22045390a0ba97dbed5f6e&t=1800508995
 长宁综合,http://cnpull.sccnfb.com/live/123456.flv?timestamp=20260410093356&encrypt=62b002fe97abffc6fd6ed52584677530
 珙县新闻频道,http://m3u8.chuanqigongxian.cn/nmip-media/channellive/channel100449/playlist.m3u8
-江安电视台,http://play.jaxrm.cn/live/10056626.m3u8?auth_key=1794904149-0-0-bb4b97897e10ea786e73f37f82e47fd5
 筠连综合频道,https://play.dameijunlian.cn/live/10004131.m3u8?auth_key=1783733887-0-0-a1440d3435267d785dcbbe1629a42558
 南溪综合频道,http://121.199.48.54/live1/scy.m3u8?id=scnjlc1&usign=Gp4j6VjOiQ7iqQ83XxobXw
 叙州综合,http://miku-hls.xzcmw.net/jdh-live-miku/112703-374.m3u8
@@ -5778,10 +5721,10 @@ CCTV 怀旧剧场,https://yshipin.pages.dev/play/cctvhjjc
 阆中综合,https://p2hs.vzan.com/slowlive/798833473879633259/live.m3u8
 仪陇新闻综合,https://live.yilongnews.com/live/ylzhpd.m3u8?auth_key=1741134122-0-0-fbf8d764c05b0a2547234f0f9f64e4b6
 营山电视台,https://file.ysxtv.cn/nmip-media/channellive/channel101492/playlist.m3u8
-黑水新闻综合,http://live.schstv.com:90/live/xwzh.m3u8
 金川新闻综合,http://live.jinchuanrmt.com:90/live/zhxw.m3u8
 金川乡村频道,http://live.jinchuanrmt.com:90/live/jcxc.m3u8
 富顺综合,http://pili-live-hls.145.i2863.com/i2863-145/live_145_906964.m3u8
+荣县综合,https://play.rongxianwang.net/ydrx/rongxianlive.m3u8?auth_key=1715846517-0-0-69728c58ca3d40f9331a8cf77d985e93
 苍溪综合,http://118.121.231.225:8081/live/hdmi054.m3u8
 青川综合,http://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8
 昭化综合,http://live.zhgbtv.cn:3100/hlsram/live0/index.m3u8
@@ -6023,9 +5966,9 @@ CCTV 怀旧剧场,https://yshipin.pages.dev/play/cctvhjjc
 晋江市电视台,https://live.ijjnews.com/jjtv/sd/live.m3u8
 云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8
 🇨🇳广西频道,#genre#
-玉林新闻综合,http://51742.hlsplay.aodianyun.com/tv_radio_51742/tv_channel_3289.m3u8?auth_key=4846965841-0-0-9764667fa15da8675d9343a9d685e93b&extra_key=3G7phQNujucfjDfVZX7XtFsfMjeELWIZpjNRADdYpRWOUdAykIw7RkxbAmiF9U934MKf8LNlRPUVp9ooT4UEvKJQlaJrZuMqJnw-UvayII5G4kw7jFgAqhhjpD4DC7gyZEtynT7zMnF8xzE3J1g6soaagSkmkag_tsjqRTH1zeM
 来宾综合频道,http://zb.gxlbamc.com:1935/live/lbzh.stream/playlist.m3u8
 防城港新闻综合,http://121.199.48.54/live1/gxfcg.m3u8?id=gxfcg1&usign=Gp4j6VjOiQ7iqQ83XxobXw
+都安综合,https://rtmp.gdlive.gdmain.com/live/lgo97185.m3u8
 凌云综合,https://lives.myun.tv/live/lnp683z5.m3u8
 那坡综合,https://lives.myun.tv/live/ljkp2890.m3u8
 藤县综合,http://srs.txdst.cn/live/txtv.m3u8
@@ -6087,12 +6030,17 @@ CCTV 怀旧剧场,https://yshipin.pages.dev/play/cctvhjjc
 吕梁公共频道,https://live.llxw.cn:8088/rftlive/58f7e2682964437f96163ffc73f2d941/58f7e2682964437f96163ffc73f2d941.m3u8
 壶关电视台,http://zmjp3jin.live.sxmty.com/live/hls/268fe96f955d496db37fb10bb887cda9/fc196029d289449ea524a94a95379a0d.m3u8
 平顺综合,http://player4.juyun.tv/tv/149466149.m3u8
+上党区电视台,http://zhibo.czmarathon.net/cdd/TVLive.m3u8?auth_key=1724143889-0-0-929d4ecd8b7700822ec202b14ebc6c3c
 屯留综合频道,https://f3jok3az.live.sxmty.com/live/hls/ebaa2bf2e7f94dc79d4e642ac76d2415/0d97361a940348729fbd0ee3f4eb9e47.m3u8
 古交综合,http://pili-live-hls.189.i2863.com/i2863-189/live_189_170656.m3u8
 阳曲综合,https://83awgyp5.live.sxmty.com/live/hls/6f6f4b36f9bd42628b718b595ba507ed/724b7e8907a8414d873eb2a2f69bfa18.m3u8
 怀仁综合频道,http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8
 平鲁综合频道,http://player4.juyun.tv/tv/167019161.m3u8
+平遥新闻综合,https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8
+安泽综合,https://qnwjgp6u.live.sxmty.com/live/hls/dbc13d75496d4203ae47dbefbc4ecec2/f6f863a0944346819c63bb413b5bd35c.m3u8
+古县综合,https://l2fpdktp.live.sxmty.com/live/hls/e4c3b363cc4549788e2d983f403e07db/d99ce1eb686e41b9afc888110bd95aa7.m3u8
 太谷新闻综合,https://p2.vzan.com/slowlive/596867413819827251/live.m3u8
+万荣综合频道,http://60.222.246.220:19433/hls1.m3u8
 闻喜综合频道,https://www.wxhcgbds.com:8081/channelTv/WXTV_1.flv
 垣曲综合频道,https://media.yqrmt.com/hls/hd-live.m3u8
 左云电视台,https://wu31afbh.live.sxmty.com/live/hls/c5a0ebd3e73b4c4cbc91ea3b9abf1f54/51859030f2384070bf5bedce43126f6b-1.m3u8
@@ -6113,6 +6061,7 @@ CCTV 怀旧剧场,https://yshipin.pages.dev/play/cctvhjjc
 内蒙古文体娱乐,http://play1-qk.nmtv.cn/live/1769652136365000.m3u8
 内蒙古经济生活,http://play1-qk.nmtv.cn/live/1769652200508020.m3u8
 内蒙古农牧频道,http://play1-qk.nmtv.cn/live/1769652168071023.m3u8
+内蒙古少儿频道,http://play1-qk.nmtv.cn/live/1769652083789030.m3u8
 鄂尔多斯新闻综合,http://play1-qk.nmtv.cn/live/1735546299241021.m3u8
 包头新闻综合,http://play1-qk.nmtv.cn/live/1735546150395017.m3u8
 赤峰新闻综合,http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
@@ -6120,7 +6069,7 @@ CCTV 怀旧剧场,https://yshipin.pages.dev/play/cctvhjjc
 通辽新闻综合,http://play1-qk.nmtv.cn/live/1735546745882037.m3u8
 呼伦贝尔新闻综合,http://play1-qk.nmtv.cn/live/1735546791130040.m3u8
 巴彦淖尔新闻综合,http://play1-qk.nmtv.cn/live/1735546423467029.m3u8
-乌兰察布新闻综合,http://play1-qk.nmtv.cn/live/1735546836103043.m3u8
+阿拉善新闻综合,http://play1-qk.nmtv.cn/live/1735547046115053.m3u8
 乌海新闻综合,http://play1-qk.nmtv.cn/live/1735546358166026.m3u8
 乌海都市生活,http://live.wuhainews.org.cn/dssh/sd/live.m3u8
 锡林郭勒盟一套,http://play1-qk.nmtv.cn/live/1735546994821050.m3u8
@@ -6139,6 +6088,7 @@ CCTV 怀旧剧场,https://yshipin.pages.dev/play/cctvhjjc
 锦州教育频道,https://srs.beijihainews.com.cn/video/jinzhou2/index.m3u8
 金普新闻综合,http://121.199.48.54/live1/ady.m3u8?id=lndljp1&usign=Gp4j6VjOiQ7iqQ83XxobXw
 🇨🇳吉林频道,#genre#
+YBTV-1,https://srs.iybtv.cn/video/YBTV11/index.m3u8
 YBTV-2,https://srs.iybtv.cn/video/YBTV21/index.m3u8
 长春综合,https://p2hs.vzan.com/slowlive/164981377219303011/live.m3u8
 长春文旅体育,https://p2hs.vzan.com/slowlive/899255696274582649/live.m3u8
@@ -6189,7 +6139,6 @@ YBTV-2,https://srs.iybtv.cn/video/YBTV21/index.m3u8
 黑河新闻综合,https://liveplaysr.dbw.cn/lsdream/86qwqcs/1024/live.m3u8
 富裕综合,http://221.209.44.174:1980/hls/1001.m3u8
 🇨🇳河北频道,#genre#
-河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 河北都市,http://121.199.48.54/live1/hetv.m3u8?id=heds&usign=Gp4j6VjOiQ7iqQ83XxobXw
 河北经济生活,http://121.199.48.54/live1/hetv.m3u8?id=hejj&usign=Gp4j6VjOiQ7iqQ83XxobXw
 河北文旅体育,http://121.199.48.54/live1/hetv.m3u8?id=heys&usign=Gp4j6VjOiQ7iqQ83XxobXw
@@ -6205,6 +6154,7 @@ YBTV-2,https://srs.iybtv.cn/video/YBTV21/index.m3u8
 邢台综合,http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
 邢台生活,https://jwcdnqx.hebyun.com.cn/live/xtcsshpd/1500k/tzwj_video.m3u8
 🇨🇳海南频道,#genre#
+海南卫视,https://hainaniptv.pages.dev/play?id=13
 三沙卫视,https://hainaniptv.pages.dev/play?id=5
 海南自贸,https://hainaniptv.pages.dev/play?id=1
 海南新闻,https://hainaniptv.pages.dev/play?id=3
@@ -6481,6 +6431,7 @@ Rodja TV,https://rodjatv.com/rodjatv/live_480p1128kbs/index.m3u8
 Salam TV,https://live.salamtelevisi.com/hls/0/stream.m3u8
 Salira TV,https://live.salira.tv/p/3870/hybrid/play.m3u8
 Sangaji TV,https://cdn.adyadigitalteknologi.com:8090/vod/relay.m3u8
+SMTV,https://e.siar.us/live/smtv.m3u8
 Stara TV,https://stream.staratv.id/hls/0/stream.m3u8
 Stara TV Bandung,https://bandung.staratv.id/hls/0/stream.m3u8
 Stara TV Bojonegoro,https://bojonegoro.staratv.id/hls/0/stream.m3u8
@@ -6549,7 +6500,6 @@ CGTN1,https://live-stream.cgtn.com/event-live/CGTN_1_1PVvR6ZBAZ2/index.m3u8
 France 24,https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
 俄罗斯BRIDGE DELUXE,http://194.143.150.123:8080/udp/239.195.5.213:1234
 俄罗斯ЖAPA,http://194.143.150.123:8080/udp/239.195.5.11:1234
-俄罗斯GITV,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 俄罗斯camapa,http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
 俄罗斯Russia Today,https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
 🇹🇷土耳其直播,#genre#
@@ -6706,13 +6656,14 @@ FIFA+,https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b
 斯诺克专场,https://huyazhibo.de5.net/?id=880214
 赛车专场,https://huyazhibo.de5.net/?id=18152482
 摔跤专场,https://huyazhibo.de5.net/?id=20072812
-拳击专场,https://huyazhibo.de5.net/?id=18152380
 格斗专场,https://huyazhibo.de5.net/?id=20072796
 柔道专场,https://huyazhibo.de5.net/?id=20072837
 WWE专场,https://huyazhibo.de5.net/?id=30021023
 摩托专场,https://huyazhibo.de5.net/?id=19197407
+健美专场,https://huyazhibo.de5.net/?id=23244436
 健身专场,https://huyazhibo.de5.net/?id=24354754
 越野专场,https://huyazhibo.de5.net/?id=30020978
+Big3专场,https://huyazhibo.de5.net/?id=30847442
 飞盘专场,https://huyazhibo.de5.net/?id=30689549
 瑜伽专场,https://huyazhibo.de5.net/?id=20753449
 棒球专场,https://huyazhibo.de5.net/?id=20072763
@@ -6739,6 +6690,7 @@ CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 徐克专场,https://huyazhibo.de5.net/?id=11352909
 徐峥专场,https://huyazhibo.de5.net/?id=11602043
 邓超专场,https://huyazhibo.de5.net/?id=11336592
+梁家辉专场,https://huyazhibo.de5.net/?id=11342429
 张卫健专场,https://huyazhibo.de5.net/?id=11342423
 王宝强专场,https://huyazhibo.de5.net/?id=30080251
 陈小春专场,https://huyazhibo.de5.net/?id=11336719
@@ -6753,20 +6705,17 @@ CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 科幻片系列,https://huyazhibo.de5.net/?id=11352965
 丧尸片系列,https://huyazhibo.de5.net/?id=24314160
 怪兽片系列,https://huyazhibo.de5.net/?id=29982674
-战争片系列,https://huyazhibo.de5.net/?id=21059618
 硬汉片系列,https://huyazhibo.de5.net/?id=23864973
-竞速片系列,https://huyazhibo.de5.net/?id=30145009
 动作片系列,https://huyazhibo.de5.net/?id=10871113
 爱情片系列,https://huyazhibo.de5.net/?id=29982639
+犯罪片系列,https://huyazhibo.de5.net/?id=30080213
 奇幻片系列,https://huyazhibo.de5.net/?id=26355847
-冒险片系列,https://huyazhibo.de5.net/?id=21059566
-盗墓片系列,https://huyazhibo.de5.net/?id=11601981
 穿越片系列,https://huyazhibo.de5.net/?id=29465892
 悬疑片系列,https://huyazhibo.de5.net/?id=21059530
 喜剧片系列,https://huyazhibo.de5.net/?id=11602044
 英雄片系列,https://huyazhibo.de5.net/?id=11601980
 枪战片系列,https://huyazhibo.de5.net/?id=21059579
-复仇片系列,https://huyazhibo.de5.net/?id=29982645
+武侠片系列,https://huyazhibo.de5.net/?id=29982677
 星球片系列,https://huyazhibo.de5.net/?id=30080234
 校园片系列,https://huyazhibo.de5.net/?id=11352934
 警匪片系列,https://huyazhibo.de5.net/?id=30041512
@@ -6779,7 +6728,6 @@ CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 香港片系列,https://huyazhibo.de5.net/?id=30631706
 印度片系列,https://huyazhibo.de5.net/?id=26355799
 热门片系列,https://huyazhibo.de5.net/?id=880261
-高分片系列,https://huyazhibo.de5.net/?id=23902225
 短片系列,http://live.nctv.top/douyu1.php?id=8700367
 📽️综艺直播,#genre#
 韩国综艺,https://huyazhibo.de5.net/?id=11336725
@@ -6787,17 +6735,17 @@ CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 男生女生向前冲专场,https://huyazhibo.de5.net/?id=30021042
 青春环游专场,https://huyazhibo.de5.net/?id=30080246
 五十公里桃花坞专场,https://huyazhibo.de5.net/?id=29465869
+高能少年团专场,https://huyazhibo.de5.net/?id=29982609
 二十四小时专场,https://huyazhibo.de5.net/?id=29982610
 哈哈哈哈哈专场,https://huyazhibo.de5.net/?id=30080247
 奔跑吧兄弟专场,https://huyazhibo.de5.net/?id=29465870
 最强大脑专场,https://huyazhibo.de5.net/?id=29465880
+现在就出发专场,https://huyazhibo.de5.net/?id=21059551
 脱口秀大会专场,https://huyazhibo.de5.net/?id=30080243
 新游记专场,https://huyazhibo.de5.net/?id=20985794
 天赐的声音专场,https://huyazhibo.de5.net/?id=30080249
 咱们穿越吧专场,https://huyazhibo.de5.net/?id=11352907
 我是大侦探专场,https://huyazhibo.de5.net/?id=20969140
-朋友请吃饭专场,https://huyazhibo.de5.net/?id=11352918
-12道锋味专场,https://huyazhibo.de5.net/?id=30080162
 我们的客栈专场,https://huyazhibo.de5.net/?id=24609812
 变形计专场,https://huyazhibo.de5.net/?id=23903164
 📺电视剧直播,#genre#
@@ -6809,6 +6757,7 @@ CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 怀旧剧专区,https://huyazhibo.de5.net/?id=30080241
 僵尸剧专区,https://huyazhibo.de5.net/?id=24314160
 抗战剧专区,https://huyazhibo.de5.net/?id=11602072
+台湾剧专区,https://huyazhibo.de5.net/?id=11342436
 韩国剧专区,https://huyazhibo.de5.net/?id=23863787
 美国剧专区,https://huyazhibo.de5.net/?id=20985825
 英国剧专区,https://huyazhibo.de5.net/?id=29982659
@@ -6834,6 +6783,7 @@ CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 端游/英雄联盟专场,https://huyazhibo.de5.net/?id=660000
 端游/无畏契约专场,https://huyazhibo.de5.net/?id=660679
 端游/云顶之弈专场,https://huyazhibo.de5.net/?id=24423598
+端游/穿越火线专场,https://huyazhibo.de5.net/?id=660101
 端游/炉石传说专场,https://huyazhibo.de5.net/?id=21103932
 端游/永劫无间专场,https://huyazhibo.de5.net/?id=660115
 端游/DOTA2专场,https://huyazhibo.de5.net/?id=476318
@@ -6880,45 +6830,33 @@ CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 火影忍者,https://huyazhibo.de5.net/?id=29465866
 海贼王,https://huyazhibo.de5.net/?id=29982634
 神奇宝贝,https://huyazhibo.de5.net/?id=21241784
-宫崎骏,https://huyazhibo.de5.net/?id=21059614
 钢之炼金术师,https://huyazhibo.de5.net/?id=20985859
-黑子的篮球,https://huyazhibo.de5.net/?id=30080253
 瑞克与莫蒂,https://huyazhibo.de5.net/?id=29982655
 成龙历险记,https://huyazhibo.de5.net/?id=11352946
 蜡笔小新,https://huyazhibo.de5.net/?id=11352970
-樱桃小丸子,https://huyazhibo.de5.net/?id=11342394
-猫和老鼠,https://huyazhibo.de5.net/?id=11352879
 七龙珠,https://huyazhibo.de5.net/?id=30273533
 迪迦奥特曼,https://huyazhibo.de5.net/?id=11601966
 赛文奥特曼,https://huyazhibo.de5.net/?id=11602065
-全职高手,https://huyazhibo.de5.net/?id=21059628
 哆啦A梦,https://huyazhibo.de5.net/?id=11601963
 海绵宝宝,https://huyazhibo.de5.net/?id=11352919
-魔法少女,https://huyazhibo.de5.net/?id=21059587
-全职猎人,https://huyazhibo.de5.net/?id=30080254
+四驱兄弟,https://huyazhibo.de5.net/?id=11352922
 网球王子,https://huyazhibo.de5.net/?id=11352882
 玩具总动员,https://huyazhibo.de5.net/?id=30080256
-通灵王,https://huyazhibo.de5.net/?id=20969112
 游戏王,https://huyazhibo.de5.net/?id=20985856
-男子高中生的日常,https://huyazhibo.de5.net/?id=20985858
 元气少女缘结神,https://huyazhibo.de5.net/?id=11352967
 全职法师,https://huyazhibo.de5.net/?id=26355772
 尸兄,https://huyazhibo.de5.net/?id=26355846
 大头儿子小头爸爸,https://huyazhibo.de5.net/?id=20969114
 哪吒传奇,https://huyazhibo.de5.net/?id=26355782
-龙族,https://huyazhibo.de5.net/?id=23865086
 间谍过家家,https://huyazhibo.de5.net/?id=30080149
 罗小黑战记,https://huyazhibo.de5.net/?id=24314159
-葫芦兄弟,https://huyazhibo.de5.net/?id=20985834
 咒术回战,https://huyazhibo.de5.net/?id=21059561
 反叛的鲁路修,https://huyazhibo.de5.net/?id=20969113
 超自然武装当哒当,https://huyazhibo.de5.net/?id=20985850
 新世纪福音战士,https://huyazhibo.de5.net/?id=20985862
-轻羽飞扬,https://huyazhibo.de5.net/?id=30805998
 虫师,https://huyazhibo.de5.net/?id=21241791
 魔神英雄传,https://huyazhibo.de5.net/?id=21241839
 中华小当家,https://huyazhibo.de5.net/?id=30613314
-一人之下,https://huyazhibo.de5.net/?id=31292911
 狮子王,https://huyazhibo.de5.net/?id=11601977
 夏目友人帐,https://huyazhibo.de5.net/?id=23865058
 厨神小当家,https://huyazhibo.de5.net/?id=24257300
@@ -6927,7 +6865,6 @@ CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 小排球,https://huyazhibo.de5.net/?id=20985802
 英雄联盟,https://huyazhibo.de5.net/?id=23903196
 🍿短剧直播,#genre#
-短剧无极限,https://huyazhibo.de5.net/?id=31001847
 陈翔六点半,https://huyazhibo.de5.net/?id=11274154
 人生回答机本机,http://live.nctv.top/douyu1.php?id=9409722
 郑云工作室,http://live.nctv.top/douyu1.php?id=2995636
@@ -6980,6 +6917,7 @@ S哥影视,https://huyazhibo.de5.net/?id=24720260
 👁️‍🗨️监控直播,#genre#
 澎湃景区,https://play-a2.quklive.com/live/1765245429980053.m3u8
 陆家嘴,https://tftp4ge3drmt1go5nhcju8yzdrptpptwzc3jpq731h45mqpssqmudp7so.100ycdn.com/live-ws.kksmg.com/live/sdi5/playlist.m3u8?wsSession=8a15d23fe661e20e47cce670-177203770982085&wsIPSercert=832abf7ce82ccc02b32b56b105f24835&wsBindIP=2&wsserid=1168187559701054860
+魔都眼,https://tftp0gaa1hcjagozdcmttgyan45djq311475uf3issh5pchzgg55p.100ycdn.com/live-ws.kksmg.com/live/sdi6/playlist.m3u8?wsSession=5b0157b25e26fa5fbe3ebedf-177204125960201&wsIPSercert=832abf7ce82ccc02b32b56b105f24835&wsBindIP=2&wsserid=1168218615997031039
 外滩观光平台,https://tftp1go3nhqbtfa3d1mtugessa4mscwszqh3qppizg5m8f3ts65e.100ycdn.com/live-ws.kksmg.com/live/sdi4/playlist.m3u8?wsSession=e18328672261b2e3fcadcc17-177204266364389&wsIPSercert=832abf7ce82ccc02b32b56b105f24835&wsBindIP=2&wsserid=1168276898037564649
 北外滩,https://tftp6graunmttghanhctofa3uymmcpf5gkmmzqczgs45upiu1ha5xpw.100ycdn.com/live-ws.kksmg.com/live/webcam1/playlist.m3u8?wsSession=3ccfdb4284eaea73bb7cab60-177204275008725&wsIPSercert=832abf7ce82ccc02b32b56b105f24835&wsBindIP=2&wsserid=1168218612390266553
 上海G1503东大道,https://rvsh.jtw.sh.gov.cn/live/200120a4-3d7c-4a7d-82dc-71fdfef3e045_sub/index.m3u8?t=1902119605&k=2c3e3086e3191872
@@ -6996,8 +6934,6 @@ S哥影视,https://huyazhibo.de5.net/?id=24720260
 五马渡,https://nklive1.nbs.cn/hls/019fe26e-5595-4330-a3be-df72d5e01e6b/index.m3u8
 石象路,https://yunlive.nbs.cn/live/mzb_sxl_1/playlist.m3u8
 鱼嘴,https://nklive2.nbs.cn/hls/509207c4-e2b1-43f0-b8f0-f04d0f584ed8/index.m3u8
-💖爱奇艺直播,#genre#
-一年一度喜剧大赛,https://alicoccdncmnet-hd.inter.71edge.com/tslive/l1/c51_lb_728_300_t10/S2SosBg_68g057-zBj7nmfrgs91iP37_pf6vxKx85ogguLIU3CU8SW_Y7H-1PHvyi99Ii2JFYijxYOei6iZner8QzyvFSNdDHH4HKjClgQKWGTbBdcHKOCHdsU3b1N-BrKiw3S7j3SCX6dyCTs7rcy64zcIPximAOEVgehMq3yBKfCmtJcbxGNJTLBalpWxFnS9TqEPfTjxnpz6YXBKxsqktgAuvSZh0YMwgtqXXpGW4Acf6eDoCMetaXupxvOjeXiYwJ8PWE2EHCz8E5RUSVIkgzqdr0H_UCDMLBgDOxh9Fx5wQklSuDVjds1N736MIdknpyHFEh4FV_aYUv-nsSA/1dd9185f7c7a34c902ab9b23bf6e849c8/c51_lb_728_300_t10.m3u8?key=0baa5db205ac0d2962788b935d5dc8a5c&dis_t=1752408293&random=1&rand_hash=0&uuid=6f1d53dc-6873a0e5-454&qdpv=3&qd_bid=1&qd_sft=0&pv=0.1&cpt=0
 🎨埋堆堆直播,#genre#
 楚汉骄雄,https://huyazhibo.de5.net/?id=29465854
 封神榜,https://huyazhibo.de5.net/?id=29465849
@@ -7122,11 +7058,11 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 农林卫视,http://8.138.7.223/%E3%80%90%E5%85%AC%E4%BC%97%E5%8F%B7%EF%BC%9A%E6%A6%B4%E8%8A%92%E7%94%B5%E8%A7%86%E3%80%91/%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86.m3u8
 🔯API随机点播,#genre#
 🔄美女短视频[刷新就是新内容],http://av.npcq.cn/api.php
+🔄DJ舞曲[刷新就是新内容],http://xjj1.716888.xyz/fenlei/djxjj/dj1.php
 🔄网络热曲[刷新就是新内容],https://188sp.711888.xyz/188/video.php
 🔄4K视频[刷新就是新内容],http://xjj1.716888.xyz/fenlei/4k/4k.php
 🔄不吃香菜[刷新就是新内容],http://xjj2.716888.xyz/fenlei/mvmn/mvmn.php
 🔄美女热舞2[刷新就是新内容],http://xjj2.716888.xyz/fenlei/zj/gengxin/gengxin.php
-🔄美女展示1[刷新就是新内容],http://xjj2.716888.xyz/fenlei/zj/jipinyz/jipinyz.php
 🔄美女展示2[刷新就是新内容],http://xjj2.716888.xyz/fenlei/zj/xuejie/xuejie.php
 🔄美女展示3[刷新就是新内容],http://xjj2.716888.xyz/fenlei/zj/kawayi/kawayi.php
 🔄美女展示4[刷新就是新内容],http://xjj2.716888.xyz/fenlei/zj/nennen/nennen.php
@@ -7218,4 +7154,4 @@ Tank精选15首(1小时),https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v02
 ☁️CloudFlare直播,#genre#
 cloudflare,https://cloudflare.tv/hls/live.m3u8
 
-# 更新时间:2026/11/24 08:41:24
+# 更新时间:2026/11/24 09:51:03
