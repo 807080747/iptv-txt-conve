@@ -33,8 +33,9 @@ jobs:
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git fetch origin main
-          git reset --hard origin/main
+          git pull origin main --no-edit
           git add live.txt
           git commit -m "Auto update iptv list" || echo "无内容无需提交"
           git push origin main
+
 
