@@ -1,10 +1,13 @@
 const fetch = require('node-fetch');
 const fs = require('fs');
-
 // =========在这里添加所有源，txt、m3u都支持=========
 const SOURCE_LIST = [
   {
     url: "https://seep.eu.org/https://xxyumenga04.807080747.workers.dev/"
+  },
+  
+  {
+    url: "https://seep.eu.org/https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/refs/heads/main/webview.txt"
   },
   {
     url: "https://seep.eu.org/https://raw.githubusercontent.com/lem85930/LiteTV/refs/heads/main/live.m3u"
@@ -29,11 +32,9 @@ function pushChannel(name, url, group, totalOutput, ungroupedChannels, groupDone
   if(!name || !url) return;
   const isAd = adKeywords.some(word => name.includes(word) || group.includes(word));
   if (isAd) return;
-
   name = name.trim();
   url = url.trim();
   group = group.trim() || "未分组";
-
   if (group === "未分组") {
     ungroupedChannels.push(`${name},${url}\n`);
   } else {
@@ -49,7 +50,6 @@ async function run() {
   let totalOutput = [];
   let ungroupedChannels = [];
   const groupDone = new Set();
-
   for (const source of SOURCE_LIST) {
     const sourceUrl = source.url;
     if(!sourceUrl){
@@ -80,7 +80,6 @@ async function run() {
       const lines = content.split(/\r?\n/);
       let nowGroup = "未分组";
       let channelName = "未知频道";
-
       for (const line of lines) {
         const rawLine = line.trim();
         if (!rawLine) continue;
@@ -95,14 +94,21 @@ async function run() {
           } else {
             channelName = "未知频道";
           }
+          // 修复：捕获同一行末尾webview链接，支持带?&参数完整url
+          const inlineUrlMatch = rawLine.match(/(webview?:\/+\S+)/);
+          if(inlineUrlMatch){
+            pushChannel(channelName, inlineUrlMatch[1].trim(), nowGroup, totalOutput, ungroupedChannels, groupDone);
+          }
           continue;
         }
+
         // TXT分组标记 xxx,#genre#
         if (rawLine.endsWith(",#genre#")) {
           nowGroup = rawLine.split(',')[0].trim();
           channelName = "未知频道";
           continue;
         }
+
         // TXT格式：频道名,url
         if (rawLine.includes(',') && !rawLine.startsWith("#")) {
           const parts = rawLine.split(',');
@@ -111,9 +117,13 @@ async function run() {
           pushChannel(cName, cUrl, nowGroup, totalOutput, ungroupedChannels, groupDone);
           continue;
         }
-        // ✅支持 http https webview:// 协议链接
-        if (/^(http|https|webview):\/\//.test(rawLine)) {
-          pushChannel(channelName, rawLine, nowGroup, totalOutput, ungroupedChannels, groupDone);
+
+        // ✅修复：去掉开头^锚点，兼容行前不可见特殊字符，提取完整链接
+        if (/(http|https|webview):\/+/.test(rawLine)) {
+          const urlMatch = rawLine.match(/((http|https|webview):\/+\S+)/);
+          if(urlMatch){
+            pushChannel(channelName, urlMatch[1].trim(), nowGroup, totalOutput, ungroupedChannels, groupDone);
+          }
         }
       }
     } catch (err) {
@@ -126,10 +136,8 @@ async function run() {
       continue;
     }
   }
-
   let finalText = totalOutput.join("");
   finalText += ungroupedChannels.join("");
-
   if(!finalText.trim()){
     console.warn("⚠️警告：没有获取到任何有效频道！");
     finalText = "";
@@ -137,7 +145,6 @@ async function run() {
   fs.writeFileSync("./live.txt", finalText, "utf8");
   console.log("\n✅全部源处理完成！输出 live.txt，总行数：",finalText.split('\n').length);
 }
-
 run().catch(e=>{
   console.error("脚本整体异常终止：",e);
   process.exit(1);
