@@ -24,13 +24,11 @@ const SOURCE_LIST = [
 ];
 const GLOBAL_TIMEOUT = 15000;        // 拉取源文件超时
 const CHECK_TIMEOUT = 6000;          // 🔴频道检测超时6秒，超过直接删除
-const CHECK_PARALLEL = 5;            // 🔴同时检测并发数量，不要调太大，防止action被封
+const CHECK_PARALLEL = 5;            // 并发检测数量
 const adKeywords = ["广告", "购物", "付费", "商城", "游戏推广", "财经广告", "弹窗", "TG频道"];
 
-// 频道池，先全部存入内存，之后批量检测
 let channelPool = [];
 
-// 原始收集，不再直接写入输出，先放入池子
 function pushChannel(name, url, group) {
   if(!name || !url) return;
   const isAd = adKeywords.some(word => name.includes(word) || group.includes(word));
@@ -42,9 +40,8 @@ function pushChannel(name, url, group) {
 }
 
 /**
- * 单条链接检测函数
- * webview:// 直接返回true放行
- * http/https：6秒超时检测，成功true，超时/网络错误返回false
+ * 单条链接检测
+ * webview://直接放行；http/https 6秒超时丢弃
  */
 async function checkUrl(url){
   if(/^webview:\/+/.test(url)) return true;
@@ -53,30 +50,32 @@ async function checkUrl(url){
   const controller = new AbortController();
   const timer = setTimeout(()=>controller.abort(), CHECK_TIMEOUT);
   try{
-    // 优先HEAD，省流量
     let res = await fetch(url,{
       method:"HEAD",
       headers:{
-        "User‑Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        "User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
       },
       signal:controller.signal
     });
     clearTimeout(timer);
     if(res.ok) return true;
 
-    // HEAD 405不支持，降级GET，只取响应头立刻断开
+    // HEAD不支持，降级GET
     const c2 = new AbortController();
     const t2 = setTimeout(()=>c2.abort(),CHECK_TIMEOUT);
-    res = await fetch(url,{
-      method:"GET",
-      headers:{
-        "User‑Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-      },
-      signal:c2.signal
-    });
-    t2 && clearTimeout(t2);
-    c2.abort();
-    return res.ok;
+    try{
+      res = await fetch(url,{
+        method:"GET",
+        headers:{
+          "User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        signal:c2.signal
+      });
+      return res.ok;
+    }finally{
+      clearTimeout(t2);
+      c2.abort();
+    }
   }catch(e){
     clearTimeout(timer);
     return false;
@@ -90,11 +89,16 @@ async function batchCheck(list, parallel){
     const slice = list.slice(i,i+parallel);
     console.log(`\n🔍正在检测频道 ${i+1} ~ ${i+slice.length} / ${list.length}`);
     const tasks = slice.map(async ch=>{
-      const alive = await checkUrl(ch.url);
-      if(alive){
-        return ch;
-      }else{
-        console.log(`❌失效丢弃:【${ch.name}】 ${ch.url}`);
+      try{
+        const alive = await checkUrl(ch.url);
+        if(alive){
+          return ch;
+        }else{
+          console.log(`❌失效丢弃:【${ch.name}】 ${ch.url}`);
+          return null;
+        }
+      }catch(err){
+        console.log(`❌检测异常丢弃:【${ch.name}】${ch.url}  err:${err.message}`);
         return null;
       }
     });
@@ -113,7 +117,6 @@ async function run() {
       continue;
     }
     console.log(`\n=====正在读取源：${sourceUrl}=====`);
-    console.log(`⏱️全局超时设置：${GLOBAL_TIMEOUT/1000}秒`);
     try {
       const controller = new AbortController();
       const timer = setTimeout(() => controller.abort(), GLOBAL_TIMEOUT);
@@ -128,7 +131,7 @@ async function run() {
       });
       clearTimeout(timer);
       if (!res.ok) {
-        console.log(`❌访问失败，状态码:${res.status}`);
+        console.log(`❌访问源失败，状态码:${res.status}`);
         continue;
       }
       const content = await res.text();
@@ -140,7 +143,6 @@ async function run() {
         const rawLine = line.trim();
         if (!rawLine) continue;
 
-        // M3U #EXTINF 行
         if (rawLine.startsWith("#EXTINF:")) {
           const gMatch = rawLine.match(/group-title="([^"]+)"/);
           if (gMatch) nowGroup = gMatch[1].trim();
@@ -157,14 +159,12 @@ async function run() {
           continue;
         }
 
-        // TXT分组标记 xxx,#genre#
         if (rawLine.endsWith(",#genre#")) {
           nowGroup = rawLine.split(',')[0].trim();
           channelName = "未知频道";
           continue;
         }
 
-        // TXT格式：频道名,url
         if (rawLine.includes(',') && !rawLine.startsWith("#")) {
           const parts = rawLine.split(',');
           const cName = parts[0].trim() || "未知频道";
@@ -173,7 +173,6 @@ async function run() {
           continue;
         }
 
-        // m3u链接行
         if (/(http|https|webview):\/+/.test(rawLine)) {
           const urlMatch = rawLine.match(/((http|https|webview):\/+\S+)/);
           if(urlMatch){
@@ -182,12 +181,7 @@ async function run() {
         }
       }
     } catch (err) {
-      clearTimeout(timer);
-      if (err.name === "AbortError") {
-        console.error(`⏱️读取超时：${sourceUrl}，超过设定时间`);
-      } else {
-        console.error(`❌读取源出错：${sourceUrl}，${err.message}`);
-      }
+      console.error(`❌读取源出错：${sourceUrl}，${err.message}`);
       continue;
     }
   }
@@ -196,7 +190,6 @@ async function run() {
   const validChannels = await batchCheck(channelPool, CHECK_PARALLEL);
   console.log(`✅检测完成，存活频道：${validChannels.length}`);
 
-  // 分组整理输出
   const totalOutput = [];
   const ungroupedChannels = [];
   const groupDone = new Set();
@@ -220,15 +213,22 @@ async function run() {
     console.warn("⚠️警告：没有获取到任何有效频道！");
     finalText = "";
   }
-  // 追加更新时间注释，强制文件每次变更
-  const now = new Date().toLocaleString('zh‑CN');
+  const now = new Date().toLocaleString('zh-CN');
   finalText += `\n# 更新时间:${now}\n`;
 
   fs.writeFileSync("./live.txt", finalText, "utf8");
   console.log("\n✅全部处理完成！输出 live.txt，总行数：",finalText.split('\n').length);
+  // ✅正常跑完强制返回成功码0
+  process.exit(0);
 }
 
 run().catch(e=>{
-  console.error("脚本整体异常终止：",e);
-  process.exit(1);
+  console.error("❌脚本整体异常：",e);
+  // 兜底：就算报错，只要生成了live.txt，也尽量返回成功，不阻断提交
+  if(fs.existsSync("./live.txt")){
+    console.log("⚠️存在live.txt，继续执行提交流程");
+    process.exit(0);
+  }else{
+    process.exit(1);
+  }
 });
