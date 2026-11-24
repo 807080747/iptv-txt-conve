@@ -24,10 +24,9 @@ const GLOBAL_TIMEOUT = 15000;
 // 广告关键词
 const adKeywords = ["广告", "购物", "付费", "商城", "游戏推广", "财经广告", "弹窗", "TG频道"];
 
-// 频道处理函数（过滤+分组归类）
+// 频道处理函数（过滤+分组归类，已移除http链接校验）
 function pushChannel(name, url, group, totalOutput, ungroupedChannels, groupDone) {
   if(!name || !url) return;
-  // 只过滤广告，【已移除http链接校验】
   const isAd = adKeywords.some(word => name.includes(word) || group.includes(word));
   if (isAd) return;
 
@@ -53,7 +52,6 @@ async function run() {
 
   for (const source of SOURCE_LIST) {
     const sourceUrl = source.url;
-    // 过滤空url
     if(!sourceUrl){
       console.log("跳过空源地址");
       continue;
@@ -113,8 +111,8 @@ async function run() {
           pushChannel(cName, cUrl, nowGroup, totalOutput, ungroupedChannels, groupDone);
           continue;
         }
-        // M3U 播放链接行，不再判断是否http
-        if (rawLine) {
+        // ✅支持 http https webview:// 协议链接
+        if (/^(http|https|webview):\/\//.test(rawLine)) {
           pushChannel(channelName, rawLine, nowGroup, totalOutput, ungroupedChannels, groupDone);
         }
       }
@@ -129,11 +127,9 @@ async function run() {
     }
   }
 
-  // 拼接全部文本
   let finalText = totalOutput.join("");
   finalText += ungroupedChannels.join("");
 
-  // 兜底：如果没有任何频道，不生成空文件
   if(!finalText.trim()){
     console.warn("⚠️警告：没有获取到任何有效频道！");
     finalText = "";
