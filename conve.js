@@ -4,7 +4,7 @@ const fs = require('fs');
 // =========配置区=========
 const SOURCE_LIST = [
   {
-    url: "http://88.is-great.org/8/i/%E5%9C%B0%E5%9C%B0%E6%96%B9%E5%8F%B0%E7%BB%84%E6%92%AD.txt"
+    url: "https://gh-proxy.org/https://raw.githubusercontent.com/807080747/zv/refs/heads/main/LiveTV_%E5%8F%AF%E6%92%AD%E6%94%BE.m3u"
   },
   {
     url: "https://cnb.cool/kingmax1688/iptv/-/git/raw/main/output/iptv.txt"
