@@ -19,7 +19,7 @@ const SOURCE_LIST = [
     url: ""
   },
   {
-    url: ""
+    url: "https://seep.eu.org/https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/refs/heads/main/webview.txt"
   }
 ];
 const GLOBAL_TIMEOUT = 15000;        // 拉取源文件超时
