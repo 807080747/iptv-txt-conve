@@ -7,7 +7,7 @@ const SOURCE_LIST = [
     url: "https://gh-proxy.org/https://raw.githubusercontent.com/807080747/zv/refs/heads/main/LiveTV_%E5%8F%AF%E6%92%AD%E6%94%BE.m3u"
   },
   {
-    url: "https://cnb.cool/kingmax1688/iptv/-/git/raw/main/output/iptv.txt"
+    url: ""
   },
   {
     url: "http://ke.html-5.me/i/58870.txt"
