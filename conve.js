@@ -4,7 +4,7 @@ const fs = require('fs');
 // =========配置区=========
 const SOURCE_LIST = [
   {
-    url: "https://cnb.cool/fingersc/iptv-sync/-/git/raw/main/user_result.txt"
+    url: "https://iptv-hub-q7m2.web.zaka.live/playlist.m3u"
   },
   {
     url: "https://seep.eu.org/https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/refs/heads/main/webview.txt"
