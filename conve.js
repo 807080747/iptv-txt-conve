@@ -10,7 +10,7 @@ const SOURCE_LIST = [
     url: "https://seep.eu.org/https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/refs/heads/main/webview.txt"
   },
   {
-    url: "https://gh-proxy.com/https://raw.githubusercontent.com/lem85930/LiteTV/refs/heads/main/live.m3u"
+    url: "http://ke.html-5.me/i/58870.txt"
   },
   {
     url: "https://gh-proxy.com/https://raw.githubusercontent.com/807080747/IPT/refs/heads/main/live.txt"
