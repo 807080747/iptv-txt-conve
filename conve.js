@@ -4,7 +4,7 @@ const fs = require('fs');
 // =========配置区=========
 const SOURCE_LIST = [
   {
-    url: "https://iptv-hub-q7m2.web.zaka.live/playlist.m3u"
+    url: "http://88.is-great.org/8/i/%E5%9C%B0%E5%9C%B0%E6%96%B9%E5%8F%B0%E7%BB%84%E6%92%AD.txt"
   },
   {
     url: "https://seep.eu.org/https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/refs/heads/main/webview.txt"
