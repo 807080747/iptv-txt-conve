@@ -7,19 +7,19 @@ const SOURCE_LIST = [
     url: "http://88.is-great.org/8/i/%E5%9C%B0%E5%9C%B0%E6%96%B9%E5%8F%B0%E7%BB%84%E6%92%AD.txt"
   },
   {
-    url: "https://seep.eu.org/https://raw.githubusercontent.com/buhanzhe/webSourceM3U8/refs/heads/main/webview.txt"
+    url: "https://cnb.cool/kingmax1688/iptv/-/git/raw/main/output/iptv.txt"
   },
   {
     url: "http://ke.html-5.me/i/58870.txt"
   },
   {
-    url: "https://gh-proxy.com/https://raw.githubusercontent.com/807080747/IPT/refs/heads/main/live.txt"
-  },
-  {
-    url: "https://cnb.cool/kingmax1688/iptv/-/git/raw/main/output/iptv.txt"
-  },
-  {
     url: "https://nb.xymm.de5.net/0ybmli/https://iptv.445569.xyz/live.m3u"
+  },
+  {
+    url: ""
+  },
+  {
+    url: ""
   }
 ];
 const GLOBAL_TIMEOUT = 15000;        // 拉取源文件超时
